@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "vip.365rwa/rwa-data",
+  "title": "365rwa RWA structured data (Chinese-language RWA intelligence)",
+  "description": "Chinese RWA data: verification, scorecards, issuances, licenses, market, regulatory via x402.",
+  "version": "1.0.0",
+  "websiteUrl": "https://365rwa.vip",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://365rwa.vip/mcp"
+    }
+  ]
+}
