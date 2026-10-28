@@ -1,0 +1,1943 @@
+﻿代码,名称,风险标识,市值USD,TVL,涨跌%,交易所,CoinGecko,分类
+FIGR_HELOC,Figure Heloc,verified,26269489062,,-1.72,,figure-heloc,credit
+LINK,Chainlink,listed,8837596309,,2.14,Binance/Coinbase/OKX/Bybit/Kraken/Gate/MEXC/Bitget,chainlink,infra
+XLM,Stellar,listed,5985632858,,1.34,Binance/Coinbase/OKX/Bybit/Kraken/Gate/MEXC/Bitget,stellar,infra
+XAUT,Tether Gold,verified,3281286631,,1.18,Binance/OKX/Bybit/Kraken/Gate/Bitget,tether-gold,commodity
+QNT,Quant,listed,2911639392,,-0.77,Binance/Coinbase/Bybit/Kraken/Gate/MEXC/Bitget,quant-network,infra
+USYC,Circle USYC,verified,2375824291,,0.01,,hashnote-usyc,treasury
+USDY,Ondo US Dollar Yield,verified,2375400178,,0,Bybit/Gate,ondo-us-dollar-yield,other
+BUIDL,BlackRock USD Institutional Digital Liquidity Fund,verified,2199623954,,0,,blackrock-usd-institutional-digital-liquidity-fund,treasury
+ONDO,Ondo,verified,2041053832,,1.94,Binance/Coinbase/OKX/Bybit/Kraken/Gate/MEXC/Bitget,ondo-finance,other
+PAXG,PAX Gold,verified,1812819653,,1.13,Binance/Coinbase/OKX/Kraken/Gate/Bitget,pax-gold,commodity
+EURSAFO,Spiko Amundi Overnight Swap Fund (EUR),unverified,1800632022,,-0.4,,spiko-amundi-overnight-swap-fund-eur,fund
+ALGO,Algorand,listed,936656528,,-0.87,Binance/Coinbase/OKX/Bybit/Kraken/Gate/MEXC/Bitget,algorand,infra
+INJ,Injective,listed,791802678,,-0.66,Binance/Coinbase/OKX/Bybit/Kraken/Gate/MEXC/Bitget,injective-protocol,infra
+USTB,Invesco Short Duration US Government Securities Fund,verified,717214874,,0.03,,superstate-short-duration-us-government-securities-fund-ustb,treasury
+XDC,XDC Network,listed,673056787,,0.45,Bybit/Kraken/Gate/MEXC/Bitget,xdce-crowd-sale,infra
+JAAA,Janus Henderson Anemoy AAA CLO Fund,unverified,568334936,,0.01,,janus-henderson-anemoy-aaa-clo-fund,credit
+EUTBL,Spiko EU T-Bills Money Market Fund,unverified,507028300,,-0.4,,eutbl,treasury
+YLDS,YLDS,unverified,485473100,,0.06,,ylds,other
+HASH,Provenance Blockchain,unverified,440611322,,-0.34,,hash-2,infra
+KAU,Kinesis Gold,unverified,358151534,,1.56,,kinesis-gold,commodity
+OUSG,Ondo Short-Term U.S. Government Bond Fund,verified,320400112,,0.01,,ousg,treasury
+JTRSY,Janus Henderson Anemoy Treasury Fund,unverified,277871057,,0.01,,janus-henderson-anemoy-treasury-fund,treasury
+CARDS,Collector Crypt,listed,277119343,,2.84,OKX/Gate/MEXC,collector-crypt,other
+SAFO,Spiko Amundi Overnight Swap Fund,unverified,237389472,,0.01,,safo,fund
+PC0000031,Tradable NA Rent Financing Platform SSTN,unverified,227500000,,0,,tradable-na-rent-financing-platform-sstn,credit
+ZBCN,Zebec Network,listed,207026527,,-1.28,OKX/Kraken/Gate/MEXC/Bitget,zebec-network,other
+SYRUP,Maple Finance,verified,204716107,,0.43,Binance/Coinbase/Kraken/Gate/MEXC/Bitget,syrup,credit
+KAG,Kinesis Silver,listed,201477483,,6.25,MEXC,kinesis-silver,commodity
+USAT,USAT,listed,182038671,,0.02,OKX/Bybit/Kraken/Gate/MEXC/Bitget,usa,other
+SPCXB,SpaceX (bStocks Tokenized Stock),listed,170815122,,0.95,Binance,spacex-bstocks-tokenized-stock,stock
+USTBL,Spiko US T-Bills Money Market Fund,unverified,168222760,,0.01,,spiko-us-t-bills-money-market-fund,treasury
+TRAC,OriginTrail,listed,163965019,,2.06,Coinbase/Kraken/Gate/MEXC,origintrail,infra
+PC0000033,Tradable APAC Diversified Finance Provider SSTN,unverified,162500000,,0,,tradable-apac-diversified-finance-provider-sstn,credit
+CRCLB,Circle Internet Group (bStocks Tokenized Stock),listed,158296585,,1.57,Binance,circle-internet-group-bstock,stock
+STRCX,Strategy PP Variable xStock,unverified,151471458,,-2.02,,strategy-pp-variable-xstock,stock
+PC0000097,Tradable LatAm Fintech SSTN,unverified,134000000,,0,,tradable-latam-fintech-sstn,credit
+MSTRX,MicroStrategy xStock,listed,122641113,,0.73,Gate,microstrategy-xstock,stock
+ONYC,OnRe Tokenized Reinsurance,unverified,119086947,,0.04,,onyc,other
+THBILL,Theo Short Duration US Treasury Fund,unverified,117908423,,0.25,,theo-short-duration-us-treasury-fund,treasury
+NOPAL,Nest BlackOpal LiquidStone II Vault,unverified,117708547,,0.03,,nest-blackopal-liquidstone-ii-vault,other
+PC0000023,Tradable Singapore Fintech SSL,unverified,114500000,,0,,tradable-singapore-fintech-ssl-2,credit
+ALFW,Alpha Bulgaria Warrants,unverified,114330001,,0,,alpha-bulgaria-warrants,other
+PC0000085,Tradable LatAm Middle-Market Lender SSTL,unverified,111874199,,0,,tradable-latam-middle-market-lender-sstl,credit
+XAUT0,Tether Gold Tokens,unverified,111074558,,1.18,,tether-gold-tokens,commodity
+CRCLX,Circle xStock,listed,109181859,,1.44,Bybit/Gate/MEXC,circle-xstock,stock
+PLUME,Plume,listed,108645043,,0.54,Binance/Coinbase/Bybit/Kraken/Gate/MEXC/Bitget,plume,other
+PC0000015,Tradable NA Third Party Online Merchant SSTN,unverified,105971760,,0,,tradable-na-third-party-online-merchant-sstn,credit
+STAC,Securitize Tokenized AAA CLO Fund,unverified,104485233,,0.02,,securitize-tokenized-aaa-clo-fund,credit
+RSR,Reserve Rights,listed,99898713,,0.34,Binance/Coinbase/OKX/Kraken/Gate/MEXC/Bitget,reserve-rights-token,other
+VEREM,Verified Emeralds,listed,99804204,,40.87,MEXC,verified-emeralds,commodity
+SNDKB,SanDisk (bStocks Tokenized Stock),listed,97783543,,2.92,Binance,sandisk-bstocks-tokenized-stock,stock
+ACRED,Apollo Diversified Credit Securitize Fund,verified,95131213,,0.03,,apollo-diversified-credit-securitize-fund,credit
+CRCLON,Circle Internet Group (Ondo Tokenized Stock),listed,93447098,,1.53,Gate/MEXC,circle-internet-group-ondo-tokenized-stock,stock
+RED,RedStone,listed,86447916,,6.29,Binance/Coinbase/Bybit/Kraken/Gate/MEXC/Bitget,redstone-oracles,other
+SOXLB,Semicon Bull 3X ETF (bStocks Tokenized ETF),listed,85759453,,8.44,Binance,semicon-bull-3x-etf-bstocks-tokenized-stock,stock
+GGBR,Goldfish Gold,listed,82678716,,1.23,MEXC,goldfish-gold,commodity
+PC0000019,Tradable North America PoS Lender SSTN,unverified,80000000,,0,,tradable-north-america-pos-lender-sstn,credit
+PGOLD,Pleasing Gold,unverified,78584882,,0,,pleasing-gold,commodity
+PC0000101,Tradable NA Post-Settlement Legal Financing Receivables,unverified,76722081,,0,,na-post-settlement-legal-financing-receivables,credit
+TSLAX,Tesla xStock,listed,75498889,,3.85,Bybit/Gate/MEXC,tesla-xstock,stock
+MTBILL,Midas mTBILL,unverified,75400418,,0.01,,midas-mtbill,treasury
+PC0000049,Tradable Eu/LatAm PoS Financing SSTL,unverified,71300000,,0,,tradable-eu-latam-pos-financing-sstl,credit
+DUSK,DUSK,listed,71198766,,8,Binance/Gate/MEXC,dusk-network,other
+SPCXX,SpaceX xStock,listed,70738487,,0.91,Bybit/Gate/MEXC,spacex-xstocks,stock
+XAUM,Matrixdock Gold,unverified,70489629,,1.24,,matrixdock-gold,commodity
+MUB,Micron Technology (bStocks Tokenized Stock),listed,69358217,,2.32,Binance,micron-technology-bstock,stock
+USDON,Ondo U.S. Dollar Token,unverified,69088644,,0,,ondo-u-s-dollar-token,other
+SPYX,SP500 xStock,listed,68708263,,0.58,Gate/MEXC,sp500-xstock,stock
+VELO,Velo,listed,65061499,,-0.53,Coinbase/OKX/Bybit/Kraken/Gate/MEXC/Bitget,velo,other
+PMUSD,Precious Metals USD,unverified,60926398,,0.52,,precious-metals-usd,other
+IVVON,iShares Core S&P 500 ETF (Ondo Tokenized ETF),unverified,60891025,,0.6,,ishares-core-s-p-500-etf-ondo-tokenized-etf,fund
+PC0000027,Tradable LatAm BNPL SSTN,unverified,60300000,,0,,tradable-latam-bnpl-sstn,credit
+RE,RE,listed,60231583,,2.22,Binance/Coinbase/OKX/Kraken/Gate/MEXC/Bitget,re,other
+PC0000081,Tradable NA Legal Receivables SSL,unverified,59103448,,0,,tradable-na-legal-receivables-ssl,credit
+INTCB,Intel (bStocks Tokenized Stock),listed,58790081,,2.9,Binance,intel-tokenized-bstocks,stock
+PC0016245,NA Capital-as-a-Service SSTN,unverified,58600000,,0,,na-capital-as-a-service-sstn,other
+GBPSAFO,Spiko Amundi Overnight Swap Fund (GBP),unverified,56433479,,-0.26,,spiko-amundi-overnight-swap-fund-gbp,fund
+STUSDT,stUSDT Staked USDT,unverified,55866512,,-0.46,,staked-usdt,other
+CTC,Creditcoin,listed,55214451,,7.91,OKX/Bybit/Kraken/Gate/MEXC/Bitget,creditcoin-2,credit
+STRCON,Strategy Stretch Preferred (Ondo Tokenized),listed,54498219,,0.29,MEXC,strategy-stretch-preferred-ondo-tokenized,other
+MSTRB,Strategy (bStocks Tokenized Stock),listed,51520583,,1.03,Binance,strategy-tokenized-bstocks,stock
+ACRDX,Anemoy Tokenized Apollo Diversified Credit Fund,unverified,50858820,,0.06,,anemoy-tokenized-apollo-diversified-credit-fund,credit
+BRSRV,BlackRock Daily Reinvestment Stablecoin Reserve Vehicle,unverified,50422994,,0,,blackrock-daily-reinvestment-stablecoin-reserve-vehicle,other
+VBILL,VanEck Treasury Fund,unverified,49338870,,0,,vaneck-treasury-fund,treasury
+SHARE,ShareX,listed,49245630,,0.75,MEXC,sharex-2,other
+RNT,Rnt,unverified,49232558,,0.82,,reental,other
+NVDAX,NVIDIA xStock,listed,48291647,,0.54,Bybit/Gate/MEXC,nvidia-xstock,stock
+FIUSD,Sygnum FIUSD Liquidity Fund,unverified,48285257,,0.01,,sygnum-fiusd-liquidity-fund,fund
+QQQX,Nasdaq xStock,listed,48023192,,1.11,Gate,nasdaq-xstock,stock
+NVDAB,NVIDIA (bStocks Tokenized Stock),listed,47471370,,0.74,Binance,nvidia-bstocks,stock
+SPYON,SPDR S&P 500 ETF (Ondo Tokenized ETF),listed,47306158,,0.63,Gate/MEXC,spdr-s-p-500-etf-ondo-tokenized-etf,fund
+GOOGLB,Alphabet (bStocks Tokenized Stock),listed,47265922,,1.34,Binance,alphabet-bstocks-tokenized-stock,stock
+LCX,LCX,listed,44597134,,-1.39,Coinbase/Kraken,lcx,other
+POLYX,Polymesh,listed,44306812,,-0.91,Binance/Gate/MEXC/Bitget,polymesh,other
+CFG,Centrifuge,verified,42431309,,9.94,Binance/Coinbase/OKX/Bybit/Kraken/Gate/MEXC,centrifuge-2,credit
+SECZ,Securitize,unverified,39873783,,7.44,,securitize-corp,other
+KTA,Keeta,listed,39733123,,-2.62,Coinbase/Kraken/MEXC,keeta,other
+BNCB,CEA Industries (bStocks Tokenized Stock),listed,39004408,,6,Binance,cea-industries-bstocks-tokenized-stock,stock
+GOOGLX,Alphabet xStock,listed,38608699,,1.3,Bybit/Gate/MEXC,alphabet-xstock,stock
+PC0000089,Tradable LatAm Residential SSTL,unverified,37000012,,0,,latam-residential-sstl,credit
+CSPR,Casper Network,listed,36287292,,-0.37,OKX/Bybit/Kraken/Gate/MEXC,casper-network,other
+MUON,Micron Technology (Ondo Tokenized Stock),listed,35322650,,2.15,MEXC,micron-technology-ondo-tokenized-stock,stock
+EMRL.D,Emerald Security Token,unverified,34840082,,0,,emerald-security-token,other
+NVDAON,NVIDIA (Ondo Tokenized Stock),listed,34602339,,0.55,Gate/MEXC,nvidia-ondo-tokenized-stock,stock
+QQQON,Invesco QQQ ETF (Ondo Tokenized ETF),listed,34350457,,1.21,Gate/MEXC,invesco-qqq-etf-ondo-tokenized-etf,fund
+USTBL,USTBL,unverified,32210117,,0.03,,ustbl-tokenized-u-s-treasury-bill,other
+ASSET,REAL,listed,31708602,,-4.04,Kraken/MEXC,asset,other
+PRO,Propy,listed,31618219,,-2.89,Coinbase/Kraken/Gate/MEXC,propy,other
+EURSPKCC,Spiko Digital Assets Cash & Carry Fund - Euro Share Class,unverified,30803085,,-0.39,,spiko-digital-assets-cash-carry-fund-euro-share-class,fund
+SKHYB,SK Hynix (bStocks Tokenized Stock),listed,30223898,,2.02,Binance,sk-hynix-bstocks-tokenized-stock,stock
+HIMSON,Hims & Hers Health (Ondo Tokenized Stock),listed,29662098,,1.35,MEXC,hims-hers-health-ondo-tokenized-stock,stock
+CPOOL,Clearpool,listed,28606640,,2.72,Bybit/Kraken/Gate/MEXC/Bitget,clearpool,other
+BCSPX,Backed CSPX Core S&P 500,unverified,28209647,,-0.11,,backed-cspx-core-s-p-500,other
+STRX,StrikeX,unverified,26632161,,5.15,,strikecoin,other
+OTFY,Obligate Trade Finance Yield,unverified,26356705,,0.06,,obligate-trade-finance-yield,other
+FDIT,Fidelity Digital Interest Token,unverified,25609136,,0,,fidelity-digital-interest-token,other
+FILQ-A,Fidelity USD Digital Liquidity Fund-Acc,unverified,25573029,,0.01,,fidelity-usd-digital-liquidity-fund-acc,fund
+TSLAB,Tesla (bStocks Tokenized Stock),listed,25436594,,3.93,Binance,tesla-bstocks-tokenized-stock,stock
+PREOPAI,OpenAI (Republic Pre-IPO),listed,24999471,,5.22,Bitget,openai-republic-pre-ipo,stock
+MANTRA,MANTRA,listed,24903858,,0.46,Binance/Bybit/Kraken/Gate/MEXC/Bitget,mantra,other
+TSLAON,Tesla (Ondo Tokenized Stock),listed,24864315,,3.96,Gate/MEXC,tesla-ondo-tokenized-stock,stock
+EDEN,OpenEden,listed,24182403,,-1.98,Binance/Gate/MEXC/Bitget,openeden,other
+RVN,Ravencoin,listed,23849419,,5.73,Binance/OKX/Bybit/Gate/MEXC,ravencoin,other
+SLVON,iShares Silver Trust (Ondo Tokenized Stock),listed,23046814,,1.12,Gate/MEXC,ishares-silver-trust-ondo-tokenized-stock,stock
+MSTRON,MicroStrategy (Ondo Tokenized Stock),listed,22928673,,0.85,Gate/MEXC,microstrategy-ondo-tokenized-stock,stock
+EWT,Energy Web Token,listed,22668398,,-3.37,Kraken/MEXC,energy-web-token,other
+SPYB,SPY (bStocks Tokenized Stock),listed,22267126,,0.65,Binance,spy-bstocks-tokenized-stock,stock
+SNDKX,Sandisk Corporation xStock,unverified,21516984,,2.46,,sandisk-corporation-xstock,stock
+DRAMB,Roundhill Memory ETF (bStocks Tokenized ETF),listed,21111226,,3.98,Binance,roundhill-memory-etf-bstocks-tokenized-stock,stock
+USUAL,Usual,listed,21110546,,0.01,Binance/Kraken/Gate/MEXC/Bitget,usual,other
+LUMIA,Lumia,listed,20763727,,7.47,Binance/Gate/MEXC,lumia,other
+GOOGLON,Alphabet Class A (Ondo Tokenized Stock),listed,20695208,,1.53,Gate/MEXC,alphabet-class-a-ondo-tokenized-stock,stock
+SPY,SPDR S&P 500 ETF Trust • Robinhood Token,unverified,20618882,,0.58,,spdr-s-p-500-etf-trust-robinhood-tokenized-stock,stock
+UMINT,UBS USD Money Market Investment Fund Token,unverified,20379562,,0,,ubs_umint_eth,treasury
+TLTON,iShares 20+ Year Treasury Bond ETF (Ondo Tokenized ETF),listed,19499445,,-0.19,Gate,ishares-20-year-treasury-bond-etf-ondo-tokenized-etf,treasury
+COINB,Coinbase (bStocks Tokenized Stock),listed,19459982,,-0.56,Binance,coinbase-bstocks-tokenized-stock,stock
+RYZE,Ryze,unverified,19052373,,0,,ryze,other
+KORUB,South Korea Bull 3X ETF (bStocks Tokenized ETF),listed,19029192,,7.75,Binance,south-korea-bull-3x-etf-bstocks-tokenized-stock,stock
+BIB01,Backed IB01 $ Treasury Bond 0-1yr,verified,18960097,,0,,backed-ib01-treasury-bond-0-1yr,treasury
+AVGOB,Broadcom (bStocks Tokenized Stock),listed,18941777,,2.56,Binance,broadcom-bstocks-tokenized-stock,stock
+NVDA,NVIDIA • Robinhood Token,unverified,18541412,,0.55,,nvidia-robinhood-tokenized-stock,other
+HINC,Neuberger Securitize High Income Tokenized Fund,unverified,18469064,,0.51,,neuberger-securitize-high-income-tokenized-fund,credit
+TX,tx,listed,17984383,,8.17,Kraken/Gate/MEXC,tx,other
+PMT,Public Masterpiece Token,listed,17920438,,0.34,MEXC,public-meme-token,other
+CHR,Chromia,listed,17239852,,6.05,Binance/Kraken/Gate/MEXC/Bitget,chromaway,other
+MEY,Mey Network,listed,17046766,,4.39,MEXC,mey-network,other
+AID,GAIB AID,unverified,16959939,,0,,gaib-aid,other
+DIA,DIA,listed,16912191,,-1.04,Binance/Coinbase/Gate,dia-data,other
+OPAIPON,OpenAI (Ondo Private Market Note),unverified,16870615,,0.42,,openai-ondo-private-market-note,bond
+IEFAON,iShares Core MSCI EAFE ETF (Ondo Tokenized ETF),listed,16698800,,0.54,Gate/MEXC,ishares-core-msci-eafe-etf-ondo-tokenized-etf,fund
+KAIO,KAIO,listed,16543372,,-2.81,Coinbase/Gate/MEXC/Bitget,kaio,other
+MUUB,Direxion MU Bull 2X ETF (bStocks Tokenized ETF),listed,15780115,,4.38,Binance,direxion-mu-bull-2x-etf-bstocks-tokenized-stock,stock
+RIO,Realio Network Token,listed,15696804,,4.98,MEXC,realio-network,other
+TQQQB,ProShares UltraPro QQQ (bStocks Tokenized Stock),listed,15655733,,3.73,Binance,proshares-ultrapro-qqq-bstocks-tokenized-stock,stock
+NBISB,Nebius (bStocks Tokenized Stock),listed,15622552,,10.63,Binance,nebius-bstocks-tokenized-stock,stock
+RSPCX,SpaceX Tokenized Stock (Reality),listed,15601456,,1.02,Bitget,spacex-reality-protocol,stock
+INTCON,Intel (Ondo Tokenized Stock),listed,15144459,,3.2,MEXC,intel-ondo-tokenized-stock,stock
+INTCX,Intel xStock,unverified,14536559,,2.52,,intel-xstock,stock
+USDO,OpenEden OpenDollar,unverified,14477237,,0,,openeden-open-dollar,other
+COLLECT,Collect on Fanable,listed,14234456,,20.69,MEXC/Bitget,collect-on-fanable,other
+AGGON,iShares Core US Aggregate Bond ETF (Ondo Tokenized ETF),listed,14222885,,-1.9,Gate,ishares-core-us-aggregate-bond-etf-ondo-tokenized-etf,bond
+MRVLON,Marvell Technology (Ondo Tokenized Stock),listed,14210090,,3.68,MEXC,marvell-technology-ondo-tokenized-stock,stock
+PRESPCX,SpaceX (Republic Pre-IPO),listed,14058375,,0.82,Bitget,spacex-republic-pre-ipo,stock
+KERNEL,KernelDAO,listed,13813898,,0.72,Binance/Coinbase/Kraken/Gate/MEXC/Bitget,kernel-2,other
+STBL,STBL,listed,13812188,,0.37,Kraken/Gate/MEXC,stbl,other
+AMDB,Advanced Micro Devices (bStocks Tokenized Stock),listed,13540827,,5.67,Binance,advanced-micro-devices-bstocks-tokenized-stock,stock
+RCRCL,Circle Internet Group Tokenized Stock (Reality),listed,13433426,,1.45,Bitget,circle-rstock-2,stock
+RSNDK,SanDisk Tokenized Stock (Reality),listed,13339796,,2.95,Bitget,sandisk-rstock,stock
+SPCX,SpaceX • Robinhood Token,listed,13048047,,0.9,Gate,spacex-robinhood-tokenized-stock,other
+COINX,Coinbase xStock,listed,12867896,,-0.57,Bybit/Gate/MEXC,coinbase-xstock,stock
+SPCXON,SpaceX (Ondo Tokenized Stock),listed,12845656,,0.95,Gate/MEXC,spacex-ondo-tokenized-stock,stock
+ITOTON,iShares Core S&P Total US Stock Market ETF (Ondo Tokenized ETF),unverified,12688388,,0.47,,ishares-core-s-p-total-us-stock-market-etf-ondo-tokenized-etf,stock
+UKTBL,Spiko UK T-Bills Money Market Fund,unverified,12562844,,-0.26,,spiko-uk-t-bills-money-market-fund,treasury
+GLDY,Streamex GLDY,unverified,12491727,,1.05,,streamex-gldy,commodity
+SOFION,SoFi Technologies (Ondo Tokenized Stock),listed,12452200,,14.05,MEXC,sofi-technologies-ondo-tokenized-stock,stock
+CHFSAFO,Spiko Amundi Overnight Swap Fund (CHF),unverified,12403063,,-0.2,,spiko-amundi-overnight-swap-fund-chf,fund
+NALPHA,Nest Alpha Vault,unverified,12391025,,0.03,,nest-alpha-vault,other
+AAPLX,Apple xStock,listed,12315919,,1.11,Bybit/Gate/MEXC,apple-xstock,stock
+METAON,Meta Platforms (Ondo Tokenized Stock),listed,12220014,,-1.9,Gate/MEXC,meta-platforms-ondo-tokenized-stock,stock
+CUSDO,Compounding OpenDollar,unverified,12092413,,0.02,,compounding-open-dollar,other
+CHEX,Chintai,listed,11837581,,0.06,Kraken/Gate/MEXC,chex-token,other
+SAID,GAIB sAID,unverified,11714266,,0,,gaib-said,other
+CURR,CURRENC Group Inc.,unverified,11700605,,9.25,,currenc-group-inc,other
+MAG7XON,Ondo Magnificent 7 and Crypto Portfolio,listed,11618535,,1.03,Gate,ondo-magnificent-7-and-crypto-portfolio,other
+BLKGRWON,Ondo High Growth Powered by BlackRock,listed,11428993,,0.99,Gate,ondo-high-growth-powered-by-blackrock,other
+PDDON,PDD Holdings (Ondo Tokenized),listed,11419906,,-0.04,MEXC,pdd-holdings-ondo-tokenized,other
+GLDX,Gold xStock,listed,11276047,,1.23,Gate,gold-xstock,stock
+LINGO,Lingo,listed,11163757,,-6.03,Gate/MEXC,lingo,other
+DEJTRSY,JTRSY deRWA,unverified,11125653,,0.01,,jtrsy-derwa,treasury
+TIPON,iShares TIPS Bond ETF (Ondo Tokenized ETF),unverified,11093594,,-0.05,,ishares-tips-bond-etf-ondo-tokenized-etf,bond
+EFAON,iShares MSCI EAFE ETF (Ondo Tokenized ETF),unverified,11022333,,-0.4,,ishares-msci-eafe-etf-ondo-tokenized-etf,fund
+SPCX,SpaceX (Backpack Securities),listed,10902595,,0.78,Gate,spacex-backpack-securities,other
+PC0000111,Tradable LatAm Charge Card SSN,unverified,10750000,,0,,tradable-latam-charge-card-ssn,credit
+EWYB,iShares MSCI South Korea ETF (bStocks Tokenized ETF),listed,10718918,,2.74,Binance,ishares-msci-south-korea-etf-bstocks-tokenized-stock,stock
+DOVU,DOVU,listed,10635065,,4.63,Kraken,dovu-2,other
+SKHYX,SK Hynix xStock,unverified,10570048,,1.57,,sk-hynix-xstock,stock
+EL,ELYSIA,listed,10354873,,1.38,Gate/MEXC,elysia,other
+OGY,ORIGYN,listed,10244959,,1.35,MEXC,origyn-foundation,other
+CRCL,Circle Internet Group • Robinhood Token,unverified,10197524,,1.02,,circle-internet-group-robinhood-tokenized-stock,other
+BMNRB,BitMine Immersion Technologies (bStocks Tokenized Stock),listed,10180469,,2.92,Binance,bitmine-immersion-technologies-bstocks-tokenized-stock,stock
+RMSTR,Strategy Tokenized Stock (Reality),listed,10164251,,1.05,Bitget,microstrategy-rstock,stock
+AAPLON,Apple (Ondo Tokenized Stock),listed,10149585,,0.99,Gate/MEXC,apple-ondo-tokenized-stock,stock
+METAX,Meta xStock,listed,9970762,,-1.99,Bybit/Gate/MEXC,meta-xstock,stock
+SOIL,Soil,listed,9963562,,1.64,Gate/MEXC,soil,other
+RKLBB,Rocket Lab (bStocks Tokenized Stock),listed,9877194,,8.6,Binance,rocket-lab-bstocks-tokenized-stock,stock
+DGLD,Digital Gold,unverified,9763641,,0.68,,gold-token-sa-dgld-tokenized-gold,commodity
+TSMB,TSMC (bStocks Tokenized Stock),listed,9721729,,2.59,Binance,tsmc-bstocks-tokenized-stock,stock
+SGOVON,iShares 0-3 Month Treasury Bond ETF (Ondo Tokenized ETF),unverified,9667771,,0.5,,ishares-0-3-month-treasury-bond-etf-ondo-tokenized-etf,treasury
+BC3M,Backed GOVIES 0-6 months EURO,unverified,9610725,,-0.41,,backed-govies-0-6-months-euro,other
+DEJAAA,DeFi Janus Henderson Anemoy AAA CLO Fund,unverified,9548013,,0.01,,defi-janus-henderson-anemoy-aaa-clo-fund,credit
+AMZNX,Amazon xStock,listed,9413458,,1.65,Bybit/Gate/MEXC,amazon-xstock,stock
+COHRB,Coherent (bStocks Tokenized Stock),listed,9386301,,4.98,Binance,coherent-bstocks-tokenized-stock,stock
+IEMGON,iShares Core MSCI Emerging Markets ETF (Ondo Tokenized ETF),unverified,9370840,,1.44,,ishares-core-msci-emerging-markets-etf-ondo-tokenized-etf,fund
+IWFON,iShares Russell 1000 Growth ETF (Ondo Tokenized ETF),unverified,9318563,,1.07,,ishares-russell-1000-growth-etf-ondo-tokenized-etf,fund
+MSFTON,Microsoft (Ondo Tokenized Stock),listed,9258486,,0.06,Gate/MEXC,microsoft-ondo-tokenized-stock,stock
+BKN,Brickken,unverified,9252347,,-1.46,,brickken,commodity
+AMATB,Applied Materials (bStocks Tokenized Stock),listed,9109364,,1.97,Binance,applied-materials-bstocks-tokenized-stock,stock
+HOODX,Robinhood xStock,listed,9062404,,-6.03,Bybit/Gate/MEXC,robinhood-xstock,stock
+AMDON,AMD (Ondo Tokenized Stock),listed,9049894,,5.38,Gate/MEXC,amd-ondo-tokenized-stock,stock
+XU3O8,Uranium,listed,9032076,,0.74,Kraken/Gate/MEXC,uranium,commodity
+RIZE,RIZE,listed,8960540,,0.97,Kraken/MEXC,rize,other
+SNXXB,Tradr 2X Long SNDK ETF (bStocks Tokenized ETF),listed,8813539,,5.35,Binance,tradr-2x-long-sndk-etf-bstocks-tokenized-stock,stock
+BABAB,Alibaba (bStocks Tokenized Stock),listed,8803611,,0.08,Binance,alibaba-bstocks-tokenized-stock,stock
+MRVLB,Marvell Technology (bStocks Tokenized Stock),listed,8779718,,3.69,Binance,marvell-technology-bstocks-tokenized-stock,stock
+AAOIB,Applied Optoelectronics (bStocks Tokenized Stock),listed,8009793,,6.15,Binance,applied-optoelectronics-bstocks-tokenized-stock,stock
+MSFTX,Microsoft xStock,unverified,7804657,,0.02,,microsoft-xstock,stock
+RMSTU,T-Rex 2X Long MSTR Daily Target ETF Tokenized Stock (Reality),listed,7714460,,1.68,Bitget,t-rex-2x-long-mstr-daily-target-etf-rstock,stock
+ANTHROPIC,Anthropic PreStocks,unverified,7695961,,1.81,,anthropic-prestocks-2,stock
+GLD,SPDR Gold Shares • Robinhood Token,unverified,7671195,,1.3,,spdr-gold-shares-robinhood-token,commodity
+COINON,Coinbase (Ondo Tokenized Stock),listed,7649498,,-0.49,Gate/MEXC,coinbase-ondo-tokenized-stock,stock
+AMZNON,Amazon (Ondo Tokenized Stock),listed,7627834,,1.59,Gate/MEXC,amazon-ondo-tokenized-stock,stock
+TOKEN,TokenFi,listed,7545338,,-0.02,Kraken/Gate/MEXC,tokenfi,other
+AVGOX,Broadcom xStock,listed,7485127,,2.71,Gate,broadcom-xstock,stock
+BCOIN,Backed Coinbase Global,unverified,7378166,,-2,,backed-coinbase-global,other
+IXS,IXS,listed,7375513,,-46.75,MEXC,ix-swap,other
+GOOGLC,Alphabet (Coinbase Tokenized Stock),unverified,7313426,,1.4,,alphabet-coinbase-tokenized-stock,stock
+INC,WorldAssets,listed,7267444,,0.15,Gate,world-assets,other
+RMU,Micron Technology Tokenized Stock (Reality),listed,7128659,,2.4,Bitget,micron-technology-rstock,stock
+EEMON,iShares MSCI Emerging Markets ETF (Ondo Tokenized ETF),unverified,7046395,,1.01,,ishares-msci-emerging-markets-etf-ondo-tokenized-etf,fund
+DAKS,Draggable Aktionariat AG,unverified,7006554,,0,,draggable-aktionariat-ag,other
+MU,Micron Technology (Backpack Securities),unverified,6899443,,2.25,,micron-technology-backpack-securities,other
+NVDAC,NVIDIA (Coinbase Tokenized Stock),unverified,6897062,,0.68,,nvidia-coinbase-tokenized-stock,stock
+RGOOGL,Alphabet Class A Tokenized Stock (Reality),listed,6836846,,1.4,Bitget,alphabet-rstock,stock
+RINTC,Intel Tokenized Stock (Reality),listed,6835204,,2.91,Bitget,intel-rstock,stock
+BNC4,Cea Industries,unverified,6829757,,6.08,,cea-industries,other
+META,Meta Platforms • Robinhood Token,listed,6827891,,-1.9,Coinbase,meta-platforms-robinhood-tokenized-stock,other
+BMNRON,BitMine Immersion Technologies (Ondo Tokenized Stock),listed,6767140,,2.91,MEXC,bitmine-immersion-technologies-ondo-tokenized-stocks,stock
+MSTR,Strategy Inc. • Robinhood Token,unverified,6747106,,0.54,,strategy-inc-robinhood-tokenized-stock,stock
+EURS,STASIS EURO,unverified,6636262,,0.58,,stasis-eurs,other
+IMO,IMO,listed,6550777,,0.21,MEXC,imo,other
+GOOGL,Alphabet Class A • Robinhood Token,unverified,6541236,,1.25,,alphabet-class-a-robinhood-tokenized-stock,other
+IBITON,iShares Bitcoin Trust (Ondo Tokenized),unverified,6483332,,1.27,,ishares-bitcoin-trust-ondo-tokenized,other
+TSMON,Taiwan Semiconductor Manufacturing (Ondo Tokenized Stock),listed,6408801,,2.34,MEXC,taiwan-semiconductor-manufacturing-ondo-tokenized-stock,stock
+GMEB,GameStop (bStocks Tokenized Stock),listed,6385096,,-0.51,Binance,gamestop-bstocks-tokenized-stock,stock
+IAUON,iShares Gold Trust (Ondo Tokenized Stock),listed,6378896,,2.34,Gate/MEXC,ishares-gold-trust-ondo-tokenized-stock,stock
+CBRSB,Cerebras (bStocks Tokenized Stock),listed,6260653,,9.01,Binance,cerebras-bstocks-tokenized-stock,stock
+MRVLX,Marvell xStock,unverified,6222583,,2.97,,marvell-xstock,stock
+NVPRIME,NUVA nvPRIME,unverified,6214820,,-0.04,,nuva-nvprime,other
+SPKCC,Spiko Digital Assets Cash & Carry Fund,unverified,6197012,,0.03,,spiko-digital-assets-cash-carry-fund,fund
+MNSRY,Mansory Token,listed,6126622,,0.37,MEXC,mansory-token,other
+BLKDIGON,Ondo Diversified Growth Powered by BlackRock,listed,6059648,,0.67,Gate,ondo-diversified-growrth-powered-by-blackrock,other
+DMTR,Dimitra,listed,5911073,,-0.32,Gate/MEXC,dimitra,other
+BRAINON,Ondo AI Leaders Portfolio,listed,5907948,,3.43,Gate,ondo-ai-leaders-portfolio,other
+DOG,Own The Doge,listed,5887046,,0.95,Kraken/Gate/MEXC,the-doge-nft,other
+AGL,Apex Gold Ledger,unverified,5794763,,1.42,,apex-gold-ledger,commodity
+WSPYX,Wrapped SP500 xStock,unverified,5726565,,0.59,,wrapped-sp500-xstock,stock
+VNXAU,VNX Gold,unverified,5708472,,0.38,,vnx-gold,commodity
+AMDX,AMD xStock,unverified,5663941,,5.51,,amd-xstock,stock
+ORCLB,Oracle (bStocks Tokenized Stock),listed,5638017,,3.93,Binance,oracle-bstocks-tokenized-stock,stock
+LLYON,Eli Lilly (Ondo Tokenized Stock),listed,5605914,,-0.02,Gate/MEXC,eli-lilly-ondo-tokenized-stock,stock
+AAPLB,Apple (bStocks Tokenized Stock),listed,5556605,,1.15,Binance,apple-bstocks-tokenized-stock,stock
+PRCL,Parcl,listed,5548037,,1.71,Coinbase/Kraken/Gate/MEXC,parcl,other
+RSTRC,Strategy PP Variable Tokenized Stock (Reality),listed,5496887,,0.32,Bitget,strategy-inc-var-rt-ser-a-perp-stretch-preferred-stk-rstock,stock
+TQQQON,ProShares UltraPro QQQ (Ondo Tokenized),listed,5437424,,4.07,MEXC,proshares-ultrapro-qqq-ondo-tokenized,other
+IWNON,iShares Russell 2000 Value ETF (Ondo Tokenized ETF),unverified,5364753,,0.54,,ishares-russell-2000-value-etf-ondo-tokenized-etf,fund
+PIN,PinLink,listed,5262725,,-0.47,Gate,pinlink,other
+SECT,Sectora,unverified,5259845,,0.13,,sectora,other
+SPACEX,SpaceX PreStocks,unverified,5257068,,-0.86,,spacex-prestocks-2,stock
+QQQ,Invesco QQQ • Robinhood Token,unverified,5240618,,1.19,,invesco-qqq-robinhood-tokenized-stock,other
+MBASIS,Midas mBASIS,unverified,5232376,,0,,midas-basis-trading-token,other
+NTBILL,Nest Treasury Vault,unverified,5139006,,0.03,,nest-treasury-vault,treasury
+HOODB,Robinhood (bStocks Tokenized Stock),listed,5131251,,-5.84,Binance,robinhood-bstocks-tokenized-stock,stock
+TSMX,TSMC xStock,unverified,5123651,,2.37,,tsmc-xstock,stock
+BEB,Bloom Energy (bStocks Tokenized Stock),listed,5118358,,6.09,Binance,bloom-energy-bstocks-tokenized-stock,stock
+RLS,Rayls,listed,5096543,,-3.83,Coinbase/Kraken/Gate/MEXC/Bitget,rayls,other
+XGZ,GoldZip Gold,listed,5095559,,1.19,MEXC,goldzip-gold,commodity
+HYBOND,Tokenized BNY Mellon Global Short-Dated High Yield Bond Fund,unverified,4996523,,0,,tokenized-bny-mellon-global-short-dated-high-yield-bond-fund,bond
+TQQQX,TQQQ xStock,listed,4780974,,3.19,Gate,tqqq-xstock,stock
+ORCLX,Oracle xStock,unverified,4754827,,2.69,,oracle-xstock,stock
+BLKHION,Ondo High Income Powered by BlackRock,listed,4727809,,-0.22,Gate,ondo-high-income-powered-by-blackrock,other
+YNRWAX,YieldNest RWA MAX,unverified,4672262,,0,,yieldnest-rwa-max,other
+WQQQX,Wrapped Nasdaq xStock,unverified,4634296,,1.15,,wrapped-nasdaq-xstock,stock
+LMTON,Lockheed (Ondo Tokenized Stock),listed,4594276,,-2.07,Gate,lockheed-ondo-tokenized-stock,stock
+DYNFON,iShares US Equity Factor Rotation Active ETF (Ondo Tokenized),unverified,4532836,,0.6,,ishares-us-equity-factor-rotation-active-etf-ondo-tokenized,stock
+RBNT,Redbelly Network,listed,4526665,,-5.51,Gate/MEXC/Bitget,redbelly-network-token,other
+AVGOON,Broadcom (Ondo Tokenized Stock),listed,4500015,,2.73,Gate/MEXC,broadcom-ondo-tokenized-stock,stock
+SNDKON,SanDisk (Ondo Tokenized),listed,4497466,,3.13,MEXC,sandisk-ondo-tokenized,other
+ARW,Arowana,listed,4495559,,-0.38,Gate,arowana,other
+DEXTF,Memento,unverified,4420477,,15.08,,dextf,other
+MLN,Enzyme,listed,4366671,,0.06,Coinbase/Kraken/Gate,melon,other
+MSFTB,Microsoft (bStocks Tokenized Stock),listed,4348962,,0.19,Binance,microsoft-bstocks-tokenized-stock,stock
+AGPUB,Axe Compute (bStocks Tokenized Stock),listed,4341551,,12.42,Binance,axe-compute-bstocks-tokenized-stock,stock
+TSLA,Tesla • Robinhood Token,unverified,4270037,,3.81,,tesla-robinhood-tokenized-stock,stock
+HLSCOPE,Hamilton Lane Senior Credit Opportunities Securitize Fund,unverified,4215714,,0.05,,hamilton-lane-senior-credit-opportunities-securitize-fund,credit
+KOON,Coca-Cola (Ondo Tokenized Stock),listed,4202026,,-1.39,Gate,coca-cola-ondo-tokenized-stock,stock
+USOON,United States Oil Fund (Ondo Tokenized),unverified,4199548,,-1.57,,united-states-oil-fund-ondo-tokenized,fund
+NETX,NetX,listed,4176185,,1.12,Gate/MEXC,netx,other
+OPENAI,OpenAI PreStocks,listed,4162889,,4.53,Gate,openai-prestocks-2,stock
+ORCLON,Oracle (Ondo Tokenized Stock),listed,4141291,,4.04,MEXC,oracle-ondo-tokenized-stock,stock
+XAGM,Matrixdock Silver,unverified,4110245,,0.7,,matrixdock-silver,commodity
+METAC,Meta (Coinbase Tokenized Stock),unverified,4103199,,-1.92,,meta-coinbase-tokenized-stock,stock
+NBISON,Nebius Group (Ondo Tokenized),listed,4044167,,10.64,MEXC,nebius-group-ondo-tokenized,other
+PROPC,Propchain,listed,4017254,,-1.39,Gate/MEXC,propchain,other
+AAPL,Apple • Robinhood Token,unverified,4010740,,1.08,,apple-robinhood-tokenized-stock,stock
+BMNRX,Bitmine xStock,unverified,3982573,,-1.54,,bitmine-xstock,stock
+COROON,iShares International Country Rotation Active ETF (Ondo Tokenized),unverified,3956149,,1.04,,ishares-international-country-rotation-active-etf-ondo-tokenized,fund
+RMRVL,Marvell Technology Tokenized Stock (Reality),listed,3903106,,3.83,Bitget,marvell-technology-rstock,stock
+IRENB,IREN Limited (bStocks Tokenized Stock),listed,3835692,,6.01,Binance,iren-limited-bstocks-tokenized-stock,stock
+YLD5ON,Ondo 5 Targeted Income TR Portfolio,listed,3822750,,0.02,Gate,ondo-5-targeted-income-tr-portfolio,other
+PFEON,Pfizer (Ondo Tokenized Stock),unverified,3788954,,0.06,,pfizer-ondo-tokenized-stock,stock
+INTWB,GraniteShares 2X Long INTC ETF (bStocks Tokenized ETF),listed,3738853,,5.86,Binance,graniteshares-2x-long-intc-etf-bstocks-tokenized-stock,stock
+RNVDA,Nvidia Tokenized Stock (Reality),listed,3710591,,0.67,Bitget,nvidia-rstock-2,stock
+GLDON,SPDR Gold Shares (Ondo Tokenized),listed,3695686,,0.7,MEXC,spdr-gold-shares-ondo-tokenized,commodity
+ZBTC,Zeus Network zBTC,unverified,3654425,,1.35,,zeus-netwok-zbtc,other
+AMZNB,Amazon (bStocks Tokenized Stock),listed,3644483,,1.75,Binance,amazon-bstocks-tokenized-stock,stock
+REAL,Real,unverified,3594189,,-0.66,,real-4,other
+GFI,Goldfinch,verified,3560819,,0.88,Coinbase/Kraken/Gate,goldfinch,commodity
+SKHY,SK Hynix (Backpack Securities),unverified,3464332,,1.26,,sk-hynix-backpack-securities,other
+AXTIB,AXT (bStocks Tokenized Stock),listed,3428150,,1.51,Binance,axt-bstocks-tokenized-stock,stock
+AMZN,Amazon • Robinhood Token,unverified,3392336,,1.9,,amazon-robinhood-tokenized-stock,other
+GOLDAO,Gold DAO,unverified,3366310,,1.84,,gold-dao,commodity
+ASMLON,ASML Holding NV (Ondo Tokenized Stock),listed,3357371,,2.66,MEXC,asml-holding-nv-ondo-tokenized-stock,stock
+IWMON,iShares Russell 2000 ETF (Ondo Tokenized ETF),unverified,3310653,,1.24,,ishares-russell-2000-etf-ondo-tokenized-etf,fund
+USFR,WisdomTree Floating Rate Treasury Fund (Dinari Tokenized ETF),unverified,3308076,,-0.35,,wisdomtree-floating-rate-treasury-fund-dinari-tokenized-etf,treasury
+RTSLA,Tesla Tokenized Stock (Reality),listed,3286787,,3.99,Bitget,tesla-rstock-2,stock
+ASTSON,AST SpaceMobile (Ondo Tokenized),listed,3243600,,6.03,MEXC,ast-spacemobile-ondo-tokenized,other
+EPIC,Epic Chain,listed,3237348,,-19.09,Binance/Gate/MEXC,epic-chain,other
+PANWON,Palo Alto Networks (Ondo Tokenized Stock),listed,3209014,,3.38,MEXC,palo-alto-networks-ondo-tokenized-stock,stock
+HOODON,Robinhood Markets (Ondo Tokenized Stock),listed,3175578,,-6.02,Gate/MEXC,robinhood-markets-ondo-tokenized-stock,stock
+CGO,Comtech Gold,unverified,3127454,,1.15,,comtech-gold,commodity
+ARMON,Arm Holdings plc (Ondo Tokenized Stock),listed,3123496,,1.04,MEXC,arm-holdings-plc-ondo-tokenized-stock,stock
+TTWO,Take-Two Interactive Software (Backpack Securities),unverified,3101131,,-0.81,,take-two-interactive-software-backpack-securities,other
+PLTRX,Palantir xStock,unverified,3098102,,0.02,,palantir-xstock,stock
+SOXSB,Direxion Semiconductor Bear 3X ETF (bStocks Tokenized ETF),listed,3072484,,-9.1,Binance,direxion-semiconductor-bear-3x-etf-bstocks-tokenized-stock,stock
+RTQQQ,ProShares UltraPro QQQ Tokenized Stock (Reality),listed,3027640,,3.86,Bitget,proshares-ultrapro-qqq-etf-rstock,stock
+CVXON,Chevron (Ondo Tokenized Stock),listed,2993373,,-1.89,Gate/MEXC,chevron-ondo-tokenized-stock,stock
+IJHON,iShares Core S&P MidCap ETF (Ondo Tokenized ETF),unverified,2962049,,0,,ishares-core-s-p-midcap-etf-ondo-tokenized-etf,fund
+PROPS,Propbase,listed,2954752,,-0.96,Gate/MEXC/Bitget,propbase,other
+BOSON,Boson,listed,2914473,,-3.16,Gate/MEXC,boson-protocol,other
+COIN,Coinbase • Robinhood Token,unverified,2884287,,-0.6,,coinbase-robinhood-tokenized-stock,other
+TRADE,Polytrade,listed,2875855,,-11.3,Gate/MEXC,polytrade,other
+PGON,Procter & Gamble (Ondo Tokenized Stock),listed,2874297,,0.05,Gate,procter-gamble-ondo-tokenized-stock,stock
+RQQQ,Invesco QQQ ETF Tokenized Stock (Reality),listed,2856477,,1.33,Bitget,invesco-qqq-rstock,stock
+PLTRON,Palantir Technologies (Ondo Tokenized Stock),listed,2842348,,0.11,Gate/MEXC,palantir-technologies-ondo-tokenized-stock,stock
+CSCOON,Cisco Systems (Ondo Tokenized Stock),listed,2830244,,1.15,Gate/MEXC,cisco-systems-ondo-tokenized-stock,stock
+RSOXL,Direxion Daily Semi Bull 3X ETF Tokenized Stock (Reality),listed,2829563,,8.74,Bitget,direxion-daily-semiconductor-bull-3x-shares-etf-rstock,stock
+WDCB,Western Digital (bStocks Tokenized Stock),listed,2823827,,5.54,Binance,western-digital-bstocks-tokenized-stock,stock
+URANO,UranoToken,unverified,2809121,,-1.82,,uranotoken,other
+QCOMB,Qualcomm (bStocks Tokenized Stock),listed,2804183,,2.55,Binance,qualcomm-bstocks-tokenized-stock,stock
+GME,GameStop • Robinhood Token,listed,2799883,,-0.56,MEXC,gamestop-robinhood-tokenized-stock,other
+AMZNC,Amazon (Coinbase Tokenized Stock),unverified,2798910,,1.84,,amazon-coinbase-tokenized-stock,stock
+CRWVB,CoreWeave (bStocks Tokenized Stock),listed,2789626,,5.89,Binance,coreweave-bstocks-tokenized-stock,stock
+TKFG,tokenforge,unverified,2781346,,-0.09,,tokenforge,other
+JPMON,JPMorgan Chase (Ondo Tokenized Stock),listed,2780421,,0.51,Gate/MEXC,jpmorgan-chase-ondo-tokenized-stock,stock
+PROS,Prosper,listed,2740017,,0.86,Coinbase/OKX/Kraken/MEXC/Bitget,prosper-2,other
+PBRON,Petrobras (Ondo Tokenized Stock),listed,2730746,,-0.08,MEXC,petrobras-ondo-tokenized-stock,stock
+QCOMON,Qualcomm (Ondo Tokenized Stock),listed,2730290,,2.22,MEXC,qualcomm-ondo-tokenized-stock,stock
+IBMON,IBM (Ondo Tokenized Stock),listed,2709731,,-0.8,MEXC,ibm-ondo-tokenized-stock,stock
+FXION,iShares China Large-Cap ETF (Ondo Tokenized),unverified,2700478,,0.07,,ishares-china-large-cap-etf-ondo-tokenized,fund
+KRAQX,KRAQ xStock,unverified,2698373,,0,,kraq-xstock,stock
+MCDON,McDonald's (Ondo Tokenized Stock),listed,2698013,,-1.22,Gate/MEXC,mcdonald-s-ondo-tokenized-stock,stock
+RAVGO,Broadcom Tokenized Stock (Reality),listed,2657898,,2.82,Bitget,broadcom-rstock,stock
+FXARBUSDTRY,FXArbUSDTRY,unverified,2644078,,0.02,,fxarbusdtry,other
+NOKB,Nokia (bStocks Tokenized Stock),listed,2629529,,2.5,Binance,nokia-bstocks-tokenized-stock,stock
+HIMS,"Hims & Hers Health, Inc. • Robinhood Token",unverified,2624925,,1.38,,hims-hers-health-inc-robinhood-token,other
+MCDX,McDonald's xStock,listed,2609035,,0.12,Bybit/Gate/MEXC,mcdonald-s-xstock,stock
+INROON,iShares US Industry Rotation Active ETF (Ondo Tokenized),unverified,2559947,,0.82,,ishares-us-industry-rotation-active-etf-ondo-tokenized,fund
+STAU,STAU,unverified,2552996,,0,,stau,other
+BIBTA,Backed IBTA $ Treasury Bond 1-3yr,unverified,2463937,,0,,backed-ibta-treasury-bond-1-3yr,treasury
+IRENON,IREN (Ondo Tokenized Stock),listed,2458162,,6.19,MEXC,iren-ondo-tokenized-stock,stock
+AMD,AMD • Robinhood Token,unverified,2456070,,5.67,,amd-robinhood-tokenized-stock,other
+INTC,Intel • Robinhood Token,unverified,2446316,,2.65,,intel-robinhood-tokenized-stock,other
+BLCRON,iShares Large Cap Core Active ETF (Ondo Tokenized),unverified,2432172,,0.77,,ishares-large-cap-core-active-etf-ondo-tokenized,fund
+RAMD,AMD Tokenized Stock (Reality),listed,2430014,,5.86,Bitget,advanced-micro-devices-rstock,stock
+WMTON,Walmart (Ondo Tokenized Stock),listed,2417272,,0.14,MEXC,walmart-ondo-tokenized-stock,stock
+AAPLC,Apple (Coinbase Tokenized Stock),unverified,2408490,,1.16,,apple-coinbase-tokenized-stock,stock
+BABAON,Alibaba (Ondo Tokenized Stock),listed,2398863,,0.08,Gate/MEXC,alibaba-ondo-tokenized-stock,stock
+ISC,International Stable Currency,unverified,2389015,,-0.24,,international-stable-currency,other
+HTR,Hathor,listed,2379300,,-6.36,Gate/MEXC,hathor,other
+MRNAB,Moderna (bStocks Tokenized Stock),listed,2375811,,4.78,Binance,moderna-bstocks-tokenized-stock,stock
+USO,United States Oil Fund • Robinhood Token,unverified,2364126,,-0.88,,united-states-oil-fund-robinhood-tokenized-stock,fund
+GOLD,GOLD,unverified,2339742,,1.32,,gold-11,commodity
+RTSM,Taiwan Semiconductor Manufacturing Tokenized Stock (Reality),listed,2266039,,2.42,Bitget,taiwan-semiconductor-rstock,stock
+MAIV,Multi Asset Investment Vehicle,unverified,2244454,,0,,multi-asset-investment-vehicle,other
+RWA,Allo,listed,2240809,,-0.77,Gate/MEXC/Bitget,allo,other
+CHARRED,Charred Treasures,unverified,2232606,,0,,charred-treasures,treasury
+LENDS,Aktionariat Switzerlend AG Shares,unverified,2229985,,0,,aktionariat-switzerlend-ag-shares,other
+PEPON,PepsiCo (Ondo Tokenized Stock),listed,2188167,,-1.33,Gate,pepsico-ondo-tokenized-stock,stock
+VON,Visa (Ondo Tokenized Stock),listed,2176466,,-1.78,Gate,visa-ondo-tokenized-stock,stock
+TSLAC,Tesla (Coinbase Tokenized Stocks),unverified,2175062,,4,,tesla-coinbase-tokenized-stocks,stock
+SKHYON,SK Hynix (Ondo Tokenized),listed,2162063,,1.77,Gate/MEXC,sk-hynix-ondo-tokenized,other
+RCBRS,Cerebras Systems Tokenized Stock (Reality),listed,2152243,,8.85,Bitget,cerebras-systems-rstock,stock
+APRA,Apraemio,unverified,2126432,,2.21,,apraemio,other
+SPCXC,SpaceX (Coinbase Tokenized Stock),unverified,2125704,,0.99,,spacex-coinbase-tokenized-stock,stock
+DRAMON,Roundhill Memory ETF (Ondo Tokenized),listed,2119369,,3.35,MEXC,roundhill-memory-etf-ondo-tokenized,fund
+PLTR,Palantir Technologies • Robinhood Token,unverified,2118658,,0.13,,palantir-technologies-robinhood-tokenized-stock,other
+NFLXB,Netflix (bStocks Tokenized Stock),listed,2117336,,-1.8,Binance,netflix-bstocks-tokenized-stock,stock
+NVOON,Novo Nordisk (Ondo Tokenized Stock),listed,2107382,,-0.85,MEXC,novo-nordisk-ondo-tokenized-stock,stock
+APTUSD,aptUSD,unverified,2097772,,0,,aptusd,other
+NFLXX,Netflix xStock,listed,2097005,,-1.6,Gate,netflix-xstock,stock
+BRK.BX,Berkshire Hathaway xStock,unverified,2059246,,-1.03,,berkshire-hathaway-xstock,stock
+PDDB,PDD Holdings (bStocks Tokenized Stock),listed,2049891,,-0.07,Binance,pdd-holdings-bstocks-tokenized-stock,stock
+SBUXON,Starbucks (Ondo Tokenized Stock),listed,2045760,,0.51,Gate,starbucks-ondo-tokenized-stock,stock
+XAUH,Herculis Gold Coin,unverified,2020739,,1.06,,herculis-gold-coin,commodity
+TMON,Toyota (Ondo Tokenized Stock),unverified,1996335,,-1.15,,toyota-ondo-tokenized-stock,stock
+BLKON,"Blackrock, Inc. (Ondo Tokenized Stock)",listed,1989217,,0.93,MEXC,blackrock-inc-ondo-tokenized-stock,stock
+MSTRC,MicroStrategy (Coinbase Tokenized Stock),unverified,1985098,,1.04,,microstrategy-coinbase-tokenized-stock,stock
+SNOWON,Snowflake (Ondo Tokenized Stock),listed,1947097,,1.06,MEXC,snowflake-ondo-tokenized-stock,stock
+ARMB,Arm (bStocks Tokenized Stock),listed,1942412,,0.98,Binance,arm-bstocks-tokenized-stock,stock
+MSFT,Microsoft • Robinhood Token,unverified,1939617,,0.15,,microsoft-robinhood-tokenized-stock,other
+ML,Mintlayer,listed,1938217,,0.14,Gate/MEXC/Bitget,mintlayer,other
+AMC,"AMC Entertainment Holdings, Inc. • Robinhood Token",unverified,1936126,,2.78,,amc-entertainment-holdings-inc-robinhood-token,other
+XNK,Kinka,unverified,1934665,,0,,kinka,commodity
+ASTSB,AST SpaceMobile (bStocks Tokenized Stock),listed,1934365,,5.69,Binance,ast-spacemobile-bstocks-tokenized-stock,stock
+READY,Ready Cards,listed,1918564,,-14.34,Gate/MEXC,ready,other
+DESPXA,DeFi S&P 500,unverified,1913776,,0.43,,defi-janus-henderson-anemoy-s-p500-fund-token,other
+SKYHY,SK Hynix • Robinhood Token,unverified,1906153,,1.32,,sk-hynix-robinhood-token,other
+RDDT,Reddit • Robinhood Token,unverified,1898918,,-0.83,,reddit-robinhood-tokenized-stock,other
+SMHB,VanEck Semiconductor ETF (bStocks Tokenized ETF),listed,1889358,,2.42,Binance,vaneck-semiconductor-etf-bstocks-tokenized-stock,stock
+ANDURIL,Anduril PreStocks,unverified,1889031,,-1.1,,anduril-prestocks-2,stock
+RRBLX,Roblox Tokenized Stock (Reality),listed,1887379,,0.08,Bitget,roblox-rstock,stock
+ETHIX,Ethix,unverified,1865249,,0.24,,ethichub,other
+GMEX,Gamestop xStock,unverified,1858075,,-0.86,,gamestop-xstock,stock
+VTIX,Vanguard xStock,listed,1848961,,0.64,Gate,vanguard-xstock,stock
+STT,SilverTimes Token,listed,1800934,,1.14,Gate,silvertimes-token,commodity
+SMCION,Super Micro Computer (Ondo Tokenized Stock),listed,1797951,,7.09,MEXC,super-micro-computer-ondo-tokenized-stock,stock
+GLWB,Corning (bStocks Tokenized Stock),listed,1795222,,-1.51,Binance,corning-bstocks-tokenized-stock,stock
+JAAA,Janus Henderson AAA CLO ETF (Dinari Tokenized ETF),unverified,1792577,,0,,janus-henderson-aaa-clo-etf-dinari-tokenized-etf,fund
+RSPY,SPDR S&P 500 ETF Trust Tokenized Stock (Reality),listed,1791996,,0.69,Bitget,spdr-s-p-500-etf-rstock,stock
+BAION,iShares A.I. Innovation and Tech Active ETF (Ondo Tokenized),unverified,1778376,,1.3,,ishares-a-i-innovation-and-tech-active-etf-ondo-tokenized,fund
+RKLBON,Rocket Lab (Ondo Tokenized),listed,1764207,,8.73,MEXC,rocket-lab-ondo-tokenized,other
+TRUF,TRUF.Network,listed,1731730,,-0.09,Gate,truflation,other
+NOWON,ServiceNow (Ondo Tokenized Stock),listed,1730404,,-1.52,MEXC,servicenow-ondo-tokenized-stock,stock
+PLTRB,Palantir Technologies (bStocks Tokenized Stock),listed,1726636,,0.16,Binance,palantir-technologies-bstocks-tokenized-stock,stock
+RCOIN,Coinbase Tokenized Stock (Reality),listed,1700797,,-0.54,Bitget,coinbase-rstock,stock
+NKP,NonKyotoProtocol,unverified,1684643,,0,,nonkyotoprotocol,other
+SNDK,Sandisk (Backpack Securities),unverified,1671272,,2.68,,sandisk-backpack-securities,other
+SGOV,iShares 0-3 Month Treasury Bond ETF • Robinhood Token,unverified,1662827,,0.02,,ishares-0-3-month-treasury-bond-etf-robinhood-tokenized-stock,treasury
+LINON,Linde plc (Ondo Tokenized Stock),unverified,1660275,,-1.07,,linde-plc-ondo-tokenized-stock,stock
+EQIXON,Equinix (Ondo Tokenized Stock),listed,1630276,,3.5,MEXC,equinix-ondo-tokenized-stock,stock
+SLVX,iShares Silver Trust xStock,unverified,1620523,,-1,,ishares-silver-trust-xstock,stock
+BRTRON,iShares Total Return Active ETF (Ondo Tokenized),unverified,1612503,,0.07,,ishares-total-return-active-etf-ondo-tokenized,fund
+RSOXS,Direxion Daily Semi Bear 3X ETF Tokenized Stock (Reality),listed,1607133,,-9.28,Bitget,direxion-daily-semiconductor-bear-3x-shares-etf-rstock,stock
+SMCIB,Super Micro Computer (bStocks Tokenized Stock),listed,1606066,,7.01,Binance,super-micro-computer-bstocks-tokenized-stock,stock
+DFI,DeFiChain,unverified,1598954,,-37.09,,defichain,other
+MSFTC,Microsoft (Coinbase Tokenized Stock),unverified,1580112,,0.3,,microsoft-coinbase-tokenized-stock,stock
+SATA,Strive Series A Preferred (Dinari Tokenized Stock),unverified,1574891,,0.16,,strive-series-a-preferred-dinari-tokenized-stock,stock
+SOCKS,Unisocks,unverified,1570797,,0,,unisocks,other
+BABA,Alibaba • Robinhood Token,unverified,1570379,,-0.03,,alibaba-robinhood-tokenized-stock,other
+BBB,Blackberry (bStocks Tokenized Stock),listed,1564538,,3.04,Binance,blackberry-bstocks-tokenized-stock,stock
+ASTOCK,ArcStocks,unverified,1561102,,-7.68,,arcstocks,stock
+TBRL,Tenbin Brazilian Real,unverified,1550334,,0.93,,tenbin-brazilian-real,other
+ABNBON,Airbnb (Ondo Tokenized Stock),listed,1529359,,0.29,MEXC,airbnb-ondo-tokenized-stock,stock
+COPXON,Global X Copper Miners ETF (Ondo Tokenized ETF),listed,1476926,,4.95,MEXC,global-x-copper-miners-etf-ondo-tokenized-etf,fund
+SNDK,Sandisk Corporation • Robinhood Token,unverified,1472513,,2.06,,sandisk-corporation-robinhood-tokenized-stock,other
+TOTO,Toto Finance,unverified,1452778,,1.52,,toto-3,other
+COHRON,Coherent (Ondo Tokenized),listed,1426306,,6.05,MEXC,coherent-ondo-tokenized,other
+WNVDAX,Wrapped NVIDIA xStock,unverified,1423125,,0.67,,wrapped-nvidia-xstock,stock
+GEON,General Electric (Ondo Tokenized Stock),listed,1414106,,2.42,MEXC,general-electric-ondo-tokenized-stock,stock
+ABTON,Abbott (Ondo Tokenized Stock),listed,1391584,,-1.2,Gate,abbott-ondo-tokenized-stock,stock
+TRWA,Tharwa,listed,1371326,,1.43,Gate,tharwa,other
+DJTB,Trump Media & Technology Group Corp (bStocks Tokenized Stock),listed,1358322,,3.61,Binance,trump-media-technology-group-cord-bstocks-tokenized-stock,stock
+WSPCXX,Wrapped SpaceX xStock,unverified,1350185,,0.78,,wrapped-spacex-xstock,stock
+LAK3,LAKE,unverified,1346599,,1.79,,lake,other
+QQQB,Invesco QQQ Trust (bStocks Tokenized Stock),listed,1343175,,1.36,Binance,invesco-qqq-trust-bstocks-tokenized-stock,stock
+TSM,Taiwan Semiconductor Manufacturing • Robinhood Token,unverified,1338266,,2.49,,taiwan-semiconductor-manufacturing-robinhood-tokenized-stock,other
+MAON,Mastercard (Ondo Tokenized Stock),listed,1333966,,-1.22,Gate/MEXC,mastercard-ondo-tokenized-stock,stock
+RDRAM,Roundhill Memory ETF Tokenized Stock (Reality),listed,1331213,,4.07,Bitget,roundhill-memory-etf-rstock,stock
+SECZB,Securitize (bStocks Tokenized Stock),listed,1326672,,8.75,Binance,securitize-bstocks-tokenized-stock,stock
+HYGON,iBoxx $ High Yield Corporate Bond ETF (Ondo Tokenized ETF),unverified,1326436,,0.06,,iboxx-high-yield-corporate-bond-etf-ondo-tokenized-etf,bond
+ACNON,Accenture (Ondo Tokenized Stock),listed,1318363,,-3.71,Gate/MEXC,accenture-ondo-tokenized-stock,stock
+UNHON,UnitedHealth (Ondo Tokenized Stock),listed,1311283,,-0.01,Gate,unitedhealth-ondo-tokenized-stock,stock
+STBRL,Staked Tenbin Brazilian Real,unverified,1293487,,0,,staked-tenbin-brazilian-real,other
+COSTON,Costco (Ondo Tokenized Stock),listed,1282594,,-1.39,MEXC,costco-ondo-tokenized-stock,stock
+ASMLX,ASML xStock,unverified,1268482,,2.64,,asml-xstock,stock
+WFCON,Wells Fargo (Ondo Tokenized Stock),unverified,1267861,,-0.11,,wells-fargo-ondo-tokenized-stock,stock
+THUSD,Tharwa USD,unverified,1266014,,0,,tharwa-usd,other
+DJT,Trump Media & Technology Group Corp. • Robinhood Token,unverified,1264235,,2.31,,trump-media-technology-group-corp-robinhood-token,other
+SLV,iShares Silver Trust • Robinhood Token,unverified,1249837,,1.09,,ishares-silver-trust-robinhood-tokenized-stock,commodity
+DJT,Trump Media & Technology Group Corp. Common Stock (Backpack Securities),unverified,1247807,,3.4,,trump-media-technology-group-corp-common-stock-backpack-securities,stock
+USARB,USA Rare Earth (bStocks Tokenized Stock),listed,1242025,,16.73,Binance,usa-rare-earth-bstocks-tokenized-stock,stock
+GSON,Goldman Sachs (Ondo Tokenized Stock),unverified,1235866,,1.79,,goldman-sachs-ondo-tokenized-stock,stock
+DELLB,Dell (bStocks Tokenized Stock),listed,1229950,,7.45,Binance,dell-bstocks-tokenized-stock,stock
+PRL,Parallel Governance,listed,1226644,,3.2,Coinbase/Gate/MEXC/Bitget,mimo-parallel-governance-token,other
+JDON,JD.com (Ondo Tokenized Stock),listed,1222489,,0.44,MEXC,jd-com-ondo-tokenized-stock,stock
+NKEON,Nike (Ondo Tokenized Stock),listed,1212651,,-1.14,MEXC,nike-ondo-tokenized-stock,stock
+GINI,GINI,unverified,1210256,,0,,gini,other
+MUC,Micron Technology Inc. (Coinbase Tokenized Stock),unverified,1189670,,2.29,,micron-technology-inc-coinbase-tokenized-stock,stock
+TTWO,Take-Two Interactive Software • Robinhood Token,unverified,1189306,,-1.1,,take-two-interactive-software-robinhood-tokenized-stock,other
+CANTO,CANTO,unverified,1182504,,0,,canto,other
+EARN,EARN,unverified,1169326,,12.79,,earn,other
+PYPLON,PayPal (Ondo Tokenized Stock),listed,1164327,,2.67,MEXC,paypal-ondo-tokenized-stock,stock
+RWA,RWA Inc.,listed,1162038,,-4.77,Gate/MEXC/Bitget,rwa-inc,other
+GOOGON,Alphabet Class C (Ondo Tokenized Stock),unverified,1135282,,1.16,,alphabet-class-c-ondo-tokenized-stock,stock
+KOX,Coca-Cola xStock,listed,1131991,,-0.73,Gate,coca-cola-xstock,stock
+MSTR,Strategy (Dinari Tokenized Stock),unverified,1123364,,1.1,,strategy-dinari-tokenized-stock,stock
+RMSFT,Microsoft Tokenized Stock (Reality),listed,1118454,,0.23,Bitget,microsoft-rstock,stock
+ASMLB,ASML (bStocks Tokenized Stock),listed,1114320,,2.55,Binance,asml-bstocks-tokenized-stock,stock
+IBMX,International Business Machines xStock,unverified,1110686,,-1.73,,international-business-machines-xstock,stock
+LLYX,Eli Lilly xStock,listed,1108842,,-1.13,Gate,eli-lilly-xstock,stock
+SNDKC,SanDisk (Coinbase Tokenized Stock),unverified,1100464,,2.68,,sandisk-coinbase-tokenized-stock,stock
+STRC,Strategy Stretch Preferred (Dinari Tokenized Stock),unverified,1088051,,0.28,,strategy-stretch-preferred-dinari-tokenized-stock,stock
+DISON,Disney (Ondo Tokenized Stock),listed,1073242,,-0.57,MEXC,disney-ondo-tokenized-stock,stock
+CRWVON,CoreWeave (Ondo Tokenized),listed,1072076,,5.95,MEXC,coreweave-ondo-tokenized,other
+VRTON,Vertiv (Ondo Tokenized),listed,1063298,,2.58,MEXC,vertiv-ondo-tokenized,other
+RSNXX,Tradr 2X Long SNDK Daily ETF Tokenized Stock (Reality),listed,1058522,,6.09,Bitget,tradr-2x-long-sndk-daily-etf-rstock,stock
+CRMON,Salesforce (Ondo Tokenized Stock),listed,1053966,,-3.17,MEXC,salesforce-ondo-tokenized-stock,stock
+BOT,RoboStrategy (Backpack Securities),unverified,1053685,,1.86,,robostrategy-backpack-securities,other
+NEURAL,Neuralink PreStocks,unverified,1048774,,1.84,,neuralink-prestocks,stock
+RSKHY,SK Hynix Tokenized Stock (Reality),listed,1048085,,2.19,Bitget,sk-hynix-rstock,stock
+BAON,Boeing (Ondo Tokenized Stock),listed,1047312,,-9.91,MEXC,boeing-ondo-tokenized-stock,stock
+RASTS,AST SpaceMobile Tokenized Stock (Reality),listed,1043647,,5.36,Bitget,ast-spacemobile-rstock,stock
+INCEON,Franklin Income Equity Focus ETF (Ondo Tokenized),unverified,1042947,,0,,franklin-income-equity-focus-etf-ondo-tokenized,stock
+USDM1,USDM1,unverified,1038816,,0,,usdm1,other
+XDB,XDB CHAIN,listed,1034104,,0.35,Gate/MEXC,digitalbits,other
+TOPENAI,OpenAI (Tessera Pre-IPO),unverified,1032283,,-0.19,,openai-tessera-pre-ipo,stock
+NVDA,NVIDIA (Dinari Tokenized Stock),unverified,1030975,,0.6,,nvidia-dinari-tokenized-stock,stock
+BIDUON,Baidu (Ondo Tokenized Stock),listed,1030132,,0.71,MEXC,baidu-ondo-tokenized-stock,stock
+NEOX,Neoxa,unverified,1018351,,-0.2,,neoxa,other
+ARIA20,Arianee,unverified,1015129,,0,,arianee,other
+PYPLB,Paypal (bStocks Tokenized Stock),listed,1012446,,2.57,Binance,paypal-bstocks-tokenized-stock,stock
+FLQLON,Franklin US Large Cap Multifactor Index ETF (Ondo Tokenized),unverified,1011939,,0,,franklin-us-large-cap-multifactor-index-etf-ondo-tokenized,fund
+TRU,TrueFi,listed,1010014,,-3.29,Kraken,truefi,other
+META,Meta Platforms (Backpack Securities),listed,1007845,,-1.82,Coinbase,meta-platforms-backpack-securities,other
+REAL,Defactor,unverified,1007093,,1.14,,defactor,other
+LITEB,Lumentum Holdings (bStocks Tokenized Stock),listed,1006009,,4.69,Binance,lumentum-holdings-bstocks-tokenized-stock,stock
+SPGION,S&P Global (Ondo Tokenized Stock),unverified,993408,,-0.71,,s-p-global-ondo-tokenized-stock,stock
+BE,Bloom Energy • Robinhood Token,unverified,992167,,6.71,,bloom-energy-robinhood-tokenized-stock,other
+NOKON,Nokia (Ondo Tokenized),listed,988819,,2.72,MEXC,nokia-ondo-tokenized,other
+FLNCB,Fluence Energy (bStocks Tokenized Stock),listed,986953,,9.1,Binance,fluence-energy-bstocks-tokenized-stock,stock
+METAB,Meta Platforms (bStocks Tokenized Stock),listed,967473,,-1.91,Binance,meta-platforms-bstocks-tokenized-stock,stock
+IBMB,IBM (bStocks Tokenized Stock),listed,960120,,-1.12,Binance,ibm-bstocks-tokenized-stock,stock
+CRWDX,CrowdStrike xStock,listed,960096,,1.61,Gate,crowdstrike-xstock,stock
+GSB,Goldman Sachs (bStocks Tokenized Stock),listed,957024,,1.82,Binance,goldman-sachs-bstocks-tokenized-stock,stock
+RNBIS,Nebius Group Tokenized Stock (Reality),listed,956820,,10.81,Bitget,nebius-rstock,stock
+RKST,rocket strategy,unverified,954546,,17.13,,rocket-strategy,other
+UBERON,Uber (Ondo Tokenized Stock),listed,952581,,-0.46,MEXC,uber-ondo-tokenized-stock,stock
+GLWON,Corning (Ondo Tokenized),listed,932625,,-1.9,MEXC,corning-ondo-tokenized,other
+WELF,WELF,listed,927872,,-5.07,MEXC,welf,other
+MUBOND,Mu Digital muBOND,unverified,924163,,0,,mu-digital-mubond,other
+ADBEB,Adobe (bStocks Tokenized Stock),listed,924111,,-3.46,Binance,adobe-bstocks-tokenized-stock,stock
+CYPHB,Cypherpunk Technologies (bStocks Tokenized Stock),listed,923866,,11.4,Binance,cypherpunk-technologies-bstocks-tokenized-stock,stock
+LITEON,Lumentum Holdings (Ondo Tokenized),listed,910875,,4.41,MEXC,lumentum-holdings-ondo-tokenized,other
+DRAM,Roundhill Memory ETF (Backpack Securities),unverified,907990,,3.95,,roundhill-memory-etf-backpack-securities,fund
+RORCL,Oracle Tokenized Stock (Reality),listed,905600,,4,Bitget,oracle-rstock,stock
+SOXXON,iShares Semiconductor ETF (Ondo Tokenized),listed,905145,,2.21,MEXC,ishares-semiconductor-etf-ondo-tokenized,fund
+AXPON,American Express (Ondo Tokenized Stock),listed,894971,,0.13,MEXC,american-express-ondo-tokenized-stock,stock
+RNKE,Nike Tokenized Stock (Reality),listed,893403,,-0.96,Bitget,nike-rstock,stock
+TBLLX,TBLL xStock,unverified,890948,,-0.02,,tbll-xstock,stock
+CLR,INTERCELLAR,unverified,884837,,0,,cellar,other
+ETNON,Eaton (Ondo Tokenized),listed,880662,,3.46,MEXC,eaton-ondo-tokenized,other
+ADBEON,Adobe (Ondo Tokenized Stock),listed,877426,,-3.15,MEXC,adobe-ondo-tokenized-stock,stock
+AIPON,Arteris (Ondo Tokenized),unverified,873842,,8.31,,arteris-ondo-tokenized,other
+DELLON,Dell Technologies (Ondo Tokenized),listed,872800,,6.95,MEXC,dell-technologies-ondo-tokenized,other
+CHIRP,Chirp Token,listed,869380,,-0.86,Gate/MEXC,chirp-token,other
+ABIL,SPDR Bloomberg 1-3 Month T-Bill ETF (Anchored Tokenized ETF),unverified,863770,,0.01,,spdr-bloomberg-1-3-month-t-bill-etf-anchored-tokenized-etf,treasury
+IGEBON,iShares Investment Grade Systematic Bond ETF (Ondo Tokenized),unverified,859125,,0.19,,ishares-investment-grade-systematic-bond-etf-ondo-tokenized,bond
+CVXX,Chevron xStock,unverified,858968,,-2.42,,chevron-xstock,stock
+NFLXON,Netflix (Ondo Tokenized Stock),listed,858893,,-1.77,Gate/MEXC,netflix-ondo-tokenized-stock,stock
+CMGON,Chipotle (Ondo Tokenized Stock),listed,857729,,-2.23,MEXC,chipotle-ondo-tokenized-stock,stock
+SHOPON,Shopify (Ondo Tokenized Stock),listed,850837,,-0.91,MEXC,shopify-ondo-tokenized-stock,stock
+QNTB,Quantinuum (bStocks Tokenized Stock),listed,840445,,6.87,Binance,quantinuum-bstocks-tokenized-stock,stock
+XLEX,Energy Select Sector SPDR Fund xStock,unverified,837659,,-2.53,,energy-select-sector-spdr-fund-xstock,stock
+CETES,Etherfuse CETES,unverified,835824,,-0.29,,cetes,other
+MVLLB,GraniteShares 2X Long MRVL ETF (bStocks Tokenized ETF),listed,833422,,6.96,Binance,graniteshares-2x-long-mrvl-etf-bstocks-tokenized-stock,stock
+LLYB,Eli Lilly (bStocks Tokenized Stock),listed,830298,,0.04,Binance,eli-lilly-bstocks-tokenized-stock,stock
+CRWDB,CrowdStrike (bStocks Tokenized Stock),listed,824544,,2.67,Binance,crowdstrike-bstocks-tokenized-stock,stock
+BEON,Bloom Energy (Ondo Tokenized),listed,822655,,6.34,MEXC,bloom-energy-ondo-tokenized,other
+KALSHI,Kalshi PreStocks,unverified,819636,,1.8,,kalshi-prestocks,stock
+GRASS,Touch Grass,listed,818375,,-0.16,Coinbase/OKX/Bybit/Kraken/Gate/MEXC/Bitget,touch-grass-2,other
+MSTR,Strategy (Backpack Securities),unverified,816863,,0.86,,strategy-backpack-securities,stock
+DASHON,DoorDash (Ondo Tokenized Stock),unverified,813998,,2.21,,doordash-ondo-tokenized-stock,stock
+PALM,Palm Economy,unverified,808056,,0.19,,palm-economy,other
+TXNON,Texas Instruments (Ondo Tokenized),listed,807681,,3.04,MEXC,texas-instruments-ondo-tokenized,other
+DFDVX,DFDV xStock,listed,795656,,2.28,Gate,dfdv-xstock,stock
+ESX,EstateX,listed,793454,,0.1,Kraken,estatex,other
+GEVON,GE Vernova (Ondo Tokenized),listed,793447,,4.36,MEXC,ge-vernova-ondo-tokenized,other
+EWYON,iShares MSCI South Korea ETF (Ondo Tokenized),listed,790741,,2.45,MEXC,ishares-msci-south-korea-etf-ondo-tokenized,fund
+RRKLB,Rocket Lab Tokenized Stock (Reality),listed,789149,,8.67,Bitget,rocket-lab-rstock,stock
+YLD8ON,Ondo 8 Targeted Income TR Portfolio,listed,786509,,3.24,Gate,ondo-8-targeted-income-tr-portfolio,other
+FUTUON,Futu Holdings (Ondo Tokenized Stock),listed,779895,,0.27,MEXC,futu-holdings-ondo-tokenized-stock,stock
+GLDT,Gold Token,unverified,778150,,1.67,,gold-token,commodity
+LLY,Eli Lilly • Robinhood Token,unverified,777006,,0.2,,eli-lilly-robinhood-tokenized-stock,other
+RMETA,Meta Platforms Tokenized Stock (Reality),listed,772989,,-1.94,Bitget,meta-platforms-rstock,stock
+SUSP,Pareto Staked USP,unverified,766538,,0.02,,pareto-staked-usp,other
+MRNA,"Moderna, Inc. • Robinhood Token",unverified,765417,,4.14,,moderna-inc-robinhood-token,other
+HIMSB,Hims & Hers (bStocks Tokenized Stock),listed,764431,,1.44,Binance,hims-hers-bstocks-tokenized-stock,stock
+CRDOB,Credo Technology (bStocks Tokenized Stock),listed,761846,,5.98,Binance,credo-technology-bstocks-tokenized-stock,stock
+RPDD,PDD Holdings Tokenized Stock (Reality),listed,760046,,-0.22,Bitget,pdd-holdings-rstock,stock
+APPX,AppLovin xStock,unverified,759339,,0,,applovin-xstock,stock
+ALABB,Astera Labs (bStocks Tokenized Stock),listed,757436,,8.82,Binance,astera-labs-bstocks-tokenized-stock,stock
+QLTAON,iShares Aaa - A Rated Corporate Bond ETF (Ondo Tokenized),unverified,753884,,0.19,,ishares-aaa-a-rated-corporate-bond-etf-ondo-tokenized,bond
+RAAOI,Applied Optoelectronics Tokenized Stock (Reality),listed,746930,,6.64,Bitget,applied-optoelectronics-rstock,stock
+KSTRB,KraneShares STAR Market 50 ETF (bStocks Tokenized ETF),listed,732162,,-2.84,Binance,kraneshares-star-market-50-etf-bstocks-tokenized-etf,stock
+INTUON,Intuit (Ondo Tokenized Stock),listed,730317,,-2.78,MEXC,intuit-ondo-tokenized-stock,stock
+UBERX,Uber xStock,unverified,725524,,4.48,,uber-xstock,stock
+NFLX,Netflix • Robinhood Token,unverified,718329,,-1.88,,netflix-robinhood-tokenized-stock,other
+COST,Costco • Robinhood Token,unverified,717957,,-1.01,,costco-robinhood-tokenized-stock,other
+APOON,Apollo Global Management (Ondo Tokenized Stock),unverified,715196,,0,,apollo-global-management-ondo-tokenized-stock,stock
+STXB,Seagate (bStocks Tokenized Stock),listed,714242,,-3.06,Binance,seagate-bstocks-tokenized-stock,stock
+SFI,Singularity Finance,listed,711259,,-4.11,Kraken,singularity-finance,other
+BINCON,iShares Flexible Income Active ETF (Ondo Tokenized ETF),unverified,710458,,0.14,,ishares-flexible-income-active-etf-ondo-tokenized-etf,fund
+XOMX,Exxon Mobil xStock,unverified,708337,,-3.01,,exxon-mobil-xstock,stock
+CEGON,Constellation Energy (Ondo Tokenized Stock),listed,707816,,2.24,MEXC,constellation-energy-ondo-tokenized-stock,stock
+MELION,MercadoLibre (Ondo Tokenized Stock),unverified,707512,,0.93,,mercadolibre-ondo-tokenized-stock,stock
+RNFLX,Netflix Tokenized Stock (Reality),listed,701843,,-1.82,Bitget,netflix-rstock,stock
+COLLAT,Collaterize,unverified,699078,,2.96,,collaterize,other
+BST,Blocksquare,listed,696739,,-3.68,Gate/MEXC,blocksquare,other
+SQQQB,ProShares UltraPro Short QQQ (bStocks Tokenized Stock),listed,696633,,-3.91,Binance,proshares-ultrapro-short-qqq-bstocks-tokenized-stock,stock
+TKALSHI,Kalshi (Tessera Pre-IPO),unverified,695866,,0.24,,tessera-kalshi-tokenized-share,stock
+TSLA,Tesla (Dinari Tokenized Stock),unverified,694073,,3.94,,tesla-dinari-tokenized-stock,stock
+DELL,Dell • Robinhood Token,unverified,689465,,6.9,,dell-robinhood-tokenized-stock,other
+ORCL,Oracle • Robinhood Token,unverified,684762,,5.6,,oracle-robinhood-tokenized-stock,other
+FXD,Fathom Dollar,unverified,683193,,-0.51,,fathom-dollar,other
+RSOXX,iShares Semiconductor ETF Tokenized Stock (Reality),listed,682028,,2.88,Bitget,ishares-semiconductor-etf-rstock,stock
+RBE,Bloom Energy Tokenized Stock (Reality),listed,675830,,6.14,Bitget,bloom-energy-rstock,stock
+AMCB,AMC Entertainment Holdings (bStocks Tokenized Stock),listed,674095,,2.44,Binance,amc-entertainment-holdings-bstocks-tokenized-stock,stock
+POLYMARKET,Polymarket PreStocks,unverified,673339,,0.08,,polymarket-prestocks,stock
+REWY,iShares MSCI South Korea ETF Tokenized Stock (Reality),listed,669791,,2.92,Bitget,ishares-msci-south-korea-etf-rstock,stock
+AMATON,Applied Materials (Ondo Tokenized Stock),listed,667096,,1.75,MEXC,applied-materials-ondo-tokenized-stocks,stock
+WTSLAX,Wrapped Tesla xStock,unverified,666810,,3.83,,wrapped-tesla-xstock,stock
+RBMNR,BitMine Immersion Technologies Tokenized Stock (Reality),listed,664410,,3.08,Bitget,bitmine-immersion-technologies-rstock,stock
+MU,Micron Technology • Robinhood Token,unverified,662120,,1.89,,micron-technology-robinhood-tokenized-stock,other
+RASST,Strive Tokenized Stock (Reality),listed,661752,,1.25,Bitget,strive-rstock,stock
+TSLA,Tesla (Backpack Securities),unverified,659195,,3.71,,tesla-backpack-securities,stock
+CREDI,Credefi,listed,658815,,-0.35,Gate,credefi,other
+TSPACEX,SpaceX (Tessera Pre-IPO),unverified,658523,,-0.82,,tessera-spacex-tokenized-share,stock
+SHAZB,SharonAI (bStocks Tokenized Stock),listed,645994,,9.83,Binance,sharonai-bstocks-tokenized-stock,stock
+IWMX,Russell 2000 xStock,unverified,644968,,0,,russell-2000-xstock,stock
+ASST,Strive (Dinari Tokenized Stock),unverified,640587,,0,,strive-dinari-tokenized-stock,stock
+HYB,NYLIM US High Yield Bond Fund,unverified,639791,,0.22,,nylim-us-high-yield-bond-fund,bond
+RSLV,iShares Silver Trust Tokenized Stock (Reality),listed,637247,,1.11,Bitget,ishares-silver-trust-rstock,stock
+CSCOX,Cisco xStock,listed,635976,,0.99,Gate,cisco-xstock,stock
+RDDTON,Reddit (Ondo Tokenized Stock),listed,630506,,0.21,MEXC,reddit-ondo-tokenized-stock,stock
+CANA,CANA Holdings California Carbon Credits,unverified,629319,,1.77,,cana-holdings-california-carbon-credits,credit
+IALTON,iShares Systematic Alternatives Active ETF (Ondo Tokenized),unverified,629067,,0.4,,ishares-systematic-alternatives-active-etf-ondo-tokenized,fund
+SOXLON,Direxion Daily Semi Bull 3X ETF (Ondo Tokenized),listed,624344,,8.59,MEXC,direxion-daily-semi-bull-3x-etf-ondo-tokenized,fund
+BRKBB,Berkshire Hathaway (bStocks Tokenized Stock),listed,619271,,-0.94,Binance,berkshire-hathaway-bstocks-tokenized-stock,stock
+USDEB,StablecoinX (bStocks Tokenized Stock),listed,615232,,-4.19,Binance,stablecoinx-bstocks-tokenized-stock,stock
+RAAPL,Apple Tokenized Stock (Reality),listed,606662,,1.29,Bitget,apple-reality-protocol,stock
+UNHX,UnitedHealth xStock,listed,605736,,-0.01,Gate,unitedhealth-xstock,stock
+RHOOD,Robinhood Markets Tokenized Stock (Reality),listed,604942,,-6.01,Bitget,robinhood-rstock,stock
+CRMX,Salesforce xStock,unverified,598083,,-1.63,,salesforce-xstock,stock
+SPOTON,Spotify (Ondo Tokenized Stock),listed,596869,,-3.67,MEXC,spotify-ondo-tokenized-stock,stock
+VTION,Vanguard Total Stock Market ETF (Ondo Tokenized),unverified,596830,,0.61,,vanguard-total-stock-market-etf-ondo-tokenized,stock
+RAMZN,Amazon Tokenized Stock (Reality),listed,594914,,1.8,Bitget,amazon-rstock,stock
+JNJX,Johnson & Johnson xStock,unverified,592762,,0.24,,johnson-johnson-xstock,stock
+FWDIB,Forward Industries (bStocks Tokenized Stock),listed,590417,,4.26,Binance,forward-industries-bstocks-tokenized-stock,stock
+ETHAON,iShares Ethereum Trust (Ondo Tokenized),unverified,572380,,1.79,,ishares-ethereum-trust-ondo-tokenized,other
+USHYON,iShares Broad USD High Yield Corporate Bond ETF (Ondo Tokenized ETF),unverified,568952,,0.61,,ishares-broad-usd-high-yield-corporate-bond-etf-ondo-tokenized-etf,bond
+CIENON,Ciena (Ondo Tokenized),listed,567217,,3.11,MEXC,ciena-ondo-tokenized,other
+WDCON,Western Digital (Ondo Tokenized),listed,566010,,5.43,MEXC,western-digital-ondo-tokenized,other
+NEMON,Newmont (Ondo Tokenized),unverified,563052,,2.63,,newmont-ondo-tokenized,other
+RCRWV,CoreWeave Tokenized Stock (Reality),listed,557521,,6.19,Bitget,coreweave-rstock,stock
+TGLD,Tenbin Gold,unverified,554974,,0,,tenbin-gold,commodity
+HOOD,Robinhood Markets (Backpack Securities),unverified,552068,,-5.79,,robinhood-markets-backpack-securities,other
+REWZ,iShares MSCI Brazil ETF Tokenized Stock (Reality),listed,548808,,-0.1,Bitget,ishares-msci-brazil-etf-rstock,stock
+QYLDON,Global X NASDAQ 100 Covered Call ETF (Ondo Tokenized),unverified,548803,,0.54,,global-x-nasdaq-100-covered-call-etf-ondo-tokenized,fund
+RDDTB,Reddit (bStocks Tokenized Stock),listed,539570,,-0.52,Binance,reddit-bstocks-tokenized-stock,stock
+PENGB,Penguin Solutions (bStocks Tokenized Stock),listed,539481,,6.99,Binance,penguin-solutions-bstocks-tokenized-stock,stock
+LRCXON,Lam Research (Ondo Tokenized),listed,538158,,1.21,MEXC,lam-research-ondo-tokenized,other
+XNA,Neurai,listed,537700,,-0.25,Gate/MEXC,neurai,other
+VSTB,Vistra Corp (bStocks Tokenized Stock),listed,533439,,3.09,Binance,vistra-corp-bstocks-tokenized-stock,stock
+CRMB,Salesforce (bStocks Tokenized Stock),listed,532606,,-2.59,Binance,salesforce-bstocks-tokenized-stock,stock
+ENPHON,Enphase Energy (Ondo Tokenized),listed,532121,,-16.15,MEXC,enphase-energy-ondo-tokenized,other
+JAAAON,Janus Henderson AAA CLO ETF (Ondo Tokenized ETF),unverified,530832,,0.06,,janus-henderson-aaa-clo-etf-ondo-tokenized-etf,fund
+RIP,StockRip,listed,527857,,6.65,Bitget,stockrip,stock
+RQCOM,Qualcomm Tokenized Stock (Reality),listed,527169,,2.72,Bitget,qualcomm-rstock,stock
+RBLX,Roblox • Robinhood Token,listed,527011,,0.58,Bitget,roblox-robinhood-tokenized-stock,other
+MDOGAI,MoonDog AI,unverified,521603,,0,,moondog-ai,other
+NBIS,Nebius Group • Robinhood Token,unverified,519848,,9.91,,nebius-group-robinhood-tokenized-stock,other
+FIGURE,Figure AI PreStocks,unverified,518918,,0.05,,figure-ai-prestocks,stock
+RNOK,Nokia Tokenized Stock (Reality),listed,517923,,2.21,Bitget,nokia-rstock,stock
+MARAX,MARA xStock,unverified,516802,,0,,mara-xstock,stock
+RWDC,Western Digital Tokenized Stock (Reality),listed,513102,,5.36,Bitget,western-digital-rstock,stock
+NBIS,Nebius Group N.V. (Backpack Securities),unverified,511378,,10.79,,nebius-group-n-v-backpack-securities,other
+TIA,Tiamonds [OLD],listed,509640,,0,Binance/Coinbase/OKX/Bybit/Kraken/Gate/MEXC/Bitget,tia,other
+BNIU,Backed NIU Technologies,unverified,507504,,0,,backed-niu-technologies,other
+JPMB,JPMorgan Chase (bStocks Tokenized Stock),listed,506513,,0.33,Binance,jpmorgan-chase-bstocks-tokenized-stock,stock
+JPMX,JPMorgan Chase xStock,unverified,505972,,-0.12,,jpmorgan-chase-xstock,stock
+OKLOON,Oklo (Ondo Tokenized),listed,503671,,3.66,MEXC,oklo-ondo-tokenized,other
+RPLTR,Palantir Technologies Tokenized Stock (Reality),listed,502870,,0.18,Bitget,palantir-rstock,stock
+GPROB,GoPro (bStocks Tokenized Stock),listed,500091,,3.95,Binance,gopro-bstocks-tokenized-stock,stock
+FLHYON,Franklin High Yield Corporate ETF (Ondo Tokenized),unverified,499934,,0,,franklin-high-yield-corporate-etf-ondo-tokenized,fund
+NVOX,Novo Nordisk xStock,unverified,499221,,-0.64,,novo-nordisk-xstock,stock
+OPN,OPEN Ticketing Ecosystem,listed,498708,,3.81,Binance/Coinbase/Bybit/Kraken/Gate/MEXC/Bitget,open-ticketing-ecosystem,other
+AUTOS,CryptoAutos,unverified,496451,,1.28,,cryptoautos,other
+CPERR,Copper rStock,unverified,494087,,0,,copper-rstock,commodity
+FFOGON,Franklin Focused Growth ETF (Ondo Tokenized),unverified,493193,,1.92,,franklin-focused-growth-etf-ondo-tokenized,fund
+RMCD,McDonald's Tokenized Stock (Reality),listed,492844,,-0.45,Bitget,mcdonald-s-rstock,stock
+TONXX,TON xStock,unverified,491640,,0,,ton-xstock,stock
+TMXN,Tenbin Mexican Peso,unverified,487325,,0,,tenbin-mexican-peso,other
+OVPP,OpenVPP,unverified,486463,,-7.33,,openvpp-2,other
+VPR,VaporFund,listed,480463,,-0.1,Gate/MEXC,vapor-wallet,other
+CRWV,CoreWeave • Robinhood Token,unverified,478241,,3.25,,coreweave-robinhood-tokenized-stock,other
+XYLDON,Global X S&P 500 Covered Call ETF (Ondo Tokenized),unverified,476846,,0.55,,global-x-s-p-500-covered-call-etf-ondo-tokenized,fund
+INTC,Intel (Backpack Securities),unverified,474279,,2.74,,intel-backpack-securities,other
+BOTON,RoboStrategy (Ondo Tokenized),unverified,470755,,-3.19,,robostrategy-ondo-tokenized,other
+ATR,Artrade,listed,470295,,16.35,Gate/MEXC,artrade,other
+EQTY,EQTY,listed,470198,,-0.93,Gate,lto-network,other
+WENB,Wendy’s (bStocks Tokenized Stock),listed,469410,,-0.78,Binance,wendy-s-bstocks-tokenized-stock,stock
+REG,RealToken Ecosystem Governance,listed,468416,,0,Bitget,realtoken-ecosystem-governance,other
+FGDLON,Franklin Responsibly Sourced Gold ETF (Ondo Tokenized),unverified,467734,,1.23,,franklin-responsibly-sourced-gold-etf-ondo-tokenized,commodity
+VSTON,Vistra (Ondo Tokenized),listed,466247,,3.46,MEXC,vistra-ondo-tokenized,other
+GMEON,GameStop (Ondo Tokenized Stock),listed,465121,,-0.51,MEXC,gamestop-ondo-tokenized-stock,stock
+CYPH,Cypherpunk Technologies (Backpack Securities),unverified,460151,,11.79,,cypherpunk-technologies-backpack-securities,other
+QBTSON,D-Wave Quantum (Ondo Tokenized Stock),listed,459759,,5.88,MEXC,d-wave-quantum-ondo-tokenized-stock,stock
+JMKEX,Jersey Mike's Subs xStock,unverified,453912,,0,,jersey-mike-s-subs-xstock,stock
+ANETON,Arista Networks (Ondo Tokenized Stock),listed,452253,,5.22,MEXC,arista-networks-ondo-tokenized-stocks,stock
+AAOION,Applied Optoelectronics (Ondo Tokenized),listed,451562,,6.27,MEXC,applied-optoelectronics-ondo-tokenized,other
+BOTB,RoboStrategy (bStocks Tokenized Stock),listed,451276,,1.55,Binance,robostrategy-bstocks-tokenized-stock,stock
+ISRGON,Intuitive Surgical (Ondo Tokenized Stock),listed,449442,,-1.32,MEXC,intuitive-surgical-ondo-tokenized-stock,stock
+RLITE,Lumentum Tokenized Stock (Reality),listed,447470,,4.75,Bitget,lumentum-rstock,stock
+VTX,Vanguard Total World xStock,unverified,445312,,0,,vanguard-total-world-xstock,stock
+HTS,Home3,unverified,442152,,0,,home3,other
+RIREN,IREN Tokenized Stock (Reality),listed,437433,,6.45,Bitget,iren-rstock,stock
+RGLW,Corning Tokenized Stock (Reality),listed,437298,,-1.58,Bitget,corning-rstock,stock
+HPEB,Hewlett Packard (bStocks Tokenized Stock),listed,432984,,3.38,Binance,hewlett-packard-bstocks-tokenized-stock,stock
+EXAU,Ember Gold,unverified,428766,,1.18,,ember-gold,commodity
+NXRA,Nexera,unverified,427939,,2.9,,allianceblock-nexera,other
+APPON,AppLovin (Ondo Tokenized Stock),unverified,427922,,0.58,,applovin-ondo-tokenized-stock,stock
+UVXYB,ProShares Ultra VIX Short-Term Futures ETF (bStocks Tokenized ETF),listed,427593,,-1.88,Binance,proshares-ultra-vix-short-term-futures-etf-bstocks-tokenized-etf,stock
+ZMB,Zoom (bStocks Tokenized Stock),listed,426539,,-0.08,Binance,zoom-bstocks-tokenized-stock,stock
+IBM,International Business Machines Corporation • Robinhood Token,unverified,423534,,-1.11,,international-business-machines-corporation-robinhood-token,other
+TMFB,Direxion Daily 20 Year Treasury Bull 3X ETF (bStocks Tokenized ETF),listed,419604,,-0.35,Binance,direxion-daily-20-year-treasury-bull-3x-etf-bstocks-tokenized-etf,treasury
+WMKT,Aktionariat wemakeit AG Tokenized Shares,unverified,418224,,0,,aktionariat-wemakeit-ag-tokenized-shares,other
+MDBB,MongoDB (bStocks Tokenized Stock),listed,412413,,0.33,Binance,mongodb-bstocks-tokenized-stock,stock
+TRVL,Dtravel,listed,411179,,0.77,Gate,dtravel,other
+RVOO,Vanguard S&P 500 ETF Tokenized Stock (Reality),listed,410032,,0.67,Bitget,vanguard-s-p-500-etf-rstock,stock
+SMT,Swarm Markets,unverified,405557,,10.86,,swarm-markets,other
+ROKLO,Oklo Tokenized Stock (Reality),listed,401629,,4.87,Bitget,oklo-inc-rstock,stock
+DKNG,DraftKings (Backpack Securities),unverified,400005,,-2.23,,draftkings-backpack-securities,other
+XCREDI,xCREDI,unverified,398017,,0,,xcredi,other
+VX,Visa xStock,unverified,397121,,-1.85,,visa-xstock,stock
+BOTZON,Global X Robotics & Artificial Intelligence ETF (Ondo Tokenized),unverified,390975,,1.01,,global-x-robotics-artificial-intelligence-etf-ondo-tokenized,fund
+LTMNER,Mner Club,unverified,389532,,3.54,,mner-club,other
+FNON,Fabrinet (Ondo Tokenized),listed,387274,,4.17,MEXC,fabrinet-ondo-tokenized,other
+USAR,USA Rare Earth • Robinhood Token,unverified,386194,,15.91,,usa-rare-earth-robinhood-tokenized-stock,other
+URAON,Global X Uranium ETF (Ondo Tokenized),listed,385038,,5.41,MEXC,global-x-uranium-etf-ondo-tokenized,commodity
+WOLFON,Wolfspeed (Ondo Tokenized),unverified,378988,,7.03,,wolfspeed-ondo-tokenized,other
+ID,Everest,listed,373844,,0,Binance/OKX/Bybit/Gate/MEXC,everid,other
+IONQON,IonQ (Ondo Tokenized),listed,371445,,6.86,MEXC,ionq-ondo-tokenized,other
+AMBRX,Amber xStock,unverified,370905,,9.53,,amber-xstock,stock
+HIMS,Hims & Hers Health (Backpack Securities),unverified,369758,,1.4,,hims-hers-health-backpack-securities,other
+PALLON,abrdn Physical Palladium Shares ETF (Ondo Tokenized ETF),unverified,367581,,-0.63,,abrdn-physical-palladium-shares-etf-ondo-tokenized-stocks,fund
+COPXX,Global X Copper Miners xStock,unverified,367454,,3.4,,global-x-copper-miners-xstock,stock
+PEPX,PepsiCo xStock,listed,367327,,-0.44,Gate,pepsico-xstock,stock
+SBETON,"SharpLink Gaming, Inc (Ondo Tokenized Stock)",listed,366823,,4.39,Gate/MEXC,sharplink-gaming-inc-ondo-tokenized-stock,stock
+RIVN,Rivian Automotive • Robinhood Token,unverified,358455,,2.59,,rivian-automotive-robinhood-tokenized-stock,other
+SHYON,iShares 1-3 Year Treasury Bond ETF (Ondo Tokenized),unverified,355754,,-0.1,,ishares-1-3-year-treasury-bond-etf-ondo-tokenized,treasury
+PLTRC,Palantir (Coinbase Tokenized Stock),unverified,354393,,0.16,,palantir-coinbase-tokenized-stock,stock
+PFEX,Pfizer xStock,unverified,352319,,-3.05,,pfizer-xstock,stock
+CRWDON,CrowdStrike (Ondo Tokenized Stock),unverified,351997,,2.5,,crowdstrike-ondo-tokenized-stocks,stock
+STFY,Stockify,unverified,350031,,4.64,,stockify-2,stock
+RRAM,Roundhill T-REX 2X Long DRAM Daily Target ETF Tokenized Stock (Reality),listed,346165,,7.86,Bitget,roundhill-t-rex-2x-long-dram-daily-target-etf-rstock,stock
+AMD,Advanced Micro Devices (Backpack Securities),unverified,345158,,5.88,,advanced-micro-devices-backpack-securities,other
+RCOHR,Coherent Tokenized Stock (Reality),listed,344945,,5.53,Bitget,coherent-rstock,stock
+SATAON,Strive Preferred (Ondo Tokenized),unverified,342725,,0.83,,strive-preferred-ondo-tokenized,other
+MRNAX,Moderna xStock,unverified,342321,,6.17,,moderna-xstock,stock
+RAPP,AppLovin Tokenized Stock (Reality),listed,342105,,1.14,Bitget,applovin-rstock,stock
+PGX,Procter & Gamble xStock,listed,341518,,-0.07,Gate,procter-gamble-xstock,stock
+RASML,ASML Holding NV Tokenized Stock (Reality),listed,338019,,2.64,Bitget,asml-holding-rstock,stock
+GSX,Goldman Sachs xStock,unverified,337734,,1.81,,goldman-sachs-xstock,stock
+PVT,Punkvism,unverified,336304,,1.32,,punkvism,other
+EXAG,Ember Silver,unverified,330140,,1.04,,ember-silver,commodity
+WTCOIN,Coinbase Global Inc ST0x,unverified,330072,,-0.9,,coinbase-global-inc-st0x,other
+MPON,MP Materials (Ondo Tokenized),listed,325061,,8.3,MEXC,mp-materials-ondo-tokenized,other
+REMXON,VanEck Rare Earth and Strategic Metals ETF (Ondo Tokenized),unverified,324786,,4.37,,vaneck-rare-earth-and-strategic-metals-etf-ondo-tokenized,fund
+SYMON,Symbotic (Ondo Tokenized),unverified,324247,,3.69,,symbotic-ondo-tokenized,other
+SPY,State Street SPDR S&P 500 ETF Trust (Dinari Tokenized ETF),unverified,323969,,0.63,,state-street-spdr-s-p-500-etf-trust-dinari-tokenized-etf,stock
+WPOPMTX,Wrapped Pop Mart International xStock,unverified,323552,,-2.64,,wrapped-pop-mart-international-xstock,stock
+RAEHR,Aehr Test Systems Tokenized Stock (Reality),listed,322529,,12.17,Bitget,aehr-test-systems-rstock,stock
+GOOGL,Alphabet (Dinari Tokenized Stock),unverified,319279,,1.34,,alphabet-dinari-tokenized-stock,stock
+OSCRON,Oscar Health (Ondo Tokenized),unverified,316942,,0,,oscar-health-ondo-tokenized,other
+LULU,Lululemon • Robinhood Token,unverified,316683,,2.14,,lululemon-robinhood-tokenized-stock,other
+MVRK,Mavryk Network,listed,315648,,-1.06,Gate/MEXC,mavryk-network,other
+RIOTON,Riot Platforms (Ondo Tokenized Stock),listed,314495,,7.27,MEXC,riot-platforms-ondo-tokenized-stock,stock
+BACKED,Backed,unverified,311645,,4.55,,backed,other
+WGOOGLX,Wrapped Alphabet xStock,unverified,311150,,1.31,,wrapped-alphabet-xstock,stock
+BTGOON,BitGo Holdings (Ondo Tokenized Stock),listed,311130,,3.46,Gate,bitgo-holdings-ondo-tokenized-stock,stock
+GLXYON,Galaxy Digital (Ondo Tokenized),unverified,308469,,9.48,,galaxy-digital-ondo-tokenized,other
+WTCENTX,Wrapped Tencent xStock,unverified,306478,,0.05,,wrapped-tencent-xstock,stock
+FIGON,Figma Ord Shs (Ondo Tokenized Stock),unverified,304749,,-1.64,,figma-ord-shs-ondo-tokenized-stock,stock
+WULFON,Terawulf (Ondo Tokenized),unverified,303998,,5.77,,terawulf-ondo-tokenized,other
+REM,REM Token,listed,303137,,1.27,MEXC,rem-token,other
+RAXTI,AXT Tokenized Stock (Reality),listed,302854,,1.6,Bitget,axt-inc-rstock,stock
+ROKON,Rockwell Automation (Ondo Tokenized),unverified,301582,,2.4,,rockwell-automation-ondo-tokenized,other
+STAY,STAYNEX,unverified,294691,,-8.83,,staynex,other
+AEHRON,Aehr Test Systems (Ondo Tokenized),listed,292865,,12.9,MEXC,aehr-test-systems-ondo-tokenized,other
+SNAP,Snap Inc. • Robinhood Token,unverified,291017,,-3.55,,snap-inc-robinhood-token,other
+WCRCLX,Wrapped Circle xStock,unverified,290099,,1.66,,wrapped-circle-xstock,stock
+GLXY,Galaxy Digital Inc. • Robinhood Token,unverified,289557,,9.96,,galaxy-digital-inc-robinhood-token,other
+AMZN,Amazon (Backpack Securities),unverified,289480,,2.16,,amazon-backpack-securities,other
+AVGO,Broadcom • Robinhood Token,unverified,289015,,2.36,,broadcom-robinhood-tokenized-stock,other
+BABA,Alibaba Group Holding (Backpack Securities),unverified,288585,,0.62,,alibaba-group-holding-backpack-securities,other
+RNVO,Novo Nordisk Tokenized Stock (Reality),listed,287645,,-1.13,Bitget,novo-nordisk-a-s-rstock,stock
+VNQON,Vanguard Real Estate ETF (Ondo Tokenized),unverified,283513,,-0.08,,vanguard-real-estate-etf-ondo-tokenized,realestate
+NVDA,Nvidia (Backpack Securities),unverified,282258,,1.06,,nvidia-backpack-securities,other
+STMXN,Staked Tenbin Mexican Peso,unverified,280656,,0,,staked-tenbin-mexican-peso,other
+RDWON,Redwire (Ondo Tokenized),listed,279110,,7.04,MEXC,redwire-ondo-tokenized,other
+ABBVX,AbbVie xStock,listed,278688,,-0.37,Gate,abbvie-xstock,stock
+RMSTZ,T-Rex 2X Inverse MSTR Daily Target ETF Tokenized Stock (Reality),listed,277645,,-1.67,Bitget,t-rex-2x-inverse-mstr-daily-target-etf-rstock,stock
+RWA,Xend Finance,listed,277063,,-1.85,Gate/MEXC/Bitget,xend-finance,other
+TESOURO,Etherfuse TESOURO,unverified,274667,,0.48,,etherfuse-tesouro,other
+WTSPYM,State Street SPDR Portfolio S&P 500 ETF ST0x,unverified,273486,,0.66,,state-street-spdr-portfolio-s-p-500-etf-st0x,fund
+WMETAX,Wrapped Meta xStock,unverified,272228,,-1.99,,wrapped-meta-xstock,stock
+CBRSON,Cerebras Systems (Ondo Tokenized),unverified,270283,,8.85,,cerebras-systems-ondo-tokenized,other
+STBU,Stobox Token,unverified,268843,,2.02,,stobox-token,other
+RAMAT,Applied Materials Tokenized Stock (Reality),listed,266710,,2.12,Bitget,applied-materials-rstock,stock
+MRVL,Marvell Technology • Robinhood Token,unverified,266274,,2.83,,marvell-technology-robinhood-tokenized-stock,other
+NETON,Cloudflare (Ondo Tokenized),listed,264146,,-0.03,MEXC,cloudflare-ondo-tokenized,other
+RQQQI,"Invesco QQQ Trust, Series 1 Tokenized Stock (Reality)",listed,263368,,1.37,Bitget,neos-nasdaq-100-high-income-etf-rstock,stock
+SPYR,SP500 rStock,unverified,260829,,0,,sp500-rstock,stock
+VOO,Vanguard S&P 500 ETF (Dinari Tokenized ETF),unverified,258427,,0.63,,vanguard-s-p-500-etf-dinari-tokenized-etf,fund
+IEMGX,Core MSCI Emerging Markets xStock,unverified,258319,,0,,core-msci-emerging-markets-xstock,stock
+MAG7,Reserve Magnificent 7 DTF,unverified,258291,,0.86,,reserve-magnificent-7-dtf,other
+IEFON,iShares 7-10 Year Treasury Bond ETF (Ondo Tokenized),unverified,258050,,0.03,,ishares-7-10-year-treasury-bond-etf-ondo-tokenized,treasury
+NKE,NIKE (Backpack Securities),unverified,257737,,-0.95,,nike-backpack-securities,other
+LOAZND,Mu Digital Locked AZND,unverified,257575,,0,,mu-digital-locked-aznd,other
+RBABA,Alibaba Tokenized Stock (Reality),listed,257041,,0.3,Bitget,alibaba-rstock,stock
+AAPL,Apple (Dinari Tokenized Stock),unverified,256787,,1.15,,apple-dinari-tokenized-stock,stock
+WMTX,Walmart xStock,listed,254861,,-1.33,Coinbase/Kraken/Gate/MEXC,walmart-xstock,stock
+PFE,Pfizer Inc. • Robinhood Token,unverified,254551,,-0.63,,pfizer-inc-robinhood-token,other
+NEARON,iShares Short Duration Bond Active ETF (Ondo Tokenized ETF),unverified,251845,,0.08,,ishares-short-duration-bond-active-etf-ondo-tokenized-etf,bond
+PPLTX,abrdn Physical Platinum Shares xStock,unverified,240522,,0.63,,abrdn-physical-platinum-shares-xstock,stock
+RAPLD,Applied Digital Tokenized Stock (Reality),listed,240014,,8.46,Bitget,applied-digital-rstock,stock
+ONI,ONINO,unverified,238854,,-0.53,,oni-token,other
+DBCON,Invesco DB Commodity Index Tracking Fund (Ondo Tokenized ETF),unverified,237700,,-0.73,,invesco-db-commodity-index-tracking-fund-ondo-tokenized-etf,commodity
+PYPLX,PayPal xStock,unverified,236391,,0,,paypal-xstock,stock
+RKLAC,KLA Tokenized Stock (Reality),listed,235730,,2.47,Bitget,kla-corp-rstock,stock
+BILION,Bilibili (Ondo Tokenized Stock),unverified,235175,,-2.15,,bilibili-ondo-tokenized-stocks,stock
+RVRT,Vertiv Tokenized Stock (Reality),listed,232297,,3.6,Bitget,vertiv-holdings-rstock,stock
+TCOMON,Trip.com Group (Ondo Tokenized Stock),unverified,230364,,0,,trip-com-group-ondo-tokenized-stock,stock
+PLANET,Planet Token,listed,227050,,1.23,Gate,planet-token,other
+RNIO,NIO Tokenized Stock (Reality),listed,225362,,0.33,Bitget,nio-rstock,stock
+GC,GCoin,unverified,224965,,0,,gcoin,other
+AMKRON,Amkor Technology (Ondo Tokenized),unverified,222835,,4.26,,amkor-technology-ondo-tokenized,other
+RARM,Arm Holdings plc Tokenized Stock (Reality),listed,222643,,1.25,Bitget,arm-holdings-rstock,stock
+JNJ,Johnson & Johnson • Robinhood Token,unverified,221641,,0.7,,johnson-johnson-robinhood-token,other
+OKLOX,Oklo xStock,unverified,221261,,4.83,,oklo-xstock,stock
+DCOIN,Coinbase Tokenized Stock Defichain,unverified,221114,,0,,coinbase-tokenized-stock-defichain,stock
+CRCLC,Circle Internet Group Inc. (Coinbase Tokenized Stock),unverified,220170,,0,,circle-internet-group-inc-coinbase-tokenized-stock,stock
+GOOGL,Alphabet (Backpack Securities),unverified,219694,,1.7,,alphabet-backpack-securities,other
+LITE,Lumentum • Robinhood Token,unverified,218940,,5.1,,lumentum-robinhood-tokenized-stock,other
+LLY,Eli Lilly and Company (Backpack Securities),unverified,218731,,-2.35,,eli-lilly-and-company-backpack-securities,other
+WMSTRX,Wrapped MicroStrategy xStock,unverified,218401,,1.06,,wrapped-microstrategy-xstock,stock
+NVDAR,NVIDIA rStock,unverified,217245,,0,,nvidia-rstock,stock
+VIDAX,Vida Global xStock,unverified,216815,,-1.8,,vida-global-xstock,stock
+RMP,MP Materials Tokenized Stock (Reality),listed,214636,,9.15,Bitget,mp-materials-rstock,stock
+AAPL,Apple (Backpack Securities),unverified,213725,,0.93,,apple-backpack-securities,stock
+SABAI,Sabai Protocol,unverified,212938,,0,,sabai-ecovers,other
+SCHFX,Schwab International Equity xStock,unverified,212822,,0,,schwab-international-equity-xstock,stock
+LEOX,LEOX,unverified,212493,,0.25,,leox,other
+SPUS,SP Funds S&P 500 Sharia ETF (Dinari Tokenized ETF),unverified,210717,,0.93,,sp-funds-s-p-500-sharia-etf-dinari-tokenized-etf,fund
+ONDSON,Ondas Holdings (Ondo Tokenized),listed,210298,,7.26,MEXC,ondas-holdings-ondo-tokenized,other
+AVGOC,Broadcom Inc. (Coinbase Tokenized Stock),unverified,209536,,2.64,,broadcom-inc-coinbase-tokenized-stock,stock
+RMELI,MercadoLibre Tokenized Stock (Reality),listed,209207,,0.95,Bitget,mercadolibre-rstock,stock
+DTCRON,Global X Data Center & Digital Infrastructure ETF (Ondo Tokenized),unverified,208775,,0.6,,global-x-data-center-digital-infrastructure-etf-ondo-tokenized,fund
+LLYC,Eli Lilly & Co (Coinbase Tokenized Stock),unverified,207718,,0.11,,eli-lilly-co-coinbase-tokenized-stock,stock
+HIFI,Hifi Finance,unverified,206460,,-1.63,,hifi-finance,other
+BACX,Bank of America xStock,unverified,206355,,0,,bank-of-america-xstock,stock
+PWRON,Quanta Services (Ondo Tokenized),unverified,205445,,1.92,,quanta-services-ondo-tokenized,other
+RGLD,SPDR Gold Shares Tokenized Stock (Reality),listed,204356,,-0.39,Bitget,spdr-gold-shares-rstock,stock
+SKHYC,SK hynix Inc. (Coinbase Tokenized Stock),unverified,202994,,1.52,,sk-hynix-inc-coinbase-tokenized-stock,stock
+AURA,Aura Network,listed,202526,,6.07,Gate,aura-network,other
+MAX,Mastercard xStock,listed,202089,,-0.6,Gate,mastercard-xstock,stock
+SNAP,Snap (Backpack Securities),unverified,202039,,-3.86,,snap-backpack-securities,other
+URAX,Global X Uranium ETF xStock,unverified,200669,,0,,global-x-uranium-etf-xstock,stock
+HUTON,Hut 8 (Ondo Tokenized),unverified,197992,,7.59,,hut-8-ondo-tokenized,other
+FGLD,Gold fGLD (finest Tokenized Gold),unverified,194097,,0,,gold-fgld-finest-tokenized-gold,commodity
+RFN,Fabrinet Tokenized Stock (Reality),listed,193963,,4.19,Bitget,fabrinet-rstock-2,stock
+CMCSAX,Comcast xStock,listed,193647,,0.57,Gate,comcast-xstock,stock
+MARAON,MARA Holdings (Ondo Tokenized Stock),listed,193459,,2.71,MEXC,mara-holdings-ondo-tokenized-stock,stock
+RSTX,Seagate Tokenized Stock (Reality),listed,192413,,-2.45,Bitget,seagate-technology-rstock,stock
+MRKX,Merck xStock,unverified,192166,,-2.01,,merck-xstock,stock
+VTVON,Vanguard Value ETF (Ondo Tokenized),unverified,191650,,-0.07,,vanguard-value-etf-ondo-tokenized,fund
+IGVON,iShares Expanded Tech-Software ETF (Ondo Tokenized),unverified,191563,,0.15,,ishares-expanded-tech-software-etf-ondo-tokenized,fund
+NNE,Nano Nuclear Energy • Robinhood Token,unverified,190660,,0.31,,nano-nuclear-energy-robinhood-tokenized-stock,other
+LSCCON,Lattice Semiconductor (Ondo Tokenized),unverified,189529,,5.22,,lattice-semiconductor-ondo-tokenized,other
+LNDX,LandX Governance Token,unverified,189363,,0,,landx-governance-token,other
+BB,BlackBerry Limited • Robinhood Token,listed,188500,,3.56,Binance/Bybit/Gate/MEXC/Bitget,blackberry-limited-robinhood-token,other
+APLDON,Applied Digital (Ondo Tokenized),listed,187782,,8.36,MEXC,applied-digital-ondo-tokenized,other
+RDDT,Reddit (Backpack Securities),unverified,187043,,-0.72,,reddit-backpack-securities,other
+RFIG,Figma Tokenized Stock (Reality),listed,185341,,-1.4,Bitget,figma-rstock,stock
+RSMH,VanEck Semiconductor ETF Tokenized Stock (Reality),listed,184685,,2.47,Bitget,vaneck-semiconductor-etf-rstock,stock
+BHIGH,Backed HIGH € High Yield Corp Bond,unverified,182090,,-0.24,,backed-high-high-yield-corp-bond,bond
+CIFRON,Cipher Mining (Ondo Tokenized Stock),unverified,182046,,9.2,,cipher-mining-ondo-tokenized-stock,stock
+GONDOLA,Gondola,unverified,181750,,0.79,,gondola,other
+ACNX,Accenture xStock,listed,179791,,-4.64,Gate,accenture-xstock,stock
+CRDOON,Credo Technology Group Holding (Ondo Tokenized),listed,177681,,5.84,MEXC,credo-technology-group-holding-ondo-tokenized,other
+REGEN,Regen,unverified,176398,,4.99,,regen,other
+MRNAON,Moderna (Ondo Tokenized),unverified,176098,,4.98,,moderna-ondo-tokenized,other
+DHRX,Danaher xStock,listed,174419,,0.1,Gate,danaher-xstock,stock
+AVGO,Broadcom (Dinari Tokenized Stock),unverified,174278,,3.08,,broadcom-dinari-tokenized-stock,stock
+STMON,STMicroelectronics (Ondo Tokenized),unverified,173835,,5.49,,stmicroelectronics-ondo-tokenized,other
+WBMNRX,Wrapped Bitmine xStock,unverified,173196,,2.83,,wrapped-bitmine-xstock,stock
+SQQQON,ProShares UltraPro Short QQQ (Ondo Tokenized),unverified,172870,,-3.69,,proshares-ultrapro-short-qqq-ondo-tokenized,other
+EWZON,iShares MSCI Brazil ETF (Ondo Tokenized),unverified,172407,,0,,ishares-msci-brazil-etf-ondo-tokenized,fund
+GRND,Grindr (Backpack Securities),listed,172275,,-1.99,Gate,grindr-backpack-securities,other
+RIOTX,Riot Platforms xStock,unverified,171494,,5.13,,riot-platforms-xstock,stock
+TSEMON,Tower Semiconductor (Ondo Tokenized),unverified,171256,,4.27,,tower-semiconductor-ondo-tokenized,other
+IAU,iShares Gold Trust (Dinari Tokenized ETF),unverified,170634,,1.36,,ishares-gold-trust-dinari-tokenized-etf,commodity
+CRYSTAL STONES,Crystal Stones,unverified,170242,,-4.52,,crystal-stones,other
+PALLX,abrdn Physical Palladium Shares xStock,unverified,167720,,0,,abrdn-physical-palladium-shares-xstock,stock
+XOMON,Exxon Mobil (Ondo Tokenized Stock),listed,167301,,-2.1,MEXC,exxon-mobil-ondo-tokenized-stocks,stock
+URA,Global X Uranium ETF (Backpack Securities),unverified,167170,,4.49,,global-x-uranium-etf-backpack-securities,commodity
+NET,"Cloudflare, Inc. • Robinhood Token",unverified,165321,,-1.19,,cloudflare-inc-robinhood-token,other
+SIVR,abrdn Physical Silver ETF (Dinari Tokenized ETF),unverified,164973,,-0.94,,abrdn-physical-silver-etf-dinari-tokenized-etf,commodity
+RTTWO,Take-Two Interactive Software Tokenized Stock (Reality),listed,164261,,-0.76,Bitget,take-two-interactive-software-rstock,stock
+RCONL,GraniteShares 2x Long COIN Daily ETF Tokenized Stock (Reality),listed,164176,,-1.45,Bitget,graniteshares-2x-long-coin-daily-etf-rstock,stock
+MTSION,MACOM Technology Solutions Holdings (Ondo Tokenized),unverified,163901,,4.13,,macom-technology-solutions-holdings-ondo-tokenized,other
+WAAPLX,Wrapped Apple xStock,unverified,161978,,0.41,,wrapped-apple-xstock,stock
+RCRCA,Proshares Ultra CRC Tokenized Stock (Reality),listed,161176,,2.37,Bitget,proshares-ultra-crc-rstock,stock
+FIG,"Figma, Inc. • Robinhood Token",unverified,159554,,-1.67,,figma-inc-robinhood-token,other
+BA,Boeing • Robinhood Token,unverified,159285,,-9.35,,boeing-robinhood-tokenized-stock,other
+RGEV,GE Vernova Tokenized Stock (Reality),listed,158884,,4.53,Bitget,ge-vernova-rstock,stock
+FWDI,"Forward Industries, Inc. (Backpack Securities)",unverified,158358,,2,,forward-industries-inc-backpack-securities,other
+KTB,Etherfuse KTB,unverified,158014,,0,,etherfuse-ktb,other
+QUBT,Quantum Computing • Robinhood Token,unverified,157733,,6.51,,quantum-computing-robinhood-tokenized-stock,other
+ABTX,Abbott xStock,listed,156857,,-1.22,Gate,abbott-xstock,stock
+XAI,xAI PreStocks,listed,155923,,0,Binance/Bybit/Gate/MEXC/Bitget,xai-prestocks-2,stock
+WXIAOX,Wrapped Xiaomi xStock,unverified,155338,,-3.62,,wrapped-xiaomi-xstock,stock
+NFLXC,Netflix Inc (Coinbase Tokenized Stock),unverified,154399,,-6.29,,netflix-inc-coinbase-tokenized-stock,stock
+CEGX,Constellation Energy Corporation xStock,unverified,154060,,0,,constellation-energy-corporation-xstock,stock
+NKE,Nike (Dinari Tokenized Stock),unverified,153780,,-0.97,,nike-dinari-tokenized-stock,stock
+IBM,International Business Machines (Backpack Securities),unverified,152598,,-1.25,,international-business-machines-backpack-securities,other
+RMRNA,Moderna Tokenized Stock (Reality),listed,152444,,4.85,Bitget,moderna-rstock,stock
+IREN,IREN Limited • Robinhood Token,unverified,152417,,8.36,,iren-limited-robinhood-tokenized-stock,other
+ETNX,Eaton Corporation plc xStock,unverified,152153,,0,,eaton-corporation-plc-xstock,stock
+ENTGON,Entegris (Ondo Tokenized),unverified,152137,,6.96,,entegris-ondo-tokenized,other
+KLACON,KLA (Ondo Tokenized),unverified,151925,,2.62,,kla-ondo-tokenized,other
+SHEINX,SHEIN xStock,unverified,151079,,0,,shein-xstock,stock
+AMC,AMC Entertainment (Backpack Securities),unverified,150601,,3.94,,amc-entertainment-backpack-securities,other
+RNOW,ServiceNow Tokenized Stock (Reality),listed,149861,,-1.61,Bitget,servicenow-rstock,stock
+ASML,ASML Holding NV • Robinhood Token,unverified,149180,,3.03,,asml-holding-nv-robinhood-tokenized-stock,other
+NIOON,NIO (Ondo Tokenized),unverified,148163,,0.54,,nio-ondo-tokenized,other
+NBASIS,Nest Basis Vault,unverified,147810,,0.09,,nest-basis-vault,other
+F,Ford Motor • Robinhood Token,listed,146163,,1.57,Binance/Bybit/Gate/MEXC/Bitget,ford-motor-robinhood-tokenized-stock,other
+MRNA,Moderna (Backpack Securities),unverified,146133,,5.01,,moderna-backpack-securities,other
+DEHYB,HYB deRWA,unverified,144182,,0.22,,hyb-derwa,other
+RGTION,Rigetti Computing (Ondo Tokenized),listed,143922,,9.18,MEXC,rigetti-computing-ondo-tokenized,other
+RBLX,Roblox (Backpack Securities),listed,143904,,0.87,Bitget,roblox-backpack-securities,other
+COPX,Global X Copper Miners ETF (Backpack Securities),unverified,143325,,3,,global-x-copper-miners-etf-backpack-securities,fund
+WMSFTX,Wrapped Microsoft xStock,unverified,142073,,0.08,,wrapped-microsoft-xstock,stock
+ALABON,Astera Labs (Ondo Tokenized),listed,141966,,8.25,MEXC,astera-labs-ondo-tokenized,other
+BULL,Webull Corporation • Robinhood Token,unverified,140603,,1.67,,webull-corporation-robinhood-token,other
+NU,Nu • Robinhood Token,unverified,139976,,-3.97,,nu-robinhood-tokenized-stock,other
+RBAC,Bank of America Tokenized Stock (Reality),listed,139938,,0.24,Bitget,bank-of-america-rstock,stock
+PNDO,Pondo,unverified,139903,,0,,pondo,other
+UPS,UPS • Robinhood Token,unverified,139542,,5.72,,ups-robinhood-tokenized-stock,other
+IJRX,S&P Small Cap xStock,unverified,138592,,0,,s-p-small-cap-xstock,stock
+LUNRON,Intuitive Machines (Ondo Tokenized),listed,137876,,8.41,MEXC,intuitive-machines-ondo-tokenized,other
+AMD,Advanced Micro Devices (Dinari Tokenized Stock),unverified,137418,,5.73,,advanced-micro-devices-dinari-tokenized-stock,stock
+RVST,Revest Finance,listed,137295,,0,Bitget,revest-finance,other
+NSDX,NASDEX,listed,136719,,0.59,Gate,nasdex-token,other
+AURON,Aurora Innovation (Ondo Tokenized),unverified,136299,,4.21,,aurora-innovation-ondo-tokenized,other
+HONX,Honeywell xStock,listed,135902,,-0.49,Gate,honeywell-xstock,stock
+CLSKX,CleanSpark xStock,unverified,134508,,0,,cleanspark-xstock,stock
+ANZ,Anzen Finance,unverified,134436,,-0.61,,anzen-finance,other
+AMDC,"Advanced Micro Devices, Inc. (Coinbase Tokenized Stock)",unverified,134156,,5.9,,advanced-micro-devices-inc-coinbase-tokenized-stock,stock
+RMARA,MARA Holdings Tokenized Stock (Reality),listed,134142,,2.93,Bitget,mara-holdings-rstock,stock
+CGV,Cogito Finance,unverified,132542,,0,,cogito-protocol,other
+RSMCI,Super Micro Computer Tokenized Stock (Reality),listed,131964,,6.82,Bitget,super-micro-computer-rstock,stock
+GPRO,GoPro (Backpack Securities),unverified,131211,,1.59,,gopro-backpack-securities,other
+RLRCX,Lam Research Tokenized Stock (Reality),listed,126949,,1.52,Bitget,lam-research-rstock,stock
+LPTHON,LightPath Technologies (Ondo Tokenized),unverified,126352,,0,,lightpath-technologies-ondo-tokenized,other
+BTBTX,Bit Digital xStock,unverified,125059,,10.7,,bit-digital-xstock,stock
+RTLT,iShares 20+ Year Treasury Bond ETF Tokenized Stock (Reality),listed,124250,,-0.19,Bitget,ishares-20-year-treasury-rstock,treasury
+RISRG,Intuitive Surgical Tokenized Stock (Reality),listed,124090,,-0.98,Bitget,intuitive-surgical-rstock,stock
+PMX,Philip Morris xStock,listed,122834,,0,Gate,philip-morris-xstock,stock
+LMT,Lockheed Martin Corp. • Robinhood Token,unverified,122584,,-0.68,,lockheed-martin-corp-robinhood-token,other
+ORCLC,Oracle Corporation (Coinbase Tokenized Stock),unverified,122103,,4.04,,oracle-corporation-coinbase-tokenized-stock,stock
+WEN,The Wendy's Company (Backpack Securities),listed,121662,,-1.68,Kraken/MEXC,the-wendy-s-company-backpack-securities,other
+CORZON,Core Scientific (Ondo Tokenized),listed,121293,,5.62,MEXC,core-scientific-ondo-tokenized,other
+SILON,Global X Silver Miners ETF (Ondo Tokenized),unverified,120602,,4.48,,global-x-silver-miners-etf-ondo-tokenized,commodity
+USO,"United States Oil Fund, LP (Backpack Securities)",unverified,120429,,-1.72,,united-states-oil-fund-lp-backpack-securities,fund
+RBLXX,Roblox xStock,unverified,119783,,0,,roblox-xstock,stock
+MSFT,Microsoft (Dinari Tokenized Stock),unverified,119199,,0.19,,microsoft-dinari-tokenized-stock,stock
+STXON,Seagate (Ondo Tokenized),listed,118483,,-2.73,MEXC,seagate-ondo-tokenized,other
+ALTHEA,ALTHEA,listed,118275,,0,Kraken,althea,other
+INDA,iShares MSCI India ETF • Robinhood Token,unverified,118134,,-0.22,,ishares-msci-india-etf-robinhood-token,fund
+ELX,Elixir,listed,118052,,-16.72,Kraken/Gate,elixir-finance,other
+VCXX,"Fundrise Innovation Fund, LLC xStock",unverified,117536,,0,,fundrise-innovation-fund-llc-xstock,stock
+NVTSON,Navitas Semiconductor (Ondo Tokenized),unverified,117447,,10.24,,navitas-semiconductor-ondo-tokenized,other
+QUBT,Quantum Computing (Backpack Securities),unverified,116895,,5.93,,quantum-computing-backpack-securities,other
+LMT,Lockheed Martin (Backpack Securities),unverified,116787,,-1.17,,lockheed-martin-backpack-securities,other
+WULFX,TeraWulf xStock,unverified,116765,,0,,terawulf-xstock,stock
+MRVLC,"Marvell Technology, Inc. (Coinbase Tokenized Stock)",unverified,116163,,2.64,,marvell-technology-inc-coinbase-tokenized-stock,stock
+RSOFI,SoFi Technologies Tokenized Stock (Reality),listed,115781,,14.03,Bitget,sofi-technologies-rstock,stock
+COST,Costco Wholesale (Backpack Securities),unverified,115034,,-0.2,,costco-wholesale-backpack-securities,other
+QQQ,"Invesco QQQ Trust, Series 1 (Dinari Tokenized ETF)",unverified,114953,,1.33,,invesco-qqq-trust-series-1-dinari-tokenized-etf,fund
+META,Meta Platforms (Dinari Tokenized Stock),listed,113714,,-2.01,Coinbase,meta-platforms-dinari-tokenized-stock,stock
+LULU,lululemon athletica inc. (Backpack Securities),unverified,112708,,1.7,,lululemon-athletica-inc-backpack-securities,other
+CORZX,Core Scientific xStock,unverified,112701,,0,,core-scientific-xstock,stock
+ART,LiveArt,listed,112200,,1.47,Gate,liveart,other
+AXTION,AXT (Ondo Tokenized),listed,111602,,1.49,MEXC,axt-ondo-tokenized,other
+EWY,iShares MSCI South Korea fund • Robinhood Token,unverified,111577,,2.56,,ishares-msci-south-korea-fund-robinhood-tokenized-stock,fund
+PURRON,Hyperliquid Strategies (Ondo Tokenized),unverified,110241,,8.47,,hyperliquid-strategies-ondo-tokenized,other
+TMOX,Thermo Fisher xStock,unverified,109560,,0,,thermo-fisher-xstock,stock
+SMH,VanEck Semiconductor ETF • Robinhood Token,unverified,108889,,0,,vaneck-semiconductor-etf-robinhood-token,fund
+RIONQ,IonQ Tokenized Stock (Reality),listed,107877,,7.27,Bitget,ionq-rstock,stock
+CPERON,US Copper Index Fund (Ondo Tokenized),unverified,107758,,2.13,,us-copper-index-fund-ondo-tokenized,fund
+RQLD,ProShares Ultra QQQ Tokenized Stock (Reality),listed,107756,,2.73,Bitget,proshares-ultra-qqq-rstock,stock
+AZNX,AstraZeneca xStock,listed,107619,,-4.71,Gate,astrazeneca-xstock,stock
+ELLIPSE,ELLIPSE,unverified,107349,,0,,ellipse,other
+WDC,Western Digital Corporation • Robinhood Token,unverified,105397,,5.56,,western-digital-corporation-robinhood-token,other
+LION,Li Auto (Ondo Tokenized),listed,105318,,0.04,Kraken/Gate,li-auto-ondo-tokenized,other
+RIVNON,Rivian Automotive (Ondo Tokenized),listed,104618,,2.77,MEXC,rivian-automotive-ondo-tokenized,other
+LDY,Ledgity Token,unverified,104582,,0,,ledgity-token,other
+OXYON,Occidental Petroleum (Ondo Tokenized),unverified,104411,,-2.15,,occidental-petroleum-ondo-tokenized,other
+MRVL,Marvell Technology (Backpack Securities),unverified,104000,,3.75,,marvell-technology-backpack-securities,other
+FILQ-D,Fidelity USD Digital Liquidity Fund-Dist,unverified,101234,,0,,fidelity-usd-digital-liquidity-fund-dist,fund
+AMZN,Amazon (Dinari Tokenized Stock),unverified,101145,,1.85,,amazon-dinari-tokenized-stock,stock
+RFUTU,Futu Holdings Tokenized Stock (Reality),listed,100089,,1.09,Bitget,futu-holdings-rstock,stock
+NACRDX,Nest Apollo ACRDX Vault,unverified,99828,,0.06,,nest-apollo-acrdx-vault,other
+GRABON,Grab Holdings (Ondo Tokenized Stock),unverified,99799,,0.39,,grab-holdings-ondo-tokenized-stock,stock
+SNOW,Snowflake Inc. • Robinhood Token,unverified,99400,,0.01,,snowflake-inc-robinhood-token,other
+RSGOV,iShares 0-3 Month Treasury Bond ETF Tokenized Stock (Reality),listed,98696,,0.04,Bitget,ishares-0-3-month-treasury-bond-etf-rstock,treasury
+RBLXC,Roblox Corporation (Coinbase Tokenized Stock),unverified,96674,,0,,roblox-corporation-coinbase-tokenized-stock,stock
+LINX,Linde xStock,unverified,96204,,0.06,,linde-xstock,stock
+DDOG,Datadog • Robinhood Token,unverified,96170,,-0.76,,datadog-robinhood-tokenized-stock,other
+OPUL,Opulous,unverified,96052,,3.16,,opulous,other
+AGRI,AgriDex,unverified,95405,,0.88,,agridex-governance-token,other
+OPENX,OPEN xStock,unverified,94084,,0.49,,open-xstock,stock
+RONDS,Ondas Holdings Tokenized Stock (Reality),listed,93837,,8.49,Bitget,ondas-rstock,stock
+TMUSX,T-Mobile xStock,unverified,93198,,0,,t-mobile-xstock,stock
+DTSLA,Tesla Tokenized Stock Defichain,unverified,90989,,0,,dtsla,stock
+IXO,IXO,unverified,90858,,1.89,,ixo,other
+HDX,Home Depot xStock,listed,87042,,-0.34,Kraken/Gate,home-depot-xstock,stock
+RPEP,PepsiCo Tokenized Stock (Reality),listed,87010,,-1.38,Bitget,pepsico-rstock,stock
+AMAT,Applied Materials • Robinhood Token,unverified,86969,,0,,applied-materials-robinhood-tokenized-stock,other
+PTN,"Palatin Technologies, Inc. Common Stock (Backpack Securities)",unverified,84783,,2.42,,palatin-technologies-inc-common-stock-backpack-securities,stock
+PFE,Pfizer (Backpack Securities),unverified,84762,,0.49,,pfizer-backpack-securities,other
+WTFGI,FGI Industries (ST0x Tokenized Stock),unverified,83843,,0.17,,fgi-industries-st0x-tokenized-stock,stock
+RWMT,Walmart Tokenized Stock (Reality),listed,83683,,-0.7,Bitget,walmart-rstock,stock
+USARON,USA Rare Earth (Ondo Tokenized),listed,83358,,16.41,MEXC,usa-rare-earth-ondo-tokenized,other
+BTDRON,Bitdeer Technologies (Ondo Tokenized),unverified,83158,,6.5,,bitdeer-technologies-ondo-tokenized,other
+RCAT,"Red Cat Holdings, Inc. • Robinhood Token",unverified,82976,,9.91,,red-cat-holdings-inc-robinhood-token,other
+PENG,Penguin Solutions • Robinhood Token,unverified,82101,,7.92,,penguin-solutions-robinhood-tokenized-stock,other
+ERA,Erable°,listed,80909,,0,Binance/Coinbase/Bybit/Gate/MEXC/Bitget,erable,other
+MDTX,Medtronic xStock,unverified,80424,,0,,medtronic-xstock,stock
+WHOODX,Wrapped Robinhood xStock,unverified,80336,,-3.34,,wrapped-robinhood-xstock,stock
+UNGON,US Natural Gas Fund (Ondo Tokenized),listed,79891,,0.63,MEXC,us-natural-gas-fund-ondo-tokenized,fund
+RJOBY,Joby Aviation Tokenized Stock (Reality),listed,79652,,7.27,Bitget,joby-aviation-rstock,stock
+MBLYON,Mobileye Global (Ondo Tokenized),unverified,79164,,3.12,,mobileye-global-ondo-tokenized,other
+RQQQM,Invesco NASDAQ 100 ETF Tokenized Stock (Reality),listed,79116,,1.43,Bitget,invesco-nasdaq-100-etf-rstock,stock
+BTGOX,Bitgo xStock,unverified,78679,,0,,bitgo-xstock,stock
+DSPY,SPDR S&P 500 ETF Trust Defichain,unverified,78274,,0,,spdr-s-p-500-etf-trust-defichain,fund
+RCRDO,Credo Technology Group Holding Tokenized Stock (Reality),listed,78219,,6.63,Bitget,credo-technology-rstock,stock
+SHOP,Shopify (Backpack Securities),unverified,77677,,-2.11,,shopify-backpack-securities,other
+RUSAR,USA Rare Earth Tokenized Stock (Reality),listed,77471,,16.75,Bitget,usa-rare-earth-rstock,stock
+LYP,Lympid,listed,77376,,0.88,Gate,lympid,other
+RSQQQ,ProShares UltraPro Short QQQ Tokenized Stock (Reality),listed,77320,,-3.99,Bitget,proshares-ultrapro-short-qqq-etf-rstock,stock
+WYFI,"WhiteFiber, Inc. • Robinhood Token",unverified,77182,,10.92,,whitefiber-inc-robinhood-token,other
+BA,The Boeing Company (Backpack Securities),unverified,77037,,-9.63,,the-boeing-company-backpack-securities,other
+GLDR,Gold rStock,unverified,76156,,0,,gold-rstock,commodity
+SHOP,Shopify • Robinhood Token,unverified,76068,,-1.81,,shopify-robinhood-tokenized-stock,other
+URQA,UREEQA,unverified,75475,,0,,ureeqa,other
+ERO,Ero Copper (Dinari Tokenized Stock),unverified,74953,,4.18,,ero-copper-dinari-tokenized-stock,stock
+CBRS,Cerebras Systems • Robinhood Token,unverified,74625,,0,,cerebras-systems-robinhood-tokenized-stock,other
+SOXX,iShares Semiconductor ETF • Robinhood Token,unverified,74593,,2.68,,ishares-semiconductor-etf-robinhood-tokenized-stock,fund
+PPLTR,Platinum rStock,unverified,74468,,0,,platinum-rstock,commodity
+ONON,ON Semiconductor (Ondo Tokenized),unverified,74160,,6.18,,on-semiconductor-ondo-tokenized,other
+RGE,General Electric Tokenized Stock (Reality),listed,73147,,3.17,Bitget,ge-aerospace-rstock,stock
+RMPC,Marathon Petroleum Tokenized Stock (Reality),listed,72104,,-7.7,Bitget,marathon-petroleum-rstock,stock
+CARR,Carnomaly,unverified,70604,,0,,carnomaly,other
+RBTGO,BitGo Holdings Tokenized Stock (Reality),listed,70451,,0,Bitget,bitgo-holdings-rstock,stock
+RGRAB,Grab Holdings Tokenized Stock (Reality),listed,70087,,0.38,Bitget,grab-holdings-rstock,stock
+RLYTE,Roundhill Photonics & Optics ETF Tokenized Stock (Reality),listed,69790,,0,Bitget,roundhill-photonics-optics-etf-rstock,stock
+GILTS,Etherfuse GILTS,unverified,69568,,-0.2,,etherfuse-gilts,other
+ARMC,Arm Holdings plc (Coinbase Tokenized Stock),unverified,69437,,1.32,,arm-holdings-plc-coinbase-tokenized-stock,stock
+RIVN,Rivian Automotive (Backpack Securities),unverified,68598,,1.87,,rivian-automotive-backpack-securities,other
+WINTCX,Wrapped Intel xStock,unverified,68534,,2.43,,wrapped-intel-xstock,stock
+RKLB,Rocket Lab (Backpack Securities),unverified,68101,,8.02,,rocket-lab-backpack-securities,other
+RPURR,Hyperliquid Strategies Tokenized Stock (Reality),listed,67846,,8.86,Bitget,hyperliquid-strategies-inc-rstock,stock
+DNUT,"Krispy Kreme, Inc. Common Stock (Backpack Securities)",unverified,67409,,0.6,,krispy-kreme-inc-common-stock-backpack-securities,stock
+AMCON,AMC Entertainment (Ondo Tokenized Stock),unverified,66455,,0,,amc-entertainment-ondo-tokenized-stocks,stock
+TSLAR,Tesla rStock,unverified,66307,,0,,tesla-rstock,stock
+FIGRON,Figure Technology Solutions (Ondo Tokenized Stock),unverified,65400,,0,,figure-technology-solutions-ondo-tokenized-stock,stock
+VTI,Vanguard Morningstar Total Stock Market ETF • Robinhood Token,unverified,64984,,0,,vanguard-morningstar-total-stock-market-etf-robinhood-token,stock
+RBNO,US Brent Oil Fund Tokenized Stock (Reality),listed,64478,,-0.36,Bitget,united-sts-brent-oil-fd-lp-unit-rstock,stock
+RIBM,IBM Tokenized Stock (Reality),listed,64122,,-1.06,Bitget,ibm-rstock,stock
+HIMSC,"Hims & Hers Health, Inc. (Coinbase Tokenized Stock)",unverified,63086,,-1.19,,hims-hers-health-inc-coinbase-tokenized-stock,stock
+PDBCON,Invesco Optimum Yld Dvsfd Cmd Str No K-1 ETF (Ondo Tokenized ETF),unverified,62780,,-0.67,,invesco-optimum-yld-dvsfd-cmd-str-no-k-1-etf-ondo-tokenized-etf,fund
+AVGO,Broadcom (Backpack Securities),unverified,62455,,1.37,,broadcom-backpack-securities,other
+EWJON,iShares MSCI Japan ETF (Ondo Tokenized),unverified,62395,,0.64,,ishares-msci-japan-etf-ondo-tokenized,fund
+FLWS,1-800-FLOWERS.COM (Backpack Securities),unverified,62374,,2.11,,1-800-flowers-com-backpack-securities,other
+RASX,ASE Technology Tokenized Stock (Reality),listed,62076,,0,Bitget,ase-technology-rstock,stock
+MOOX,VanEck Agribusiness ETF xStock,unverified,61917,,0,,vaneck-agribusiness-etf-xstock,stock
+NIOC,NIO Inc. (Coinbase Tokenized Stock),unverified,61592,,0.88,,nio-inc-coinbase-tokenized-stock,stock
+RRDW,Redwire Tokenized Stock (Reality),listed,61208,,7.23,Bitget,redwire-rstock,stock
+RVLO,Valero Energy Tokenized Stock (Reality),listed,60046,,-9.54,Bitget,valero-energy-rstock,stock
+RSMR,NuScale Power Tokenized Stock (Reality),listed,59612,,8.35,Bitget,nuscale-power-rstock,stock
+ARKVX,ARK Venture Fund,unverified,59426,,0.07,,ark-venture-fund,fund
+RSCHD,Schwab US Dividend Equity ETF Tokenized Stock (Reality),listed,59331,,-0.38,Bitget,schwab-us-dividend-equity-etf-rstock,stock
+WTSGOV,BlackRock iShares 0-3 Month Treasury Bond (ST0x Tokenized ETF),unverified,59159,,-0.12,,blackrock-ishares-0-3-month-treasury-bond-st0x-tokenized-etf,treasury
+AWDH,Waterdrop Inc aStock,unverified,59125,,2.07,,waterdrop-inc-astock,stock
+SONYC,Sony Group Corporation (Coinbase Tokenized Stock),unverified,59011,,-1.09,,sony-group-corporation-coinbase-tokenized-stock,stock
+RAVAV,AeroVironment Tokenized Stock (Reality),listed,58395,,1.25,Bitget,aerovironment-rstock,stock
+STRK,Strategy Strike Preferred (Dinari Tokenized Stock),listed,57913,,0,Binance/Coinbase/OKX/Bybit/Kraken/Gate/MEXC/Bitget,strategy-strike-preferred-dinari-tokenized-stock,stock
+RURA,Global X Uranium ETF Tokenized Stock (Reality),listed,57793,,4.34,Bitget,global-x-uranium-etf-rstock,stock
+RAGNC,AGNC Investment Corp. Tokenized Stock (Reality),listed,57687,,0,Bitget,agnc-investment-corp-rstock,stock
+SOXL,Direxion Daily Semiconductor Bull 3X ETF (Dinari Tokenized ETF),unverified,57549,,8.77,,direxion-daily-semiconductor-bull-3x-etf-dinari-tokenized-etf,fund
+HTZ,"Hertz Global Holdings, Inc Common Stock (Backpack Securities)",unverified,57231,,1.47,,hertz-global-holdings-inc-common-stock-backpack-securities,stock
+SPTE,SP Funds S&P Global Technology ETF (Dinari Tokenized ETF),unverified,57213,,0,,sp-funds-s-p-global-technology-etf-dinari-tokenized-etf,fund
+OUSTON,Ouster (Ondo Tokenized),unverified,57127,,9.79,,ouster-ondo-tokenized,other
+RKEY,Rkey,listed,56808,,0,Bitget,rkey,other
+RGS,Goldman Sachs Tokenized Stock (Reality),listed,56736,,0,Bitget,goldman-sachs-rstock,stock
+BUDC,Anheuser-Busch InBev SA/NV (Coinbase Tokenized Stock),unverified,56731,,3.37,,anheuser-busch-inbev-sa-nv-coinbase-tokenized-stock,stock
+UBXS,UBXS,unverified,56625,,0.94,,ubxs-token,other
+BB,BlackBerry (Backpack Securities),listed,56071,,4.08,Binance/Bybit/Gate/MEXC/Bitget,blackberry-backpack-securities,other
+RKSTR,KraneShares SSE STAR Market 50 Index ETF Tokenized Stock (Reality),listed,55798,,-2.32,Bitget,kraneshares-sse-star-market-50-index-etf-rstock,stock
+SCHH,Schwab U.S. REIT ETF (Backpack Securities),unverified,55677,,-0.43,,schwab-u-s-reit-etf-backpack-securities,fund
+NOKC,Nokia Corporation (Coinbase Tokenized Stock),unverified,55633,,2.08,,nokia-corporation-coinbase-tokenized-stock,stock
+ORCL,Oracle (Dinari Tokenized Stock),unverified,55159,,4.09,,oracle-dinari-tokenized-stock,stock
+EMYC,E Money Network,unverified,55015,,0,,emoneytoken,other
+DELL,Dell Technologies (Backpack Securities),unverified,54939,,7.21,,dell-technologies-backpack-securities,other
+RPFE,Pfizer Tokenized Stock (Reality),listed,54450,,0.09,Bitget,pfizer-rstock,stock
+RDDTC,"Reddit, Inc. (Coinbase Tokenized Stock)",unverified,54185,,-0.08,,reddit-inc-coinbase-tokenized-stock,stock
+BULL,Webull Corporation Class A Ordinary Shares (Backpack Securities),unverified,53861,,1.17,,webull-corporation-class-a-ordinary-shares-backpack-securities,other
+QUBTON,Quantum Computing (Ondo Tokenized),unverified,53728,,0,,quantum-computing-ondo-tokenized,other
+SPWO,SP Funds S&P World (ex-US) ETF (Dinari Tokenized ETF),unverified,53593,,0,,sp-funds-s-p-world-ex-us-etf-dinari-tokenized-etf,fund
+RLUNR,Intuitive Machines Tokenized Stock (Reality),listed,53304,,10.32,Bitget,intuitive-machines-rstock,stock
+HUBBON,Hubbell (Ondo Tokenized),unverified,52910,,-6.16,,hubbell-ondo-tokenized,other
+LBM,Libertum,unverified,52619,,0,,libertum,other
+VALEC,Vale S.A. (Coinbase Tokenized Stock),unverified,52362,,-1.72,,vale-s-a-coinbase-tokenized-stock,stock
+MPS,Meupass,unverified,52236,,0.84,,meupass,other
+CIBRON,First Trust NASDAQ Cybersecurity ETF (Ondo Tokenized),unverified,52003,,1.01,,first-trust-nasdaq-cybersecurity-etf-ondo-tokenized,fund
+SILV,Dominion Silver,unverified,51757,,0,,dominion-silver,commodity
+BILIC,Bilibili Inc. (Coinbase Tokenized Stock),unverified,51704,,-1.5,,bilibili-inc-coinbase-tokenized-stock,stock
+WULF,TeraWulf (Backpack Securities),unverified,51680,,5.09,,terawulf-backpack-securities,other
+RKLB,Rocket Lab Corporation • Robinhood Token,unverified,51675,,4.52,,rocket-lab-corporation-robinhood-tokenized-stock,other
+RCOPX,Global X Copper Miners ETF Tokenized Stock (Reality),listed,51587,,3.19,Bitget,global-x-copper-miners-etf-rstock,stock
+JNJ,Johnson & Johnson (Backpack Securities),unverified,51511,,1.36,,johnson-johnson-backpack-securities,other
+RINFQ,Infleqtion Tokenized Stock (Reality),listed,51498,,12.98,Bitget,infleqtion-rstock,stock
+RSNOW,Snowflake Tokenized Stock (Reality),listed,51199,,0.81,Bitget,snowflake-rstock,stock
+RTEM,Tempus AI Tokenized Stock (Reality),listed,51142,,7.11,Bitget,tempus-ai-rstock,stock
+GMEC,GameStop Corp. (Coinbase Tokenized Stock),unverified,50984,,0,,gamestop-corp-coinbase-tokenized-stock,stock
+PDDC,PDD Holdings Inc. (Coinbase Tokenized Stock),unverified,50428,,1.11,,pdd-holdings-inc-coinbase-tokenized-stock,stock
+NVOC,Novo Nordisk A/S (Coinbase Tokenized Stock),unverified,49590,,0.42,,novo-nordisk-a-s-coinbase-tokenized-stock,stock
+RTXON,RTX (Ondo Tokenized),unverified,49480,,-1.48,,rtx-ondo-tokenized,other
+BILON,SPDR Bloomberg 1-3 Month T-Bill ETF (Ondo Tokenized),unverified,49412,,0,,spdr-bloomberg-1-3-month-t-bill-etf-ondo-tokenized,treasury
+SPHR,Sphere Entertainment Co. (Backpack Securities),unverified,49347,,5.1,,sphere-entertainment-co-backpack-securities,other
+RFIGR,Figure Technology Solutions Tokenized Stock (Reality),listed,49250,,3.73,Bitget,figure-technology-solutions-rstock,stock
+RSPMO,Invesco S&P 500 Momentum ETF Tokenized Stock (Reality),listed,48283,,1.65,Bitget,invesco-s-p-500-momentum-etf-rstock,stock
+COIN,Coinbase Global (Dinari Tokenized Stock),unverified,48087,,-0.24,,coinbase-global-dinari-tokenized-stock,stock
+NVTON,nVent Electric (Ondo Tokenized),unverified,47991,,2.58,,nvent-electric-ondo-tokenized,other
+ULC,Unilever Plc (Coinbase Tokenized Stock),unverified,47735,,-0.8,,unilever-plc-coinbase-tokenized-stock,stock
+QUAIN,QUAIN,unverified,47476,,0,,quain,other
+RPOET,POET Technologies Tokenized Stock (Reality),listed,47368,,4.84,Bitget,poet-technologies-rstock,stock
+RXOM,Exxon Mobil Tokenized Stock (Reality),listed,47108,,-2.58,Bitget,exxon-mobil-rstock,stock
+INFYC,Infosys Limited (Coinbase Tokenized Stock),unverified,47027,,-3.19,,infosys-limited-coinbase-tokenized-stock,stock
+RECORD,Record Nexus,unverified,46819,,10.86,,music-protocol,other
+QCOM,Qualcomm • Robinhood Token,unverified,46506,,2.2,,qualcomm-robinhood-tokenized-stock,other
+MKSION,MKS Inc. (Ondo Tokenized),unverified,45986,,0,,mks-inc-ondo-tokenized,other
+RQBTS,D-Wave Quantum Tokenized Stock (Reality),listed,45918,,5.03,Bitget,d-wave-quantum-rstock,stock
+LIC,Li Auto Inc. (Coinbase Tokenized Stock),unverified,45578,,-2.27,,li-auto-inc-coinbase-tokenized-stock,stock
+TYCOON,Tycoon by Shareland,listed,44780,,0,Gate,tycoon-by-shareland,other
+RUM,RUM Group Inc. (Backpack Securities),unverified,44577,,6.74,,rum-group-inc-backpack-securities,other
+HSAIC,Hesai Group (Coinbase Tokenized Stock),unverified,44575,,-1.77,,hesai-group-coinbase-tokenized-stock,stock
+BIDUC,"Baidu, Inc. (Coinbase Tokenized Stock)",unverified,44238,,-1.13,,baidu-inc-coinbase-tokenized-stock,stock
+SOFI,SoFi Technologies • Robinhood Token,unverified,44081,,0,,sofi-technologies-robinhood-tokenized-stock,other
+RPANW,Palo Alto Networks Tokenized Stock (Reality),listed,43884,,-0.98,Bitget,palo-alto-networks-rstock,stock
+VICRON,Vicor (Ondo Tokenized),unverified,43619,,7.59,,vicor-ondo-tokenized,other
+RUNH,UnitedHealth Tokenized Stock (Reality),listed,43040,,0.41,Bitget,unitedhealth-rstock,stock
+SAPC,SAP SE (Coinbase Tokenized Stock),unverified,42745,,-1.29,,sap-se-coinbase-tokenized-stock,stock
+WRDC,WeRide Inc. (Coinbase Tokenized Stock),unverified,42692,,4.51,,weride-inc-coinbase-tokenized-stock,stock
+RKWEB,KraneShares CSI China Internet ETF Tokenized Stock (Reality),listed,42548,,-0.11,Bitget,kraneshares-csi-china-internet-etf-rstock,stock
+RLMT,Lockheed Tokenized Stock (Reality),listed,42471,,-1.79,Bitget,lockheed-martin-rstock,stock
+RBILI,Bilibili Tokenized Stock (Reality),listed,42445,,0,Bitget,bilibili-rstock,stock
+PALLR,Palladium rStock,unverified,42075,,0,,palladium-rstock,commodity
+RUBER,Uber Tokenized Stock (Reality),listed,42070,,-0.33,Bitget,uber-technologies-rstock,stock
+SANC,"Banco Santander, S.A. (Coinbase Tokenized Stock)",unverified,42044,,-0.42,,banco-santander-s-a-coinbase-tokenized-stock,stock
+RJPM,JPMorgan Chase Tokenized Stock (Reality),listed,41677,,0.44,Bitget,jpmorgan-rstock,stock
+GLD,SPDR Gold Trust (Dinari Tokenized ETF),unverified,41626,,1.32,,spdr-gold-trust-dinari-tokenized-etf,commodity
+CEG,Constellation Energy Corporation • Robinhood Token,unverified,41389,,3.2,,constellation-energy-corporation-robinhood-token,other
+SEC,Sea Limited (Coinbase Tokenized Stock),unverified,41172,,1.8,,sea-limited-coinbase-tokenized-stock,stock
+NFLX,Netflix (Dinari Tokenized Stock),unverified,40886,,-1.86,,netflix-dinari-tokenized-stock,stock
+RBB,BlackBerry Tokenized Stock (Reality),listed,40853,,3.16,Bitget,blackberry-rstock,stock
+RGLXY,Galaxy Digital Tokenized Stock (Reality),listed,40812,,8.99,Bitget,galaxy-digital-rstock,stock
+GE,GE Aerospace • Robinhood Token,unverified,40377,,3.67,,ge-aerospace-robinhood-token,other
+RRIOT,Riot Platforms Tokenized Stock (Reality),listed,40208,,7.94,Bitget,riot-platforms-rstock,stock
+RDXYZ,Destiny Tech100 Tokenized Stock (Reality),listed,40053,,2.27,Bitget,destiny-tech100-rstock,stock
+UECON,Uranium Energy (Ondo Tokenized),unverified,39096,,8.18,,uranium-energy-ondo-tokenized,commodity
+INFQ,"Infleqtion, Inc. • Robinhood Token",unverified,39073,,0,,infleqtion-inc-robinhood-token,other
+KWEBON,KraneShares CSI China Internet ETF (Ondo Tokenized),unverified,39049,,-0.33,,kraneshares-csi-china-internet-etf-ondo-tokenized,fund
+RTGT,Target Tokenized Stock (Reality),listed,38847,,0,Bitget,target-rstock,stock
+TLNON,Talen Energy (Ondo Tokenized Stock),unverified,38820,,2.38,,talen-energy-ondo-tokenized-stock,stock
+RSATA,Strive Preferred Tokenized Stock (Reality),listed,38776,,0.9,Bitget,strive-inc-perp-pfd-ser-a-var-rate-rstock,stock
+LUV,Southwest Airlines Co. (Backpack Securities),unverified,38670,,1.36,,southwest-airlines-co-backpack-securities,other
+RENPH,Enphase Energy Tokenized Stock (Reality),listed,38509,,0,Bitget,enphase-energy-rstock,stock
+RLLY,Eli Lilly Tokenized Stock (Reality),listed,38196,,0,Bitget,eli-lilly-and-co-rstock,stock
+MARA,MARA Holdings (Dinari Tokenized Stock),unverified,38099,,3.34,,mara-holdings-dinari-tokenized-stock,stock
+CAT,Caterpillar (Dinari Tokenized Stock),listed,37723,,-0.16,OKX/Bybit/Kraken/MEXC,caterpillar-dinari-tokenized-stock,stock
+BD/SOL,BlackDuckrwa,unverified,37643,,0,,blackduckrwa,other
+WSKHYX,Wrapped SK hynix xStock,unverified,37465,,1.61,,wrapped-sk-hynix-xstock,stock
+NEEON,NextEra Energy (Ondo Tokenized),unverified,37181,,0,,nextera-energy-ondo-tokenized,other
+RMO,Altria Tokenized Stock (Reality),listed,37086,,-1.02,Bitget,altria-rstock,stock
+RAEP,American Electric Power Tokenized Stock (Reality),listed,37029,,0,Bitget,american-electric-power-rstock,stock
+XOM,Exxon Holdings Corporation • Robinhood Token,unverified,36990,,0.36,,exxon-mobil-robinhood-tokenized-stock,other
+WTNKE,Nike (ST0x Tokenized Stock),unverified,36901,,-0.81,,nike-st0x-tokenized-stock,stock
+RV,Visa Tokenized Stock (Reality),listed,36460,,-0.83,Bitget,visa-rstock,stock
+WORCLX,Wrapped Oracle xStock,unverified,36416,,3.16,,wrapped-oracle-xstock,stock
+RTER,Teradyne Tokenized Stock (Reality),listed,36235,,-1.15,Bitget,teradyne-rstock,stock
+RFLY,Firefly Aerospace Tokenized Stock (Reality),listed,36235,,8.58,Bitget,firefly-aerospace-rstock,stock
+$QBIT,QUBI Tokenized RWA,unverified,36038,,1.2,,qubi-tokenized-rwa,other
+APP,Applovin Corporation • Robinhood Token,unverified,35744,,0,,applovin-corporation-robinhood-token,other
+ON,ON Semiconductor Corporation • Robinhood Token,listed,35736,,3.98,Gate/MEXC,on-semiconductor-corporation-robinhood-token,other
+RJD,JD.com Tokenized Stock (Reality),listed,35581,,1.09,Bitget,jd-com-rstock,stock
+RADBE,Adobe Tokenized Stock (Reality),listed,35310,,-3.16,Bitget,adobe-rstock,stock
+SMRON,NuScale Power (Ondo Tokenized),unverified,35179,,2.65,,nuscale-power-ondo-tokenized,other
+DJTC,Trump Media & Technology Group Corp. (Coinbase Tokenized Stock),unverified,35175,,0,,trump-media-technology-group-corp-coinbase-tokenized-stock,stock
+ZM,Zoom • Robinhood Token,unverified,35107,,2.13,,zoom-robinhood-tokenized-stock,other
+WBCOIN,Wrapped Backed Coinbase Global,unverified,34923,,-0.25,,wrapped-bcoin,other
+RFTNT,Fortinet Tokenized Stock (Reality),listed,34828,,0,Bitget,fortinet-rstock,stock
+RHPQ,HP Tokenized Stock (Reality),listed,34825,,0,Bitget,hp-inc-rstock,stock
+ETHE,Grayscale Ethereum Staking ETF (Dinari Tokenized ETF),unverified,34578,,0,,grayscale-ethereum-staking-etf-dinari-tokenized-etf,fund
+IEION,iShares 3-7 Year Treasury Bond ETF (Ondo Tokenized),unverified,34562,,0,,ishares-3-7-year-treasury-bond-etf-ondo-tokenized,treasury
+NCREDIT,Nest Credit Vault,unverified,34507,,0.02,,nest-credit-vault,credit
+SOUN,"SoundHound AI, Inc • Robinhood Token",unverified,34390,,0,,soundhound-ai-inc-robinhood-token,other
+MELI,MercadoLibre (Dinari Tokenized Stock),unverified,34279,,1,,mercadolibre-dinari-tokenized-stock,stock
+RCIEN,Ciena Tokenized Stock (Reality),listed,34135,,4.26,Bitget,ciena-rstock,stock
+RDUOL,Duolingo Tokenized Stock (Reality),listed,33739,,1.85,Bitget,duolingo-rstock,stock
+WTGRND,Grindr (ST0x Tokenized Stock),unverified,33690,,-0.75,,grindr-st0x-tokenized-stock,stock
+NOCON,Northrop Grumman (Ondo Tokenized),unverified,33624,,-1.9,,northrop-grumman-ondo-tokenized,other
+HSAION,Hesai Group (Ondo Tokenized),unverified,33472,,-2.65,,hesai-group-ondo-tokenized,other
+RNB,Rentible,unverified,33360,,0,,rentible,other
+RUN,Sunrun Inc. • Robinhood Token,unverified,32922,,0.51,,sunrun-inc-robinhood-token,other
+PLON,Planet Labs (Ondo Tokenized),unverified,32798,,5.89,,planet-labs-ondo-tokenized,other
+COPON,ConocoPhillips (Ondo Tokenized Stock),listed,32585,,-1.62,MEXC,conocophillips-ondo-tokenized-stocks,stock
+NELIXIR,Nest Elixir Vault,unverified,32284,,0,,nest-institutional-core,other
+WCOINX,Wrapped Coinbase xStock,unverified,32282,,-0.65,,wrapped-coinbase-xstock,stock
+WMON,Waste Management (Ondo Tokenized),unverified,31986,,0,,waste-management-ondo-tokenized,other
+INODON,Innodata (Ondo Tokenized),unverified,31946,,-25.39,,innodata-ondo-tokenized,other
+JNJON,Johnson & Johnson (Ondo Tokenized Stock),unverified,31808,,0.96,,johnson-johnson-ondo-tokenized-stock,stock
+LEGEND,Legend,unverified,31751,,0,,legend-2,other
+RAKAM,Akamai Technologies Tokenized Stock (Reality),listed,31694,,1.26,Bitget,akamai-rstock,stock
+KEELON,Keel Infrastructure (Ondo Tokenized),listed,31626,,5.21,MEXC,keel-infrastructure-ondo-tokenized,other
+HPE,Hewlett Packard Enterprise Company • Robinhood Token,unverified,31404,,2.66,,hewlett-packard-enterprise-company-robinhood-token,other
+RCEG,Constellation Energy Tokenized Stock (Reality),listed,31027,,2.81,Bitget,constellation-energy-rstock,stock
+LAB,LABS ON GOLD,listed,2833.27,,0,Gate/MEXC/Bitget,labs-on-gold,commodity
+QGOLD,Quorium,unverified,0,,0,,quorium,commodity
+GRAMG,Gram Gold,unverified,0,,1.05,,gram-gold,commodity
+ONSG,Token Teknoloji A.Ş. ONS Gold,unverified,0,,1.17,,token-teknoloji-a-s-ons-gold,commodity
+BIGOD,Bingold,unverified,0,,0.65,,bingold,commodity
+JPGC,JP Gold Coin,unverified,0,,0,,jp-gold-coin,commodity
+UGOLD,UGOLD Inc.,unverified,0,,0,,ugold-inc-2,commodity
+GOLDST,Ethereum GOLDST,unverified,0,,0,,strato-goldst-tokenized-gold,commodity
+ONSS,Token Teknoloji A.Ş. ONS Silver,unverified,272.22,,0.87,,token-teknoloji-a-s-ons-silver,commodity
+SLVR,Silver rStock,unverified,4.21,,0,,silver-rstock,commodity
+GRAMS,Gram Silver,unverified,0,,0.88,,gram-silver,commodity
+SILVST,STRATO SILVST Tokenized Silver,unverified,0,,0.54,,strato-silvst-tokenized-silver,commodity
+PC0000037,Tradable NA Fintech Nonprime Lender SSTN,unverified,0,,0,,na-fintech-nonprime-lender-sstn,credit
+PC0000023,Tradable NA Neobank SSTL,unverified,0,,0,,tradable-na-neobank-sstl,credit
+PC0000077,Tradable Singapore Fintech SSL,unverified,0,,0,,tradable-singapore-fintech-ssl,credit
+PC0000113,Tradable NA Residential Real Estate-Backed Credit Card SSTN,unverified,0,,0,,tradable-na-residential-real-estate-backed-credit-card-sstn,credit
+PC0000061,Tradable NA Music Royalties SSTL,unverified,0,,0,,na-music-royalties-sstl,credit
+AA_FALCONXUSDC,Pareto AA Tranche FalconX USDC,unverified,0,,0,,pareto-aa-tranche-falconx-usdc,credit
+ENA,Ethena USDtb,listed,0,475971796,,Binance/Coinbase/OKX/Bybit/Kraken/Gate/MEXC/Bitget,,other
+HUMA,Huma,listed,0,376403904,,Binance/OKX/Bybit/Gate/MEXC/Bitget,,other
+-,OnRe,unverified,0,301149509,,,,other
+-,Anemoy Capital,unverified,0,283300399,,,,other
+CHIP,USD AI,listed,0,266436721,,Binance/Coinbase/OKX/Bybit/Kraken/Gate/MEXC,,other
+-,OpenTrade,unverified,0,244954099,,,,other
+-,Plume Vaults,unverified,0,228459917,,,,other
+-,R25,unverified,0,195633799,,,,other
+REG,RealT Tokens,listed,0,155014888,,Bitget,,realestate
+-,Theo Network thUSD,unverified,0,132137861,,,,other
+-,Valos,unverified,0,105987030,,,,other
+-,Lofty,unverified,0,101118627,,,,other
+FRAX,Frax USD,listed,0,100245610,,Binance/Bybit/Gate/MEXC,,other
+-,Ember,unverified,0,98001711,,,,other
+USUAL,Usual USD0,listed,0,82983014,,Binance/Kraken/Gate/MEXC/Bitget,,other
+SKY,Sky RWA,listed,0,65680276,,Binance/Coinbase/OKX/Bybit/Kraken/Gate/MEXC/Bitget,,other
+STUSDT,stUSDT,unverified,0,56264300,,,,other
+TNGBL,Tangible RWA,unverified,0,41729046,,,,other
+CPOOL,Clearpool TPOOL,listed,0,23526359,,Bybit/Kraken/Gate/MEXC/Bitget,,other
+ART,GoldFinger,listed,0,23525902,,Gate,,commodity
+RIZE,T RIZE,listed,0,23000000,,Kraken/MEXC,,other
+-,Sygnum FIUSD Liquidity Fund,unverified,0,18328901,,,,fund
+-,Paimon,unverified,0,14074327,,,,other
+-,Estate Protocol,unverified,0,13943345,,,,other
+-,Theo Network thBill,unverified,0,9739104,,,,other
+NOTE,Republic Note,unverified,0,9368641,,,,bond
+SOLV,Solv RWA,listed,0,9194724,,Binance/Bybit/Kraken/Gate/MEXC/Bitget,,other
+-,Binaryx Platform,unverified,0,8989779,,,,other
+-,Vault Street,unverified,0,7835433,,,,other
+XU3O8,Uranium.io,listed,0,7595296,,Kraken/Gate/MEXC,,commodity
+-,Defa By InvoiceMate,unverified,0,7185283,,,,other
+-,NaraUSD,unverified,0,6822465,,,,other
+-,Digital Gold,unverified,0,6449013,,,,commodity
+MNSRY,Mansory,listed,0,6109986,,MEXC,,other
+-,eva Markets,unverified,0,5145400,,,,other
+LISTA,Lista RWA,listed,0,4391492,,Binance/Gate/MEXC/Bitget,,other
+-,Meld Gold,unverified,0,4341937,,,,commodity
+-,Nawa Protocol,unverified,0,4026407,,,,other
+-,KUMA Protocol,unverified,0,3057076,,,,other
+-,Kea Credit,unverified,0,2975875,,,,credit
+-,Kamui,unverified,0,2819931,,,,other
+-,International Stable Currency,unverified,0,2414977,,,,other
+-,Oro Finance,unverified,0,2338879,,,,other
+-,ZTLN-P,unverified,0,2197869,,,,other
+BYZAN,Byzanlink RWA Markets,unverified,0,2146688,,,,other
+-,HiYield,unverified,0,1724865,,,,other
+LNDX,LandX Finance,unverified,0,1562333,,,,other
+-,Travessia Credit,unverified,0,1431405,,,,credit
+USDM,Mountain Protocol,unverified,0,1397426,,,,other
+-,CHATEAU,unverified,0,1024043,,,,other
+-,RealtyX,unverified,0,1021432,,,,other
+-,Isle Finance,unverified,0,950755,,,,other
+LAYER,Solayer USD,listed,0,706434,,Binance/Coinbase/OKX/Bybit/Kraken/Gate/MEXC/Bitget,,other
+LAND,Landshare,unverified,0,621293,,,,other
+-,GOLDSTATION RWA,unverified,0,557919,,,,commodity
+-,Toucan Protocol,unverified,0,548318,,,,other
+-,HARVEST FLOW,unverified,0,524232,,,,other
+8LNDS,8lends,unverified,0,521589,,,,other
+CGT,CACHE.Gold,unverified,0,520606,,,,commodity
+RCOIN,Arca Labs ArCoin,listed,0,455123,,Bitget,,other
+BOSON,Boson Protocol,listed,0,229606,,Gate/MEXC,,other
+USUAL,Usual EUR0,listed,0,227203,,Binance/Kraken/Gate/MEXC/Bitget,,other
+ATT,Frigg.eco,unverified,0,182532,,,,other
+-,Forest Road Vault,unverified,0,166786,,,,other
+-,Bondlink Finance,unverified,0,151992,,,,bond
+-,Untangled RWA,unverified,0,151445,,,,other
+-,Fortunafi,unverified,0,144322,,,,other
+-,Verified Network,unverified,0,126666,,,,other
+-,wstGBP,unverified,0,111204,,,,other
+TPS,TProtocol V1,unverified,0,72897,,,,other
+-,NewrlRWA,unverified,0,57770,,,,other
+CRED,Credible Finance,unverified,0,33519,,,,other
+TPS,TProtocol V2,unverified,0,32852,,,,other
+-,ASA.Gold,unverified,0,28346,,,,commodity
+-,Unblock Equity,unverified,0,23625,,,,stock
+SOLV,Solv Vesting,listed,0,22194,,Binance/Bybit/Kraken/Gate/MEXC/Bitget,,other
+NAOS,NAOS Finance,unverified,0,18814,,,,other
+KLIMA,KlimaDAO,unverified,0,17035,,,,other
+-,TruCore,unverified,0,11137,,,,other
+SWEEPR,Sweep,unverified,0,8203,,,,other
+-,GemSwap by Golden Swan Solutions,unverified,0,7092,,,,commodity
+-,Tokeshare,unverified,0,5351,,,,other
+ZVE,Zivoe,unverified,0,3043,,,,other
+TNGBL,Tangible USTB,unverified,0,2888,,,,treasury
+CATCH,Catch Exchange,unverified,0,2461,,,,other
+-,SPICE Protocol,unverified,0,1126,,,,other
+-,Tokeniza,unverified,0,1067,,,,other
+-,Solon Stocks,unverified,0,655,,,,stock
+-,WorldEs,unverified,0,567,,,,other
+-,Subunit,unverified,0,435,,,,other
+-,NewSight,unverified,0,321,,,,other
+ETHIX,EthicHub,unverified,0,249,,,,other
+-,BasaFish,unverified,0,100,,,,other
+-,Qiro Finance,unverified,0,81,,,,other
+-,SukukFi,unverified,0,54,,,,bond
+ELFI,ELYFI,unverified,0,39,,,,other
+FLEET,Fractit Fleet,unverified,0,9,,,,other
+-,OpenStock,unverified,0,5,,,,stock
+-,Credix,unverified,0,1,,,,other
+BUIDL-I,BlackRock USD Institutional Digital Liquidity Fund - I Class,unverified,0,,0,,blackrock-usd-institutional-digital-liquidity-fund-i-class,treasury
+WTMCD,McDonald's (ST0x Tokenized Stock),unverified,25062,,1.13,,mcdonald-s-st0x-tokenized-stock,stock
+RWAX,RWAX,unverified,23769,,-3.37,,rwax,other
+APP,RWAX,unverified,21791,,0,,moon-app,other
+WTTR,Tootsie Roll Industries (ST0x Tokenized Stock),unverified,18803.1,,0,,tootsie-roll-industries-st0x-tokenized-stock,stock
+XNL,Novastro,listed,15618.27,,-0.71,Gate,novas,other
+TCG,ToCa.Gg,unverified,13272.51,,0,,tocagg,other
+LOD3,LOD3 Token,unverified,9621.82,,0,,lode-token,other
+OSEAN,Osean,unverified,8784.61,,0,,osean,other
+TOFI,Tokery Finance,unverified,6685.99,,0,,tokery-finance,other
+SLAB,SlabDrop,unverified,6642.1,,0,,slabdrop,other
+FLR,FLOOR,listed,5508.94,,0,Coinbase/OKX/Bybit/Kraken/Gate/MEXC,floor,other
+PRYS,Prystine,unverified,2620.69,,0,,prystine,other
+ZZZZ,SleeperBot,unverified,1889.61,,0,,sleeperbot,other
+NETF,Nest ETF Vault,unverified,515.22,,0,,nest-etf-vault,fund
+MKR,Maker,unverified,0,,-1.17,,maker,other
+CFG,Centrifuge [OLD],verified,0,,-0.15,Binance/Coinbase/OKX/Bybit/Kraken/Gate/MEXC,centrifuge,credit
+WHITE,WhiteRock,unverified,0,,1.47,,whiterock,other
+ANT,All InX,unverified,0,,0,,all-inx,other
+MSVP,MSV Protocol,unverified,0,,6.72,,msv-protocol,other
+TTN,Toyow,listed,0,,-0.27,MEXC,toyow-token,other
+C-UWATT,Staked uWatt,unverified,0,,-0.02,,staked-uwatt,other
+WSNDKX,Wrapped Sandisk Corporation xStock,unverified,114090,,2.11,,wrapped-sandisk-corporation-xstock,stock
+WPLTRX,Wrapped Palantir xStock,unverified,106948,,0.84,,wrapped-palantir-xstock,stock
+WIBMX,Wrapped International Business Machines xStock,unverified,105052,,0.5,,wrapped-international-business-machines-xstock,stock
+RBA,Boeing Tokenized Stock (Reality),listed,57152,,0,Bitget,boeing-rstock,stock
+INTC,Intel (Dinari Tokenized Stock),unverified,31496,,0,,intel-dinari-tokenized-stock,stock
+WDAY,Workday • Robinhood Token,unverified,31444,,0,,workday-robinhood-tokenized-stock,other
+RPBR,Petrobras Tokenized Stock (Reality),listed,30506,,0,Bitget,petroleo-brasileiro-sa-petrobras-rstock,stock
+USFRON,WisdomTree Floating Rate Treasury Fund (Ondo Tokenized),unverified,30019,,0,,wisdomtree-floating-rate-treasury-fund-ondo-tokenized,treasury
+RCIBR,First Trust NASDAQ Cybersecurity ETF Tokenized Stock (Reality),listed,29644,,0,Bitget,first-trust-exch-traded-fund-2-nasdaq-cybersecurity-etf-rstock,stock
+RBLK,Blackrock Tokenized Stock (Reality),listed,29411,,0,Bitget,blackrock-rstock,stock
+TBILL,OpenEden TBILL,unverified,0,,0.03,,openeden-tbill,treasury
+RMA,Mastercard Tokenized Stock (Reality),listed,247186,,0.32,Bitget,mastercard-rstock,stock
+RVGT,Vanguard Information Technology ETF Tokenized Stock (Reality),listed,85416,,0.23,Bitget,vanguard-information-technology-etf-rstock,stock
+RDIA,State Street SPDR Dow Jones Industrial Average ETF Trust Tokenized Stock (Reality),listed,48387,,0.45,Bitget,spdr-dow-jones-industrial-average-etf-trust-rstock,stock
+RVXUS,Vanguard Total International Stock ETF Tokenized Stock (Reality),listed,42219,,0.52,Bitget,vanguard-total-international-stock-etf-rstock,stock
+RRTX,RTX Tokenized Stock (Reality),listed,33299,,-0.68,Bitget,rtx-corporation-rstock,stock
+CYPH,Cypherpunk Technologies (Dinari Tokenized Stock),unverified,31922,,16.52,,cypherpunk-technologies-dinari-tokenized-stock,stock
+RUMC,United Microelectronics Tokenized Stock (Reality),listed,31842,,-0.28,Bitget,united-microelectronics-rstock,stock
+SOXSON,Direxion Daily Semi Bear 3X ETF (Ondo Tokenized),listed,31040,,4.15,MEXC,direxion-daily-semi-bear-3x-etf-ondo-tokenized,fund
+RUNG,US Natural Gas Fund Tokenized Stock (Reality),listed,30810,,0,Bitget,united-states-natural-gas-rstock,stock
+CRM,"Salesforce, Inc. • Robinhood Token",unverified,30414,,2.63,,salesforce-inc-robinhood-token,other
+RHIMS,Hims & Hers Health Tokenized Stock (Reality),listed,29685,,-0.83,Bitget,hims-hers-health-rstock,stock
+RFWDI,Forward Industries Tokenized Stock (Reality),listed,29646,,5.08,Bitget,forward-industries-rstock,stock
+RPALL,abrdn Physical Palladium Shares ETF Tokenized Stock (Reality),listed,29596,,-1.23,Bitget,abrdn-palladium-etf-trust-rstock,stock
+RDUK,Duke Energy Tokenized Stock (Reality),listed,29212,,0,Bitget,duke-energy-rstock,stock
+BACON,Bank of America (Ondo Tokenized Stock),listed,28859,,0.09,MEXC,bank-of-america-ondo-tokenized-stocks,stock
+HIMXON,Himax Technologies (Ondo Tokenized),unverified,28615,,0.8,,himax-technologies-ondo-tokenized,other
+RLI,Li Auto Tokenized Stock (Reality),listed,28147,,0,Bitget,li-auto-rstock,stock
+TSM,Taiwan Semiconductor Manufacturing (Dinari Tokenized Stock),unverified,27850,,-0.36,,taiwan-semiconductor-manufacturing-dinari-tokenized-stock,stock
+ASTS,AST SpaceMobile • Robinhood Token,unverified,27530,,-0.01,,ast-spacemobile-robinhood-tokenized-stock,other
+FBTC,Fidelity Wise Origin Bitcoin Fund (Dinari Tokenized ETF),unverified,27190,,1.63,,fidelity-wise-origin-bitcoin-fund-dinari-tokenized-etf,fund
+RGME,GameStop Tokenized Stock (Reality),listed,26867,,-1.15,Bitget,gamestop-rstock,stock
+ADBE,Adobe Inc. • Robinhood Token,unverified,26710,,2.63,,adobe-inc-robinhood-token,other
+REGNON,Regeneron Pharmaceuticals (Ondo Tokenized),listed,35528,,2.76,MEXC,regeneron-pharmaceuticals-ondo-tokenized,other
+UNH,UnitedHealth Group Incorporated • Robinhood Token,unverified,27167,,5.02,,unitedhealth-group-incorporated-robinhood-token,other
+RCOST,Costco Tokenized Stock (Reality),listed,26742,,-0.07,Bitget,costco-rstock,stock
+WTPLBY,Playboy (ST0x Tokenized Stock),unverified,26421,,3.68,,playboy-st0x-tokenized-stock,stock
+HIION,Huntington Ingalls Industries (Ondo Tokenized),unverified,26314,,0,,huntington-ingalls-industries-ondo-tokenized,other
+ARM,Arm Holdings (Dinari Tokenized Stock),unverified,26012,,0,,arm-holdings-dinari-tokenized-stock,stock
+WTNVDA,NVIDIA (ST0x Tokenized Stock),unverified,25869,,1.77,,nvidia-st0x-tokenized-stock,stock
+DGRWON,WisdomTree US Quality Dividend Growth Fund (Ondo Tokenized),unverified,25826,,1.25,,wisdomtree-us-quality-dividend-growth-fund-ondo-tokenized,fund
+FLNCON,Fluence Energy (Ondo Tokenized),unverified,25618,,0,,fluence-energy-ondo-tokenized,other
+NVYLDS,NUVA nvYLDS,unverified,25562,,0.01,,nuva-nvylds,other
+MCD,McDonald's (Dinari Tokenized Stock),unverified,25468,,0.94,,mcdonald-s-dinari-tokenized-stock,stock
+CCL,Carnival Corporation • Robinhood Token,unverified,25293,,2.51,,carnival-corporation-robinhood-tokenized-stock,other
+WTWEN,Wendy's (ST0x Tokenized Stock),unverified,25022,,-1.47,,wendy-s-st0x-tokenized-stock,stock
+FCXON,Freeport-McMoRan (Ondo Tokenized),listed,24823,,-1.11,MEXC,freeport-mcmoran-ondo-tokenized,other
+RBIDU,Baidu Tokenized Stock (Reality),listed,24729,,1.07,Bitget,baidu-rstock,stock
+NWISDOM,Nest WisdomTree Vault,unverified,24714,,0,,nest-wisdomtree-vault,other
+FUTU,Futu Holdings • Robinhood Token,unverified,24663,,0,,futu-holdings-robinhood-tokenized-stock,other
+RKEYS,Keysight Technologies Tokenized Stock (Reality),listed,24621,,0,Bitget,keysight-technologies-rstock,stock
+ACHRON,Archer Aviation (Ondo Tokenized Stock),listed,24517,,-1.29,MEXC,archer-aviation-ondo-tokenized-stocks,stock
+WSTUSDT,Wrapped Staked USDT,unverified,24227,,0,,wrapped-staked-usdt,other
+INDAON,iShares MSCI India ETF (Ondo Tokenized),unverified,24204,,-0.57,,ishares-msci-india-etf-ondo-tokenized,fund
+BWETON,Breakwave Tanker Shipping ETF (Ondo Tokenized),unverified,24145,,-7.98,,breakwave-tanker-shipping-etf-ondo-tokenized,fund
+WTDNUT,Krispy Kreme (ST0x Tokenized Stock),unverified,24057,,0,,krispy-kreme-st0x-tokenized-stock,stock
+PATH,"UiPath, Inc. • Robinhood Token",unverified,24033,,0,,uipath-inc-robinhood-token,other
+RUSO,United States Oil Fund Tokenized Stock (Reality),listed,23811,,-0.06,Bitget,united-states-oil-fund-lp-rstock,stock
+RNOC,Northrop Grumman Tokenized Stock (Reality),listed,23738,,3.85,Bitget,northrop-grumman-rstock,stock
+ROSCR,Oscar Health Tokenized Stock (Reality),listed,23570,,0,Bitget,oscar-health-rstock,stock
+RSTM,STMicroelectronics Tokenized Stock (Reality),listed,23215,,4.47,Bitget,stmicroelectronics-rstock,stock
+HDON,Home Depot (Ondo Tokenized Stock),unverified,23208,,1.18,,home-depot-ondo-tokenized-stock,stock
+RBSX,Boston Scientific Tokenized Stock (Reality),listed,23085,,-0.18,Bitget,boston-scientific-rstock,stock
+VYM,Vanguard High Dividend Yield ETF (Dinari Tokenized ETF),unverified,22990,,0,,vanguard-high-dividend-yield-etf-dinari-tokenized-etf,fund
+WTMSTR,MicroStrategy Incorporated ST0x,unverified,22943,,5.37,,microstrategy-incorporated-st0x,other
+DELL,Dell Technologies (Dinari Tokenized Stock),unverified,22363,,0,,dell-technologies-dinari-tokenized-stock,stock
+BZON,Kanzhun (Ondo Tokenized Stock),unverified,22270,,0,,kanzhun-ondo-tokenized-stock,stock
+TMUSON,T-Mobile US (Ondo Tokenized Stock),unverified,22175,,0.44,,t-mobile-us-ondo-tokenized-stock,stock
+UBER,Uber Technologies (Dinari Tokenized Stock),unverified,21953,,-0.55,,uber-technologies-dinari-tokenized-stock,stock
+PLUGON,Plug Power (Ondo Tokenized),listed,21913,,0.83,MEXC,plug-power-ondo-tokenized,other
+RTRV,The Travelers Companies Tokenized Stock (Reality),listed,21699,,0,Bitget,the-travelers-companies-rstock,stock
+RCCJ,Cameco Tokenized Stock (Reality),listed,21502,,0.06,Bitget,cameco-rstock,stock
+PFE,Pfizer (Dinari Tokenized Stock),unverified,21224,,1.88,,pfizer-dinari-tokenized-stock,stock
+RIAU,iShares Gold Trust Tokenized Stock (Reality),listed,21122,,-0.4,Bitget,ishares-gold-trust-rstock,stock
+RKLB,Rocket Lab (Dinari Tokenized Stock),unverified,21033,,1.66,,rocket-lab-dinari-tokenized-stock,stock
+IBM,International Business Machines (Dinari Tokenized Stock),unverified,20995,,2.11,,international-business-machines-dinari-tokenized-stock,stock
+RKO,Coca-Cola Tokenized Stock (Reality),listed,20993,,-0.54,Bitget,coca-cola-rstock,stock
+CCJON,Cameco (Ondo Tokenized),unverified,20827,,0,,cameco-ondo-tokenized,other
+MOONDOGE,MOONDOGE,unverified,20724,,-0.04,,moondoge,other
+FLY,Firefly Aerospace (Backpack Securities),listed,20468,,1.76,Gate,firefly-aerospace-backpack-securities,other
+RCIFR,Cipher Mining Tokenized Stock (Reality),listed,20444,,4.72,Bitget,cipher-digital-rstock,stock
+CRCL,Circle Internet Group (Dinari Tokenized Stock),unverified,20283,,4.86,,circle-internet-group-dinari-tokenized-stock,stock
+SMH,VanEck Semiconductor ETF (Dinari Tokenized ETF),unverified,19877.86,,0,,vaneck-semiconductor-etf-dinari-tokenized-etf,fund
+RANET,Arista Networks Tokenized Stock (Reality),listed,19812.75,,-1.22,Bitget,arista-networks-rstock,stock
+RTCOM,Trip.com Group Tokenized Stock (Reality),listed,19714.25,,0,Bitget,trip-com-rstock,stock
+RSBET,SharpLink Gaming Tokenized Stock (Reality),listed,19639.72,,5.56,Bitget,sharplink-rstock,stock
+BNOON,US Brent Oil Fund (Ondo Tokenized),unverified,19021.99,,-1.01,,us-brent-oil-fund-ondo-tokenized,fund
+SPRE,SP Funds S&P Global REIT Sharia ETF (Dinari Tokenized ETF),unverified,18891.21,,0,,sp-funds-s-p-global-reit-sharia-etf-dinari-tokenized-etf,fund
+RRGTI,Rigetti Computing Tokenized Stock (Reality),listed,18733,,0.94,Bitget,rigetti-computing-rstock,stock
+V,Visa (Dinari Tokenized Stock),unverified,18728.46,,0,,visa-dinari-tokenized-stock,stock
+RWAI,RWAI by Virtuals,unverified,18487.16,,0,,rwai,other
+KO,Coca-Cola (Dinari Tokenized Stock),unverified,18228.45,,-0.74,,coca-cola-dinari-tokenized-stock,stock
+QTUMON,Defiance Quantum ETF (Ondo Tokenized),unverified,18223.97,,0,,defiance-quantum-etf-ondo-tokenized,fund
+VFSON,VinFast Auto (Ondo Tokenized),unverified,18188.67,,-1.45,,vinfast-auto-ondo-tokenized,other
+SOXX,iShares Semiconductor ETF (Dinari Tokenized ETF),unverified,18185.45,,0,,ishares-semiconductor-etf-dinari-tokenized-etf,fund
+BERRY,Rentberry,unverified,18134.63,,0,,rentberry,other
+WTSKHY,SK hynix (ST0x Tokenized Stock),unverified,18130.78,,-0.31,,sk-hynix-st0x-tokenized-stock,stock
+SNAPON,Snap (Ondo Tokenized),unverified,17988.97,,0,,snap-ondo-tokenized,other
+MRKON,Merck (Ondo Tokenized),unverified,17519.42,,2.75,,merck-ondo-tokenized,other
+RINTU,Intuit Tokenized Stock (Reality),listed,17401.16,,1.83,Bitget,intuit-rstock,stock
+IBIT,iShares Bitcoin Trust ETF (Dinari Tokenized ETF),unverified,17323.47,,0,,ishares-bitcoin-trust-etf-dinari-tokenized-etf,fund
+RCASY,Casey's General Stores Tokenized Stock (Reality),listed,17296.41,,0,Bitget,casey-s-general-stores-inc-rstock,stock
+SCCOON,Southern Copper (Ondo Tokenized),unverified,17213.35,,0,,southern-copper-ondo-tokenized,other
+RSONY,Sony Group Tokenized Stock (Reality),listed,16945.28,,1.22,Bitget,sony-rstock,stock
+GME,GameStop (Dinari Tokenized Stock),listed,16913.2,,0,MEXC,gamestop-dinari-tokenized-stock,stock
+NIKLON,Sprott Nickel Miners ETF (Ondo Tokenized),unverified,16828.22,,0,,sprott-nickel-miners-etf-ondo-tokenized,fund
+CVX,Chevron Corp (Dinari Tokenized Stock),listed,16789.99,,0,Binance/Coinbase/OKX/Kraken/Gate/MEXC,chevron-corp-dinari-tokenized-stock,stock
+RCRM,Salesforce Tokenized Stock (Reality),listed,16770.22,,-0.48,Bitget,salesforce-rstock,stock
+RJEPQ,JPMorgan Nasdaq Equity Premium Income ETF Tokenized Stock (Reality),listed,16696.51,,0.32,Bitget,jpmorgan-nasdaq-equity-premium-income-etf-rstock,stock
+SMCI,Super Micro Computer • Robinhood Token,unverified,16551.01,,0,,super-micro-computer-robinhood-tokenized-stock,other
+RAPH,Amphenol Tokenized Stock (Reality),listed,16454.75,,-0.61,Bitget,amphenol-rstock,stock
+OVPP,OpenVPP [Old],listed,16445.53,,0,MEXC,openvpp,other
+RAMKR,Amkor Technology Tokenized Stock (Reality),listed,16265.8,,0,Bitget,amkor-technology-rstock,stock
+CATON,Caterpillar (Ondo Tokenized Stock),listed,16232.93,,-0.48,MEXC,caterpillar-ondo-tokenized-stock,stock
+RCLS,Celestica Tokenized Stock (Reality),listed,16140.48,,-0.55,Bitget,celestica-rstock,stock
+AAOI,Applied Optoelectronics • Robinhood Token,unverified,15984.39,,0.14,,applied-optoelectronics-robinhood-tokenized-stock,other
+EEM,iShares MSCI Emerging Markets ETF (Dinari Tokenized ETF),unverified,15730.22,,0,,ishares-msci-emerging-markets-etf-dinari-tokenized-etf,fund
+RTMUS,T-Mobile US Tokenized Stock (Reality),listed,15716.81,,0.27,Bitget,t-mobile-us-rstock,stock
+FLEXON,Flex (Ondo Tokenized),unverified,15496.48,,0,,flex-ondo-tokenized,other
+HUT,Hut 8 (Dinari Tokenized Stock),unverified,15366.11,,0,,hut-8-dinari-tokenized-stock,stock
+RMCK,McKesson Tokenized Stock (Reality),listed,15343.88,,0,Bitget,mckesson-rstock,stock
+RHD,Home Depot Tokenized Stock (Reality),listed,15317.3,,1.14,Bitget,home-depot-rstock,stock
+RDJT,Trump Media & Technology Group Tokenized Stock (Reality),listed,15281.68,,1.08,Bitget,trump-media-technology-rstock,stock
+HIMS,Hims & Hers Health (Dinari Tokenized Stock),unverified,15235.95,,5.25,,hims-hers-health-dinari-tokenized-stock,stock
+RVALE,Vale SA Tokenized Stock (Reality),listed,15212.45,,-1.21,Bitget,vale-sa-rstock,stock
+RAVL,Direxion Daily AVGO Bull 2X Shares Tokenized Stock (Reality),listed,15002.64,,0,Bitget,direxion-daily-avgo-bull-2x-shares-rstock,stock
+PINSON,Pinterest (Ondo Tokenized),unverified,14922.59,,0,,pinterest-ondo-tokenized,other
+AAAPL,Apple aStock,unverified,14896.17,,-1.26,,apple-astock,stock
+VST,Vistra Corp. • Robinhood Token,unverified,14817.24,,-0.25,,vistra-corp-robinhood-token,other
+TON,AT&T (Ondo Tokenized Stock),listed,14670.82,,0,Coinbase/Kraken,atnt-ondo-tokenized-stock,stock
+VWO,Vanguard FTSE Emerging Markets ETF (Dinari Tokenized ETF),unverified,14649.18,,0.52,,vanguard-ftse-emerging-markets-etf-dinari-tokenized-etf,fund
+P,Everpure • Robinhood Token,listed,14595.07,,-0.97,Gate,everpure-robinhood-tokenized-stock,other
+SHEL,Shell (Dinari Tokenized Stock),unverified,14561.13,,0.59,,shell-dinari-tokenized-stock,stock
+JNJ,Johnson & Johnson (Dinari Tokenized Stock),unverified,14518.31,,2.14,,johnson-johnson-dinari-tokenized-stock,stock
+RVZ,Verizon Tokenized Stock (Reality),listed,14456.17,,1.61,Bitget,verizon-rstock,stock
+RWMB,Williams Tokenized Stock (Reality),listed,14373.3,,0,Bitget,williams-rstock,stock
+BLSHON,Bullish (Ondo Tokenized Stock),unverified,14327.34,,0.97,,bullish-ondo-tokenized-stocks,stock
+POWLON,Powell Industries (Ondo Tokenized),unverified,14313.4,,1.72,,powell-industries-ondo-tokenized,other
+AMSFT,Microsoft aStock,unverified,14268.83,,-0.57,,microsoft-astock,stock
+EXODON,Exodus Movement (Ondo Tokenized),unverified,14268.12,,0,,exodus-movement-ondo-tokenized,other
+RBBAI,BigBear.ai Holdings Tokenized Stock (Reality),listed,14201.26,,0,Bitget,bigbear-ai-holdings-rstock,stock
+PPLT,abrdn Physical Platinum Shares ETF (Dinari Tokenized ETF),unverified,14191.52,,0,,abrdn-physical-platinum-shares-etf-dinari-tokenized-etf,fund
+RIGV,iShares Expanded Tech-Software ETF Tokenized Stock (Reality),listed,14116.34,,0,Bitget,ishares-expanded-tech-software-sector-etf-rstock,stock
+RSTLA,Stellantis N.V. Tokenized Stock (Reality),listed,13978.93,,0,Bitget,stellantis-n-v-rstock,stock
+RIVV,iShares Core S&P 500 ETF Tokenized Stock (Reality),listed,13906.3,,0.21,Bitget,ishares-core-s-p-500-etf-rstock,stock
+FIX,"Comfort Systems USA, Inc. • Robinhood Token",unverified,13901.07,,0,,comfort-systems-usa-inc-robinhood-token,other
+RSOUN,SoundHound AI Tokenized Stock (Reality),listed,13801.14,,1.06,Bitget,soundhound-ai-rstock,stock
+NAYM,Naym,unverified,13701.56,,0,,naym,other
+ANVDA,NVIDIA aStock,unverified,13697.14,,1.64,,nvidia-astock,stock
+PLTR,Palantir Technologies (Dinari Tokenized Stock),unverified,13570.89,,0,,palantir-technologies-dinari-tokenized-stock,stock
+AHOOD,Robinhood aStock,unverified,13467.83,,2.98,,robinhood-astock,stock
+ASML,ASML Holding (Dinari Tokenized Stock),unverified,13411.01,,0,,asml-holding-dinari-tokenized-stock,stock
+RIEF,iShares 7-10 Year Treasury Bond ETF Tokenized Stock (Reality),listed,13250.31,,0,Bitget,ishares-7-10-year-treasury-bond-etf-rstock,treasury
+AAMZN,Amazon aStock,unverified,13233.17,,0.24,,amazon-astock,stock
+WTIAU,iShares Gold Trust (ST0x Tokenized ETF),unverified,13142.12,,0,,ishares-gold-trust-st0x-tokenized-etf,commodity
+CVNA,Carvana Co. • Robinhood Token,unverified,13079.23,,3.21,,carvana-co-robinhood-token,other
+RTTD,The Trade Desk Tokenized Stock (Reality),listed,13012.41,,2.85,Bitget,the-trade-desk-rstock,stock
+PYPL,Paypal Holdings (Dinari Tokenized Stock),unverified,12987.53,,0.96,,paypal-holdings-dinari-tokenized-stock,stock
+CPNGON,Coupang (Ondo Tokenized Stock),listed,12877.86,,0.21,MEXC,coupang-ondo-tokenized-stocks,stock
+AGOOGL,Alphabet aStock,unverified,12877.78,,-0.98,,alphabet-astock,stock
+RGTLB,Gitlab Tokenized Stock (Reality),listed,12860.17,,0,Bitget,gitlab-rstock,stock
+RDDT,Reddit (Dinari Tokenized Stock),unverified,12706.07,,0,,reddit-dinari-tokenized-stock,stock
+SPSK,SP Funds Dow Jones Global Sukuk ETF (Dinari Tokenized ETF),unverified,12681.15,,0,,sp-funds-dow-jones-global-sukuk-etf-dinari-tokenized-etf,bond
+SOUNON,SoundHound AI (Ondo Tokenized),listed,12555.44,,1.76,MEXC,soundhound-ai-ondo-tokenized,other
+MBD,MBD Financials,unverified,12554.18,,0,,mbd-financials,other
+EZBC,Franklin Bitcoin ETF (Dinari Tokenized ETF),unverified,12541.15,,0,,franklin-bitcoin-etf-dinari-tokenized-etf,fund
+RWULF,Terawulf Tokenized Stock (Reality),listed,12502.34,,1.74,Bitget,terawulf-rstock,stock
+AASML,ASML aStock,unverified,12449.32,,0.86,,asml-astock,stock
+AALON,American Airlines Group (Ondo Tokenized Stock),listed,12448.63,,4.12,MEXC,american-airlines-group-ondo-tokenized-stocks,stock
+FTGCON,First Trust Global Tactical Commodity Strategy Fund (Ondo Tokenized Stock),unverified,12420.66,,-1.59,,first-trust-global-tactical-commodity-strategy-fund-ondo-tokenized-stock,stock
+WTQQQM,Invesco NASDAQ 100 (ST0x Tokenized ETF),unverified,12323.41,,0.31,,invesco-nasdaq-100-st0x-tokenized-etf,fund
+RIWM,iShares Russell 2000 ETF Tokenized Stock (Reality),listed,12319.41,,1.65,Bitget,ishares-russell-2000-etf-rstock,stock
+RUEC,Uranium Energy Tokenized Stock (Reality),listed,12298.21,,0.51,Bitget,uranium-energy-rstock,stock
+ELF,e.l.f. Beauty • Robinhood Token,listed,12273.41,,0.68,Gate/MEXC,e-l-f-beauty-robinhood-tokenized-stock,other
+RFSLR,First Solar Tokenized Stock (Reality),listed,12272.47,,2.19,Bitget,first-solar-rstock,stock
+FLY,Firefly Aerospace Inc. • Robinhood Token,listed,12259.39,,-2.87,Gate,firefly-aerospace-inc-robinhood-token,other
+RALB,Albemarle Tokenized Stock (Reality),listed,12228.1,,1.57,Bitget,albemarle-rstock,stock
+RABBV,AbbVie Tokenized Stock (Reality),listed,12202.52,,2.09,Bitget,abbvie-rstock,stock
+IONQ,IonQ • Robinhood Token,unverified,12169.96,,-2.57,,ionq-robinhood-tokenized-stock,other
+RAMC,AMC Entertainment Tokenized Stock (Reality),listed,12160.86,,3.02,Bitget,amc-entertainment-rstock,stock
+AIQON,Global X Artificial Intelligence & Technology ETF (Ondo Tokenized),unverified,12125.32,,0.73,,global-x-artificial-intelligence-technology-etf-ondo-tokenized,fund
+WTSPCX,SpaceX (ST0x Tokenized Stock),unverified,12041.55,,0,,spacex-st0x-tokenized-stock,stock
+AQQQ,Invesco QQQ aStock,unverified,12041.03,,0.52,,invesco-qqq-astock,stock
+BKNG,Booking Holdings (Dinari Tokenized Stock),unverified,11902.72,,0,,booking-holdings-dinari-tokenized-stock,stock
+AMETA,Meta aStock,unverified,11890.21,,-1.53,,meta-astock,stock
+RARKK,ARK Innovation ETF Tokenized Stock (Reality),listed,11845.13,,2.05,Bitget,ark-innovation-etf-rstock,stock
+NINSTO,Nest Institutional Vault,unverified,11817.34,,0,,nest-institutional-vault,other
+APHON,Amphenol (Ondo Tokenized),unverified,11762.1,,0,,amphenol-ondo-tokenized,other
+XYZON,Block (Ondo Tokenized Stock),unverified,11741.17,,1.9,,block-ondo-tokenized-stocks,stock
+RDW,Redwire • Robinhood Token,unverified,11722.56,,0,,redwire-robinhood-tokenized-stock,other
+SOXQON,Invesco PHLX Semiconductor ETF (Ondo Tokenized),unverified,11672.54,,0.99,,invesco-phlx-semiconductor-etf-ondo-tokenized,fund
+RSAP,SAP Tokenized Stock (Reality),listed,11637.86,,1.2,Bitget,sap-se-rstock,stock
+WULF,TeraWulf Inc. • Robinhood Token,unverified,11559.26,,3.71,,terawulf-inc-robinhood-token,other
+BRK.B,Berkshire Hathaway Class B (Dinari Tokenized Stock),unverified,11551.97,,0,,berkshire-hathaway-class-b-dinari-tokenized-stock,stock
+RECC,Real Estate Crypto Crowfunding,unverified,11522.06,,0,,real-estate-crypto-crowfunding,realestate
+RPM,Philip Morris Tokenized Stock (Reality),listed,11387.92,,-1.07,Bitget,philip-morris-international-rstock,stock
+RALL,Allstate Tokenized Stock (Reality),listed,11316.58,,0,Bitget,allstate-rstock,stock
+RBLSH,Bullish Tokenized Stock (Reality),listed,11283.23,,-0.76,Bitget,bullish-rstock,stock
+CAKEC,Cheesecake Factory Inc (Coinbase Tokenized Stock),unverified,11229.87,,-0.07,,cheesecake-factory-inc-coinbase-tokenized-stock,stock
+MP,MP Materials (Dinari Tokenized Stock),unverified,11194.29,,0.09,,mp-materials-dinari-tokenized-stock,stock
+RCDE,Coeur Mining Tokenized Stock (Reality),listed,11031.23,,0,Bitget,coeur-mining-inc-rstock,stock
+SMR,NuScale Power Corporation • Robinhood Token,unverified,11026.1,,4.08,,nuscale-power-corporation-robinhood-token,other
+RAMGN,Amgen Tokenized Stock (Reality),listed,11015.14,,2.37,Bitget,amgen-rstock,stock
+AWEN,Wendy's aStock,unverified,10896.78,,-1.42,,wendy-s-astock,stock
+TQQQ,ProShares UltraPro QQQ (Dinari Tokenized ETF),unverified,10865.21,,0,,proshares-ultrapro-qqq-dinari-tokenized-etf,fund
+ATSLA,Tesla aStock,unverified,10854.5,,2.98,,tesla-astock,stock
+RTSEM,Tower Semiconductor Tokenized Stock (Reality),listed,10779.77,,0,Bitget,tower-semiconductor-rstock,stock
+RCVX,Chevron Tokenized Stock (Reality),listed,10775.25,,0.37,Bitget,chevron-rstock,stock
+URNMON,Sprott Uranium Miners ETF (Ondo Tokenized),unverified,10690.69,,0,,sprott-uranium-miners-etf-ondo-tokenized,commodity
+MSTY,YieldMax MSTR Option Income Strategy ETF (Dinari Tokenized ETF),unverified,10617.82,,0,,yieldmax-mstr-option-income-strategy-etf-dinari-tokenized-etf,stock
+POET,POET Technologies • Robinhood Token,unverified,10541.68,,-3.84,,poet-technologies-robinhood-tokenized-stock,other
+CLOV,"Clover Health Investments, Corp. • Robinhood Token",unverified,10523.81,,3.98,,clover-health-investments-corp-robinhood-token,other
+PYPLC,"PayPal Holdings, Inc. (Coinbase Tokenized Stock)",unverified,10472.63,,1.69,,paypal-holdings-inc-coinbase-tokenized-stock,stock
+VCXON,Fundrise Innovation Fund (Ondo Tokenized),unverified,10455.58,,0,,fundrise-innovation-fund-ondo-tokenized,fund
+CME,CME Group (Dinari Tokenized Stock),unverified,10390.97,,0,,cme-group-dinari-tokenized-stock,stock
+SLV,iShares Silver Trust (Dinari Tokenized ETF),unverified,10333.6,,0,,ishares-silver-trust-dinari-tokenized-etf,commodity
+SAPON,SAP (Ondo Tokenized),unverified,10299.87,,-0.48,,sap-ondo-tokenized,other
+RQUBT,Quantum Computing Tokenized Stock (Reality),listed,10172.19,,2.48,Bitget,quantum-computing-rstock,stock
+REWJ,iShares MSCI Japan ETF Tokenized Stock (Reality),listed,10140.34,,0.27,Bitget,ishares-msci-japan-etf-rstock,stock
+CELH,Celsius • Robinhood Token,unverified,10110.92,,0.03,,celsius-robinhood-tokenized-stock,other
+AWMT,Walmart aStock,unverified,10095.04,,-1.12,,walmart-astock,stock
+AAVGO,Broadcom aStock,unverified,10094.45,,0.76,,broadcom-astock,stock
+RGEMI,Gemini Space Station Tokenized Stock (Reality),listed,10043.88,,-0.63,Bitget,gemini-space-station-rstock,stock
+RBTSG,BrightSpring Health Services Tokenized Stock (Reality),listed,9987.22,,0,Bitget,brightspring-health-services-inc-rstock,stock
+MXL,MaxLinear • Robinhood Token,unverified,9954.9,,-1.21,,maxlinear-robinhood-tokenized-stock,other
+LUNR,Intuitive Machines • Robinhood Token,unverified,9935.74,,0,,intuitive-machines-robinhood-tokenized-stock,other
+RACHR,Archer Aviation Tokenized Stock (Reality),listed,9913.86,,-0.74,Bitget,archer-aviation-rstock,stock
+RXLV,Health Care Select Sector SPDR Fund Tokenized Stock (Reality),listed,9899.2,,0.15,Bitget,health-care-select-sector-spdr-fund-rstock,stock
+RSTRL,Sterling Infrastructure Tokenized Stock (Reality),listed,9820.32,,0,Bitget,sterling-infrastructure-inc-rstock,stock
+USHY,iShares Broad USD High Yield Corporate Bond ETF (Dinari Tokenized ETF),unverified,9817.34,,0,,ishares-broad-usd-high-yield-corporate-bond-etf-dinari-tokenized-etf,bond
+RCOO,The Cooper Companies Tokenized Stock (Reality),listed,9758.96,,0,Bitget,the-cooper-companies-inc-rstock,stock
+VZON,Verizon (Ondo Tokenized),unverified,9729.18,,0.3,,verizon-ondo-tokenized,other
+FON,Ford Motor (Ondo Tokenized Stock),unverified,9707.86,,0.59,,ford-motor-ondo-tokenized-stock,stock
+AMBA,"Ambarella, Inc. • Robinhood Token",unverified,9683.05,,0,,ambarella-inc-robinhood-token,other
+JOBY,"Joby Aviation, Inc. • Robinhood Token",unverified,9598.14,,0,,joby-aviation-inc-robinhood-token,other
+PALL,abrdn Physical Palladium Shares ETF (Dinari Tokenized ETF),unverified,9486.88,,0,,abrdn-physical-palladium-shares-etf-dinari-tokenized-etf,fund
+OPENON,Opendoor Technologies (Ondo Tokenized),unverified,9460.16,,0,,opendoor-technologies-ondo-tokenized,other
+GFSON,GlobalFoundries (Ondo Tokenized),listed,9459.61,,4.62,MEXC,globalfoundries-ondo-tokenized,other
+RUPRO,ProShares UltraPro S&P500 ETF Tokenized Stock (Reality),listed,9423.41,,1.04,Bitget,proshares-ultrapro-s-p500-etf-rstock,stock
+RRXT,Rackspace Technology Tokenized Stock (Reality),listed,9391.63,,0,Bitget,rackspace-technology-rstock,stock
+VDEON,Vanguard Energy ETF (Ondo Tokenized),unverified,9203.84,,-1.05,,vanguard-energy-etf-ondo-tokenized,fund
+EWT,iShares MSCI Taiwan ETF • Robinhood Token,listed,9157.3,,0,Kraken/MEXC,ishares-msci-taiwan-etf-robinhood-token,fund
+IWM,iShares Russell 2000 ETF (Dinari Tokenized ETF),unverified,9155.68,,0,,ishares-russell-2000-etf-dinari-tokenized-etf,fund
+INTU,Intuit • Robinhood Token,unverified,9112.21,,1.94,,intuit-robinhood-tokenized-stock,other
+IONQ,IonQ (Dinari Tokenized Stock),unverified,9097.36,,3.2,,ionq-dinari-tokenized-stock,stock
+ROPEN,Opendoor Technologies Tokenized Stock (Reality),listed,9060.38,,4.03,Bitget,opendoor-technologies-rstock,stock
+ABBVON,AbbVie (Ondo Tokenized Stock),unverified,9052.91,,0.85,,abbvie-ondo-tokenized-stock,stock
+HOOD,Robinhood (Dinari Tokenized Stock),unverified,9025.17,,0,,robinhood-dinari-tokenized-stock,stock
+ARKB,ARK 21 Bitcoin ETF (Dinari Tokenized ETF),unverified,8980.49,,0,,ark-21-bitcoin-etf-dinari-tokenized-etf,fund
+RGFS,GlobalFoundries Tokenized Stock (Reality),listed,8968.69,,0,Bitget,globalfoundries-rstock,stock
+WYFION,WhiteFiber (Ondo Tokenized),unverified,8870.21,,0,,whitefiber-ondo-tokenized,other
+RNET,Cloudflare Tokenized Stock (Reality),listed,8869.37,,-2.02,Bitget,cloudflare-rstock,stock
+XLK,State Street Technology Select Sector SPDR ETF • Robinhood Token,unverified,8865.33,,0.06,,state-street-technology-select-sector-spdr-etf-robinhood-tokenized-stock,fund
+RCRWD,CrowdStrike Tokenized Stock (Reality),listed,8810.59,,-0.18,Bitget,crowdstrike-rstock,stock
+LLY,Eli Lilly (Dinari Tokenized Stock),unverified,8792,,3.28,,eli-lilly-dinari-tokenized-stock,stock
+WTDRAM,Roundhill Memory ETF (ST0x Tokenized ETF),unverified,8749.11,,0.49,,roundhill-memory-etf-st0x-tokenized-etf,fund
+ITAON,iShares US Aerospace and Defense ETF (Ondo Tokenized),unverified,8649.02,,0,,ishares-us-aerospace-and-defense-etf-ondo-tokenized,fund
+AUR,"Aurora Innovation, Inc. • Robinhood Token",unverified,8618.85,,-1.52,,aurora-innovation-inc-robinhood-token,other
+KEYSON,Keysight Technologies (Ondo Tokenized),unverified,8606.58,,0,,keysight-technologies-ondo-tokenized,other
+OKLO,Oklo Inc. • Robinhood Token,unverified,8548.89,,0.01,,oklo-inc-robinhood-token,other
+RVG,Venture Global LNG Inc Tokenized Stock (Reality),listed,8540.59,,0,Bitget,venture-global-lng-inc-rstock,stock
+NOW,ServiceNow • Robinhood Token,unverified,8526.22,,0,,servicenow-robinhood-tokenized-stock,other
+ETHU,2x Ether ETF (Dinari Tokenized ETF),unverified,8400.57,,0,,2x-ether-etf-dinari-tokenized-etf,fund
+MDB,MongoDB • Robinhood Token,unverified,8360.1,,0,,mongodb-robinhood-tokenized-stock,other
+RFSLY,Fastly Tokenized Stock (Reality),listed,8357.58,,0,Bitget,fastly-rstock,stock
+RXLU,Utilities Select Sector SPDR Fund Tokenized Stock (Reality),listed,8327.24,,-0.27,Bitget,utilities-select-sector-spdr-fund-rstock,stock
+RPLUG,Plug Power Tokenized Stock (Reality),listed,8324,,2.17,Bitget,plug-power-rstock,stock
+SHY,iShares 1-3 Year Treasury Bond ETF • Robinhood Token,unverified,8313.38,,0,,ishares-1-3-year-treasury-bond-etf-robinhood-token,treasury
+MOD,Modine Manufacturing Co • Robinhood Token,unverified,8277.04,,0,,modine-manufacturing-co-robinhood-token,other
+CSCO,"Cisco Systems, Inc. • Robinhood Token",unverified,8233.31,,0,,cisco-systems-inc-robinhood-token,other
+SCHD,Schwab US Dividend Equity ETF • Robinhood Token,unverified,8117.17,,0,,schwab-us-dividend-equity-etf-robinhood-token,stock
+XOM,Exxon Mobil (Dinari Tokenized Stock),unverified,8106.18,,0,,exxon-mobil-dinari-tokenized-stock,stock
+BLK,BlackRock (Dinari Tokenized Stock),unverified,7924.45,,0,,blackrock-dinari-tokenized-stock,stock
+UUUUON,Energy Fuels (Ondo Tokenized),unverified,7918.25,,0,,energy-fuels-ondo-tokenized,other
+BBAION,BigBear.ai Holdings (Ondo Tokenized Stock),unverified,7901.17,,-0.75,,bigbear-ai-holdings-ondo-tokenized-stocks,stock
+BCAP,Blockchain Capital,unverified,963514617,,0,,blockchain-capital,other
+RINDA,iShares MSCI India ETF Tokenized Stock (Reality),listed,48720,,0,Bitget,ishares-msci-india-index-etf-rstock,stock
+PH,Parker-Hannifin (Dinari Tokenized Stock),unverified,23162,,0,,parker-hannifin-dinari-tokenized-stock,stock
+RPSX,Phillips 66 Tokenized Stock (Reality),listed,22105,,0,Bitget,phillips-66-rstock,stock
+MGT,Moongate,listed,10280.23,,-31.24,Gate,moongate,other
+APH,Amphenol (Dinari Tokenized Stock),unverified,8879.57,,0,,amphenol-dinari-tokenized-stock,stock
+RSPCE,Virgin Galactic Tokenized Stock (Reality),listed,8778.02,,0,Bitget,virgin-galactic-rstock,stock
+RTLN,Talen Energy Tokenized Stock (Reality),listed,8595.17,,0,Bitget,talen-energy-rstock,stock
+RPYPL,PayPal Tokenized Stock (Reality),listed,8423.07,,0,Bitget,paypal-rstock,stock
+-,Invesco USTB,unverified,0,629113513,,,,treasury
+-,Vesta Equity,unverified,0,20634337,,,,stock
+GAIB,GAIB,listed,0,16941026,,Bybit/Kraken/MEXC/Bitget,,other
+STBU,Stobox,unverified,0,13952059,,,,other
+ANZ,Anzen V2,unverified,0,7943018,,,,other
+AX,Aurus,unverified,0,7335723,,,,other
+-,Remora Markets,unverified,0,296074,,,,other
+ANZ,Anzen V1,unverified,0,5113,,,,other
+-,InVar Finance,unverified,0,262,,,,other
+-,Untangled old,unverified,0,12,,,,other
+RWM,Waste Management Tokenized Stock (Reality),listed,849603,,0,Bitget,waste-management-rstock,stock
+RUVXY,ProShares Ultra VIX Short-Term Futures ETF Tokenized Stock (Reality),listed,81395,,0,Bitget,proshares-ultra-vix-short-term-futures-etf-rstock,stock
+RHPE,Hewlett Packard Enterprise Tokenized Stock (Reality),listed,59852,,0,Bitget,hewlett-packard-enterprise-rstock,stock
+RLIN,Linde plc Tokenized Stock (Reality),listed,50058,,0,Bitget,linde-rstock,stock
+SOXS,Direxion Daily Semiconductor Bear 3X ETF (Dinari Tokenized ETF),unverified,47219,,0,,direxion-daily-semiconductor-bear-3x-etf-dinari-tokenized-etf,fund
+REEM,iShares MSCI Emerging Markets ETF Tokenized Stock (Reality),listed,44851,,0,Bitget,ishares-msci-emerging-markets-etf-rstock,stock
+RSNPS,Synopsys Tokenized Stock (Reality),listed,42537,,0,Bitget,synopsys-rstock,stock
+ACMRON,ACM Research (Ondo Tokenized),unverified,38455,,0,,acm-research-ondo-tokenized,other
+RSE,Sea Tokenized Stock (Reality),listed,19788.76,,0,Bitget,sea-rstock,stock
+BRTR,Barter,unverified,16498.1,,0,,barter,other
+RDIS,Disney Tokenized Stock (Reality),listed,16147.95,,0,Bitget,disney-rstock,stock
+RAXP,American Express Tokenized Stock (Reality),listed,14803.45,,0,Bitget,american-express-rstock,stock
+RZTS,Zoetis Tokenized Stock (Reality),listed,14145.56,,0,Bitget,zoetis-rstock,stock
+UNPON,Union Pacific Corporation (Ondo Tokenized),unverified,13332.39,,0,,union-pacific-corporation-ondo-tokenized,other
+RNUE,Nucor Tokenized Stock (Reality),listed,13217.89,,0,Bitget,nucor-rstock,stock
+RBKNG,Booking Tokenized Stock (Reality),listed,12483.83,,0,Bitget,booking-holdings-rstock,stock
+NTESON,NetEase (Ondo Tokenized),unverified,10575.77,,0,,netease-ondo-tokenized,other
+RBNTX,BioNTech SE Tokenized Stock (Reality),listed,9867.94,,0,Bitget,biontech-se-rstock,stock
+RTNA,Direxion Daily Small Cap Bull 3x ETF Tokenized Stock (Reality),listed,9790.46,,0,Bitget,direxion-daily-small-cap-bull-3x-etf-rstock,stock
+STOX,StoxFi,unverified,9718.15,,-1.35,,stoxfi,other
+PL,Planet Labs PBC • Robinhood Token,unverified,9526.83,,0,,planet-labs-pbc-robinhood-token,other
+RBITI,ProShares Short Bitcoin ETF Tokenized Stock (Reality),listed,9217.15,,0,Bitget,proshares-short-bitcoin-etf-rstock,stock
+CLS,"Celestica, Inc. • Robinhood Token",unverified,8986.45,,0,,celestica-inc-robinhood-token,other
+LRCX,Lam Research Corporation • Robinhood Token,unverified,8874.2,,0,,lam-research-corporation-robinhood-token,other
+TE,T1 Energy Inc. • Robinhood Token,unverified,8776.56,,0,,t1-energy-inc-robinhood-token,other
+TEM,"Tempus AI, Inc. • Robinhood Token",unverified,8753.12,,0,,tempus-ai-inc-robinhood-token,other
+TSEM,Tower Semiconductor • Robinhood Token,unverified,8413.73,,0,,tower-semiconductor-robinhood-tokenized-stock,other
+RAZN,AstraZeneca Tokenized Stock (Reality),listed,8376.82,,0,Bitget,astrazeneca-rstock,stock
+TER,"Teradyne, Inc. • Robinhood Token",unverified,8366.43,,0,,teradyne-inc-robinhood-token,other
+IREN,IREN (Dinari Tokenized Stock),unverified,8334.15,,0,,iren-dinari-tokenized-stock,stock
+POWL,"Powell Industries, Inc. • Robinhood Token",unverified,8286.32,,0,,powell-industries-inc-robinhood-token,other
+ZS,Zscaler • Robinhood Token,unverified,8271.26,,3.01,,zscaler-robinhood-tokenized-stock,other
+APLD,Applied Digital • Robinhood Token,unverified,8264.55,,0,,applied-digital-robinhood-tokenized-stock,other
+RXLK,State Street Technology Select Sector SPDR ETF Tokenized Stock (Reality),listed,8174.26,,0,Bitget,the-technology-select-sector-spdr-fund-rstock,stock
+RSSPC,Leverage Shares 2X Short SpaceX Daily ETF Tokenized Stock (Reality),listed,8147.11,,0,Bitget,leverage-shares-2x-short-spacex-daily-etf-rstock,stock
+RGTI,Rigetti Computing • Robinhood Token,unverified,8113.23,,0.01,,rigetti-computing-robinhood-tokenized-stock,other
+QBTS,D-Wave Quantum • Robinhood Token,unverified,8032.51,,0,,d-wave-quantum-robinhood-tokenized-stock,other
+RLNG,Cheniere Energy Tokenized Stock (Reality),listed,7966.67,,0,Bitget,cheniere-energy-rstock,stock
+GLW,Corning • Robinhood Token,unverified,7856.52,,0,,corning-robinhood-tokenized-stock,other
+BKCHON,Global X Blockchain ETF (Ondo Tokenized),unverified,7847.53,,0,,global-x-blockchain-etf-ondo-tokenized,fund
+ALAB,"Astera Labs, Inc. • Robinhood Token",unverified,7741.11,,-6.56,,astera-labs-inc-robinhood-token,other
+RRDDT,Reddit Tokenized Stock (Reality),listed,7738.78,,0,Bitget,reddit-rstock,stock
+RIOT,Riot Platforms (Dinari Tokenized Stock),unverified,7728.51,,0,,riot-platforms-dinari-tokenized-stock,stock
+KSS,Kohl's Corporation • Robinhood Token,unverified,7704,,0,,kohl-s-corporation-robinhood-token,other
+AXTI,AXT Inc • Robinhood Token,unverified,7698.52,,0,,axt-inc-robinhood-token,other
+RIBB,iShares Biotechnology ETF Tokenized Stock (Reality),listed,7644.43,,0,Bitget,ishares-biotechnology-etf-rstock,stock
+VRTXON,Vertex Pharmaceuticals (Ondo Tokenized),unverified,7543.84,,0,,vertex-pharmaceuticals-ondo-tokenized,other
+VRT,Vertiv Holdings Co • Robinhood Token,unverified,7526.17,,0,,vertiv-holdings-co-robinhood-token,other
+RFCX,Freeport-McMoRan Tokenized Stock (Reality),listed,7518.31,,0,Bitget,freeport-mcmoran-rstock,stock
+RCRSP,CRISPR Therapeutics Tokenized Stock (Reality),listed,7479.08,,0,Bitget,crispr-therapeutics-rstock,stock
+URNJ,Sprott Funds Trust Sprott Junior Uranium Miners ETF (Dinari Tokenized ETF),unverified,7462.74,,0,,sprott-funds-trust-sprott-junior-uranium-miners-etf-dinari-tokenized-etf,commodity
+ADBE,Adobe (Dinari Tokenized Stock),unverified,7451.78,,0,,adobe-dinari-tokenized-stock,stock
+KTOS,"Kratos Defense & Security Solutions, Inc. • Robinhood Token",unverified,7359.7,,0,,kratos-defense-security-solutions-inc-robinhood-token,other
+CSCO,Cisco Systems (Dinari Tokenized Stock),unverified,7349.65,,0,,cisco-systems-dinari-tokenized-stock,stock
+HWM,Howmet Aerospace Inc. • Robinhood Token,unverified,7330.26,,0,,howmet-aerospace-inc-robinhood-token,other
+STRD,Strategy Stride Preferred (Dinari Tokenized Stock),unverified,7317,,0,,strategy-stride-preferred-dinari-tokenized-stock,stock
+RCAPR,Capricor Therapeutics Tokenized Stock (Reality),listed,7310.59,,0,Bitget,capricor-therapeutics-rstock,stock
+PSQON,ProShares Short QQQ (Ondo Tokenized),unverified,7287.12,,0,,proshares-short-qqq-ondo-tokenized,other
+RO,Realty Income Tokenized Stock (Reality),listed,7284.64,,0,Bitget,realty-income-rstock,stock
+CRDO,Credo Technology Group Holding Ltd Ordinary Shares • Robinhood Token,unverified,7186.59,,-3.25,,credo-technology-group-holding-ltd-ordinary-shares-robinhood-token,other
+GEV,GE Vernova Inc. • Robinhood Token,unverified,7178.13,,0,,ge-vernova-inc-robinhood-token,other
+IBRX,"ImmunityBio, Inc. • Robinhood Token",unverified,7124.21,,0,,immunitybio-inc-robinhood-token,other
+VSAT,"ViaSat, Inc. • Robinhood Token",unverified,7112.09,,0,,viasat-inc-robinhood-token,other
+RBLX,Roblox (Dinari Tokenized Stock),listed,7074.01,,0,Bitget,roblox-dinari-tokenized-stock,stock
+COHR,Coherent Corp. • Robinhood Token,unverified,7021.83,,0,,coherent-corp-robinhood-token,other
+SNOW,Snowflake (Dinari Tokenized Stock),unverified,6971.79,,0,,snowflake-dinari-tokenized-stock,stock
+RVSXY,Victoria's Secret Tokenized Stock (Reality),listed,6709.01,,0,Bitget,victoria-s-secret-rstock,stock
+RSLB,SLB Tokenized Stock (Reality),listed,6703.38,,0,Bitget,slb-ltd-rstock,stock
+RURNM,Sprott Uranium Miners ETF Tokenized Stock (Reality),listed,6691.96,,0,Bitget,sprott-uranium-miners-etf-rstock,stock
+PANW,"Palo Alto Networks, Inc. • Robinhood Token",unverified,6685.74,,0,,palo-alto-networks-inc-robinhood-token,other
+BTGON,B2Gold (Ondo Tokenized Stock),unverified,6641.91,,0,,b2gold-ondo-tokenized-stocks,stock
+XXI,Twenty One Capital (Dinari Tokenized Stock),unverified,6534.97,,0,,twenty-one-capital-dinari-tokenized-stock,stock
+RVRSN,VeriSign Tokenized Stock (Reality),listed,6528.44,,0,Bitget,verisign-rstock,stock
+RETN,Eaton Tokenized Stock (Reality),listed,6489.1,,0,Bitget,eaton-rstock,stock
+AMGNON,Amgen (Ondo Tokenized Stock),listed,6469.17,,0.86,MEXC,amgen-ondo-tokenized-stocks,stock
+ABCL,AbCellera Biologics Inc. • Robinhood Token,unverified,6464.68,,0,,abcellera-biologics-inc-robinhood-token,other
+AVAV,"AeroVironment, Inc. • Robinhood Token",unverified,6439.69,,0,,aerovironment-inc-robinhood-token,other
+MPWR,"Monolithic Power Systems, Inc. • Robinhood Token",unverified,6389.05,,0,,monolithic-power-systems-inc-robinhood-token,other
+RYINN,Direxion Daily FTSE China Bull 3X ETF Tokenized Stock (Reality),listed,6368.87,,0,Bitget,direxion-daily-ftse-china-bull-3x-shares-etf-rstock,stock
+RDNN,Denison Mines Tokenized Stock (Reality),listed,6310.01,,0,Bitget,denison-mines-rstock,stock
+CTSH,Cognizant Technology Solutions Corporation Class A • Robinhood Token,unverified,6220.55,,0.01,,cognizant-technology-solutions-corporation-class-a-robinhood-token,other
+ANET,Arista Networks • Robinhood Token,unverified,6199.23,,0,,arista-networks-robinhood-token,other
+WMT,Walmart (Dinari Tokenized Stock),unverified,6189.81,,0,,walmart-dinari-tokenized-stock,stock
+VSHON,Vishay Intertechnology (Ondo Tokenized),unverified,6156.26,,0,,vishay-intertechnology-ondo-tokenized,other
+HODL,VanEck Bitcoin ETF (Dinari Tokenized ETF),unverified,6102.73,,0,,vaneck-bitcoin-etf-dinari-tokenized-etf,fund
+RMBSON,Rambus (Ondo Tokenized),unverified,6061.77,,0,,rambus-ondo-tokenized,other
+FTNT,"Fortinet, Inc. • Robinhood Token",unverified,6056.03,,0,,fortinet-inc-robinhood-token,other
+SPMO,Invesco S&P 500 Momentum ETF • Robinhood Token,unverified,6024.14,,0,,invesco-s-p-500-momentum-etf-robinhood-tokenized-stock,fund
+IJSON,iShares S&P Small-Cap 600 Value ETF (Ondo Tokenized),unverified,5988.42,,0,,ishares-s-p-small-cap-600-value-etf-ondo-tokenized,fund
+TRON,TRON (Dinari Tokenized Stock),unverified,5982.32,,0,,tron-dinari-tokenized-stock,stock
+AAONON,AAON (Ondo Tokenized),unverified,5920.6,,0,,aaon-ondo-tokenized,other
+XNDU,Xanadu Quantum • Robinhood Token,unverified,5882.62,,0.01,,xanadu-quantum-robinhood-tokenized-stock,other
+NVO,Novo Nordisk (Dinari Tokenized Stock),unverified,5794.28,,0,,novo-nordisk-dinari-tokenized-stock,stock
+RAIPO,Defiance AI & Power Infrastructure ETF Tokenized Stock (Reality),listed,5738.19,,0,Bitget,defiance-ai-power-infrastructure-etf-rstock,stock
+VIG,Vanguard Dividend Appreciation ETF (Dinari Tokenized ETF),unverified,5701.35,,0,,vanguard-dividend-appreciation-etf-dinari-tokenized-etf,fund
+RXBI,SPDR S&P Biotech ETF Tokenized Stock (Reality),listed,5693.78,,0,Bitget,spdr-s-p-biotech-etf-rstock,stock
+STRF,Strategy Strife Preferred (Dinari Tokenized Stock),unverified,5658.94,,0,,strategy-strife-preferred-dinari-tokenized-stock,stock
+RRIVN,Rivian Automotive Tokenized Stock (Reality),listed,5580.15,,0,Bitget,rivian-automotive-rstock,stock
+HLAL,Listed Funds Trust Wahed FTSE USA Shariah ETF (Dinari Tokenized ETF),unverified,5570.97,,0,,listed-funds-trust-wahed-ftse-usa-shariah-etf-dinari-tokenized-etf,fund
+BCI,Beer Can Island,unverified,5557.24,,0,,beer-can-island,other
+SLS,Sellas Life Sciences Group (Dinari Tokenized Stock),unverified,5552.79,,0,,sellas-life-sciences-group-dinari-tokenized-stock,stock
+SLX,VanEck Steel ETF (Dinari Tokenized ETF),listed,5552.57,,0,OKX/Bybit/Kraken/Gate/MEXC/Bitget,vaneck-steel-etf-dinari-tokenized-etf,fund
+FLNC,Fluence Energy • Robinhood Token,unverified,5549.97,,0,,fluence-energy-robinhood-tokenized-stock,other
+DOCN,"DigitalOcean Holdings, Inc. • Robinhood Token",unverified,5544.5,,0,,digitalocean-holdings-inc-robinhood-token,other
+INOD,Innodata • Robinhood Token,unverified,5542.42,,0,,innodata-robinhood-tokenized-stock,other
+FICO,Fair Isaac Corporation • Robinhood Token,unverified,5479.31,,0,,fair-isaac-corporation-robinhood-token,other
+HII,"Huntington Ingalls Industries, Inc. • Robinhood Token",unverified,5454.96,,0,,huntington-ingalls-industries-inc-robinhood-token,other
+HPEON,Hewlett Packard Enterprise (Ondo Tokenized),unverified,5421.1,,0,,hewlett-packard-enterprise-ondo-tokenized,other
+MAGS,Roundhill Magnificent Seven ETF (Dinari Tokenized ETF),unverified,5418.7,,0,,roundhill-magnificent-seven-etf-dinari-tokenized-etf,fund
+PR,Permian Resources • Robinhood Token,unverified,5397.64,,0,,permian-resources-robinhood-tokenized-stock,other
+TTD,"The Trade Desk, Inc. • Robinhood Token",listed,5329.42,,0,Gate,the-trade-desk-inc-robinhood-token,other
+DNNON,Denison Mines (Ondo Tokenized Stock),unverified,5328.78,,0,,denison-mines-ondo-tokenized-stocks,stock
+RALAB,Astera Labs Tokenized Stock (Reality),listed,5320.94,,0,Bitget,astera-labs-rstock,stock
+RMDB,MongoDB Tokenized Stock (Reality),listed,5301.67,,0,Bitget,mongodb-rstock,stock
+RBWXT,BWX Technologies Tokenized Stock (Reality),listed,5271.37,,0,Bitget,bwx-technologies-rstock,stock
+RIBIT,iShares Bitcoin Trust Tokenized Stock (Reality),listed,5210.68,,0,Bitget,ishares-bitcoin-trust-rstock,stock
+XOP,State Street SPDR S&P Oil & Gas Exploration & Production ETF (Dinari Tokenized ETF),unverified,5163.57,,0,,state-street-spdr-s-p-oil-gas-exploration-production-etf-dinari-tokenized-etf,fund
+RREMX,VanEck Rare Earth and Strategic Metals ETF Tokenized Stock (Reality),listed,5129.86,,0,Bitget,vaneck-rare-earth-and-strategic-metals-etf-rstock,stock
+GOOG,Alphabet Class C (Dinari Tokenized Stock),unverified,5084.33,,0,,alphabet-class-c-dinari-tokenized-stock,stock
+RMS,Morgan Stanley Tokenized Stock (Reality),listed,5084.14,,0,Bitget,morgan-stanley-rstock,stock
+FISV,"Fiserv, Inc. • Robinhood Token",unverified,5061.13,,0,,fiserv-inc-robinhood-token,other
+OUST,"Ouster, Inc. • Robinhood Token",unverified,4989.04,,0,,ouster-inc-robinhood-token,other
+RVRTX,Vertex Pharmaceuticals Tokenized Stock (Reality),listed,4953.84,,0,Bitget,vertex-pharmaceuticals-rstock,stock
+SEDGON,SolarEdge Technologies (Ondo Tokenized),unverified,4873.64,,0,,solaredge-technologies-ondo-tokenized,other
+AXON,"Axon Enterprise, Inc. • Robinhood Token",unverified,4856.07,,-0.82,,axon-enterprise-inc-robinhood-token,other
+JBL,Jabil Inc. • Robinhood Token,unverified,4809.88,,0,,jabil-inc-robinhood-token,other
+SIMO,Silicon Motion Technology Corporation ADS • Robinhood Token,unverified,4764.36,,0,,silicon-motion-technology-corporation-ads-robinhood-token,other
+VEON,VEON (Dinari Tokenized Stock),unverified,4723.29,,0,,veon-dinari-tokenized-stock,stock
+ONTO,Onto Innovation Inc. • Robinhood Token,unverified,4711.78,,0,,onto-innovation-inc-robinhood-token,other
+ARGTON,Global X MSCI Argentina ETF (Ondo Tokenized),unverified,4680.48,,0,,global-x-msci-argentina-etf-ondo-tokenized,fund
+MTSI,"MACOM Technology Solutions Holdings, Inc. • Robinhood Token",unverified,4670.77,,0,,macom-technology-solutions-holdings-inc-robinhood-token,other
+AEIS,"Advanced Energy Industries, Inc. • Robinhood Token",unverified,4634.48,,0,,advanced-energy-industries-inc-robinhood-token,other
+FPSON,Forgent Power Solutions (Ondo Tokenized),unverified,4619.19,,0,,forgent-power-solutions-ondo-tokenized,other
+LHX,"L3Harris Technologies, Inc. • Robinhood Token",unverified,4613.68,,0,,l3harris-technologies-inc-robinhood-token,other
+ADION,Analog Devices (Ondo Tokenized Stock),listed,4559.77,,-0.21,MEXC,analog-devices-ondo-tokenized-stocks,stock
+MTZON,MasTec (Ondo Tokenized),unverified,4556.46,,0,,mastec-ondo-tokenized,other
+RPG,Procter & Gamble Tokenized Stock (Reality),listed,4549.32,,0,Bitget,procter-gamble-rstock,stock
+RCDNS,Cadence Design Systems Tokenized Stock (Reality),listed,4531.4,,0,Bitget,cadence-design-systems-rstock,stock
+RNDAQ,Nasdaq Inc. Tokenized Stock (Reality),listed,4495.6,,0,Bitget,nasdaq-rstock,stock
+UMC,United Microelectronics • Robinhood Token,unverified,4485.61,,0,,united-microelectronics-robinhood-tokenized-stock,other
+ENLVON,Enlivex Therapeutics (Ondo Tokenized),unverified,4419.68,,0,,enlivex-therapeutics-ondo-tokenized,other
+WTTSM,Taiwan Semiconductor (ST0x Tokenized Stock),unverified,4413.06,,0,,taiwan-semiconductor-st0x-tokenized-stock,stock
+RVTV,Vanguard Value ETF Tokenized Stock (Reality),listed,4404.22,,0,Bitget,vanguard-value-etf-rstock,stock
+DIVO,Amplify CWP Enhanced Dividend Income ETF (Dinari Tokenized ETF),unverified,4392.14,,0,,amplify-cwp-enhanced-dividend-income-etf-dinari-tokenized-etf,fund
+RSNAP,Snap Tokenized Stock (Reality),listed,4380.84,,0,Bitget,snap-inc-rstock,stock
+RACN,Accenture Tokenized Stock (Reality),listed,4376.2,,0,Bitget,accenture-rstock,stock
+DEON,Deere (Ondo Tokenized Stock),unverified,4346.79,,0,,deere-ondo-tokenized-stocks,stock
+COFON,Capital One (Ondo Tokenized Stock),unverified,4314.51,,0,,capital-one-ondo-tokenized-stock,stock
+UMCON,United Microelectronics (Ondo Tokenized),unverified,4232.33,,0,,united-microelectronics-ondo-tokenized,other
+RNEE,NextEra Energy Tokenized Stock (Reality),listed,4229.71,,0,Bitget,nextera-energy-rstock,stock
+TLT,iShares 20 Year Treasury Bond ETF (Dinari Tokenized ETF),unverified,4221.81,,0,,ishares-20-year-treasury-bond-etf-dinari-tokenized-etf,treasury
+PPLTON,abrdn Physical Platinum Shares ETF (Ondo Tokenized),unverified,4183.06,,0,,abrdn-physical-platinum-shares-etf-ondo-tokenized,fund
+RGWRE,Guidewire Software Tokenized Stock (Reality),listed,4167.51,,0,Bitget,guidewire-software-rstock,stock
+CLSK,CleanSpark • Robinhood Token,unverified,4097.36,,-1.13,,cleanspark-robinhood-tokenized-stock,other
+RTXRH,Texas Roadhouse Tokenized Stock (Reality),listed,4078.75,,0,Bitget,texas-roadhouse-inc-rstock,stock
+RXPEV,Xpeng Tokenized Stock (Reality),listed,4061.6,,0,Bitget,xpeng-inc-rstock,stock
+BA,Boeing (Dinari Tokenized Stock),unverified,4058.58,,0,,boeing-dinari-tokenized-stock,stock
+RMOH,Molina Healthcare Tokenized Stock (Reality),listed,4054.7,,0,Bitget,molina-healthcare-inc-rstock,stock
+XGR,Xgrow,unverified,3971.23,,0,,xgrow,other
+VIVI,VIVI COIN,unverified,3958.82,,0,,vivi-coin,other
+SONY,Sony Group (Dinari Tokenized Stock),unverified,3938.61,,0,,sony-group-dinari-tokenized-stock,stock
+RPPLT,abrdn Physical Platinum Shares ETF Tokenized Stock (Reality),listed,3906.25,,0,Bitget,abrdn-platinum-etf-trust-rstock,stock
+FLD,Fold Holdings (Dinari Tokenized Stock),unverified,3897.1,,0,,fold-holdings-dinari-tokenized-stock,stock
+SCHWON,Charles Schwab (Ondo Tokenized Stock),unverified,3850.6,,0,,charles-schwab-ondo-tokenized-stocks,stock
+VICR,Vicor Corporation • Robinhood Token,unverified,3829.45,,0,,vicor-corporation-robinhood-token,other
+QBTS,D-Wave Quantum (Dinari Tokenized Stock),unverified,3820.77,,0,,d-wave-quantum-dinari-tokenized-stock,stock
+ECOON,Okeanis Eco Tankers (Ondo Tokenized),unverified,3778.48,,0,,okeanis-eco-tankers-ondo-tokenized,other
+TEAM,Atlassian Corporation • Robinhood Token,unverified,3770.85,,0,,atlassian-corporation-robinhood-token,other
+ABTC,American Bitcoin (Dinari Tokenized Stock),unverified,3745.02,,0,,american-bitcoin-dinari-tokenized-stock,stock
+SLS,"SELLAS Life Sciences Group, Inc. • Robinhood Token",unverified,3742.37,,0,,sellas-life-sciences-group-inc-robinhood-token,other
+RDGRW,WisdomTree US Quality Dividend Growth Fund Tokenized Stock (Reality),listed,3715.79,,0,Bitget,wisdomtree-us-quality-dividend-growth-etf-rstock,stock
+HD,Home Depot (Dinari Tokenized Stock),unverified,3701.43,,0,,home-depot-dinari-tokenized-stock,stock
+HYSON,PIMCO 0-5 Year High Yield Corporate Bond Index ETF (Ondo Tokenized),unverified,3652.68,,0,,pimco-0-5-year-high-yield-corporate-bond-index-etf-ondo-tokenized,bond
+RITOT,iShares Core S&P Total US Stock Market ETF Tokenized Stock (Reality),listed,3652.42,,0,Bitget,ishares-core-s-p-total-us-stock-market-etf-rstock,stock
+YUM,Yum! Brands (Dinari Tokenized Stock),unverified,3644.15,,0,,yum-brands-dinari-tokenized-stock,stock
+PG,Procter & Gamble (Dinari Tokenized Stock),unverified,3639.75,,0,,procter-gamble-dinari-tokenized-stock,stock
+ARKK,ARK Innovation ETF (Dinari Tokenized ETF),unverified,3633.86,,0,,ark-innovation-etf-dinari-tokenized-etf,fund
+RBOTZ,Global X Robotics & Artificial Intelligence ETF Tokenized Stock (Reality),listed,3625.56,,0,Bitget,global-x-robotics-artificial-intelligence-thematic-etf-rstock,stock
+ALBON,Albemarle (Ondo Tokenized),unverified,3616.2,,0,,albemarle-ondo-tokenized,other
+KLAC,KLA Corporation • Robinhood Token,unverified,3614.46,,0,,kla-corporation-robinhood-token,other
+RJEPI,JPMorgan Equity Premium Income ETF Tokenized Stock (Reality),listed,3587.09,,0,Bitget,jpmorgan-equity-premium-income-etf-rstock,stock
+RFICO,Fair Isaac Tokenized Stock (Reality),listed,3577.84,,0,Bitget,fair-isaac-corporation-rstock,stock
+BEC,Bloom Energy Corporation (Coinbase Tokenized Stock),unverified,3559.62,,59.36,,bloom-energy-corporation-coinbase-tokenized-stock,stock
+KTOS,Kratos Defense and Security Solutions (Dinari Tokenized Stock),unverified,3550.08,,0,,kratos-defense-and-security-solutions-dinari-tokenized-stock,stock
+RLULU,lululemon Tokenized Stock (Reality),listed,3543.98,,0,Bitget,lululemon-athletica-inc-rstock,stock
+SHLDON,Global X Defense Tech ETF (Ondo Tokenized),unverified,3509.93,,0,,global-x-defense-tech-etf-ondo-tokenized,fund
+HYGWON,iShares High Yield Corporate Bond BuyWrite Strategy ETF (Ondo Tokenized ETF),unverified,3493.05,,0,,ishares-high-yield-corporate-bond-buywrite-strategy-etf-ondo-tokenized-etf,bond
+RETHA,iShares Ethereum Trust Tokenized Stock (Reality),listed,3477.21,,0,Bitget,ishares-ethereum-trust-etf-rstock,stock
+BAC,Bank of America (Dinari Tokenized Stock),unverified,3470.13,,0,,bank-of-america-dinari-tokenized-stock,stock
+AMKR,"Amkor Technology, Inc. • Robinhood Token",unverified,3464.63,,0,,amkor-technology-inc-robinhood-token,other
+BITX,2x Bitcoin Strategy ETF (Dinari Tokenized ETF),unverified,3433.93,,0,,2x-bitcoin-strategy-etf-dinari-tokenized-etf,fund
+RDE,Deere Tokenized Stock (Reality),listed,3387.95,,0,Bitget,deere-rstock,stock
+CLSON,Celestica (Ondo Tokenized),unverified,3350.36,,0,,celestica-ondo-tokenized,other
+RLABU,Direxion Daily S&P Biotech Bull 3x Shares ETF Tokenized Stock (Reality),listed,3329.61,,0,Bitget,direxion-daily-s-p-biotech-bull-3x-shares-etf-rstock,stock
+ONTOON,Onto Innovation (Ondo Tokenized),unverified,3328.51,,0,,onto-innovation-ondo-tokenized,other
+BABA,Alibaba Group Holding (Dinari Tokenized Stock),unverified,3321.29,,0,,alibaba-group-holding-dinari-tokenized-stock,stock
+NVTS,Navitas Semiconductor • Robinhood Token,unverified,3281.79,,0,,navitas-semiconductor-robinhood-tokenized-stock,other
+RVTI,Vanguard Total Stock Market ETF Tokenized Stock (Reality),listed,3244.34,,0,Bitget,vanguard-total-stock-market-etf-rstock,stock
+RADI,Analog Devices Tokenized Stock (Reality),listed,3230.56,,0,Bitget,analog-devices-rstock,stock
+TTWOC,"Take-Two Interactive Software, Inc. (Coinbase Tokenized Stock)",unverified,3221.61,,-3.93,,take-two-interactive-software-inc-coinbase-tokenized-stock,stock
+RTMO,Thermo Fisher Scientific Tokenized Stock (Reality),listed,3211.58,,0,Bitget,thermo-fisher-scientific-rstock,stock
+RWFC,Wells Fargo Tokenized Stock (Reality),listed,3205.24,,0,Bitget,wells-fargo-co-rstock,stock
+RHIMX,Himax Technologies Tokenized Stock (Reality),listed,3201.57,,0,Bitget,himax-technologies-rstock,stock
+RDDOG,Datadog Tokenized Stock (Reality),listed,3194.64,,0,Bitget,datadog-rstock,stock
+CIEN,Ciena Corporation • Robinhood Token,unverified,3181.71,,0,,ciena-corporation-robinhood-token,other
+RWBD,Warner Bros. Discovery Tokenized Stock (Reality),unverified,3176.52,,0,,warner-bros-discovery-rstock,stock
+RADM,Archer-Daniels-Midland Tokenized Stock (Reality),listed,3167.94,,0,Bitget,archer-daniels-midland-rstock,stock
+MRNAC,"Moderna, Inc. (Coinbase Tokenized Stock)",unverified,3159.82,,-2.37,,moderna-inc-coinbase-tokenized-stock,stock
+HALON,Halliburton (Ondo Tokenized),unverified,3136.05,,0,,halliburton-ondo-tokenized,other
+REQIX,Equinix Tokenized Stock (Reality),listed,3088.05,,0,Bitget,equinix-rstock,stock
+PWR,"Quanta Services, Inc. • Robinhood Token",unverified,3083.13,,0,,quanta-services-inc-robinhood-token,other
+ARQQON,Arqit Quantum (Ondo Tokenized),unverified,3051.17,,0,,arqit-quantum-ondo-tokenized,other
+RVNQ,Vanguard Real Estate ETF Tokenized Stock (Reality),listed,3008.67,,0,Bitget,vanguard-real-estate-etf-rstock,stock
+CEVAON,CEVA (Ondo Tokenized),unverified,2978.78,,0,,ceva-ondo-tokenized,other
+ROKTA,Okta Tokenized Stock (Reality),listed,2969.09,,0,Bitget,okta-rstock,stock
+TERON,Teradyne (Ondo Tokenized),unverified,2964.56,,0,,teradyne-ondo-tokenized,other
+RGTI,Rigetti Computing (Dinari Tokenized Stock),unverified,2955.19,,0,,rigetti-computing-dinari-tokenized-stock,stock
+RCLX,Clorox Tokenized Stock (Reality),listed,2952.6,,0,Bitget,the-clorox-company-rstock,stock
+DIS,Walt Disney (Dinari Tokenized Stock),unverified,2920.55,,0,,walt-disney-dinari-tokenized-stock,stock
+AGON,First Majestic Silver (Ondo Tokenized),listed,2905.64,,-1.45,MEXC,first-majestic-silver-ondo-tokenized,commodity
+RXYZ,Block Tokenized Stock (Reality),listed,2874.44,,0,Bitget,block-rstock,stock
+ROSS,One Stop Systems Tokenized Stock (Reality),listed,2819.71,,0,Bitget,one-stop-systems-rstock,stock
+QS,Quantumscape (Dinari Tokenized Stock),unverified,2801.97,,0,,quantumscape-dinari-tokenized-stock,stock
+RVFS,VinFast Auto Tokenized Stock (Reality),listed,2786.54,,0,Bitget,vinfast-rstock,stock
+RCMCSA,Comcast Tokenized Stock (Reality),listed,2778.88,,0,Bitget,comcast-rstock,stock
+RSPXU,ProShares UltraPro Short S&P 500 Tokenized Stock (Reality),listed,2768.51,,0,Bitget,proshares-ultrapro-short-s-p500-etf-rstock,stock
+RCOP,ConocoPhillips Tokenized Stock (Reality),listed,2711.64,,0,Bitget,conocophillips-rstock,stock
+VPGON,Vishay Precision Group (Ondo Tokenized),unverified,2690.81,,0,,vishay-precision-group-ondo-tokenized,other
+SUIRWAPIN,RWADepin Protocol,unverified,2677.52,,0,,rwadepin-protocol,other
+RTXN,Texas Instruments Tokenized Stock (Reality),listed,2675.83,,0,Bitget,texas-instruments-rstock,stock
+GEMION,Gemini Space Station (Ondo Tokenized Stock),unverified,2657,,0,,gemini-space-station-ondo-tokenized-stock,stock
+AGRO,Adecoagro (Dinari Tokenized Stock),listed,2613.03,,0,MEXC,adecoagro-dinari-tokenized-stock,stock
+AMC,AMC ENTERTAINMENT HOLDINGS (Dinari Tokenized Stock),unverified,2593.17,,0,,amc-entertainment-holdings-dinari-tokenized-stock,stock
+RMSI,Motorola Solutions Tokenized Stock (Reality),listed,2563.71,,0,Bitget,motorola-solutions-rstock,stock
+RCPRT,Copart Tokenized Stock (Reality),listed,2547.47,,0,Bitget,copart-inc-rstock,stock
+WTCEG,Constellation Energy (ST0x Tokenized Stock),unverified,2527.41,,0,,constellation-energy-st0x-tokenized-stock,stock
+ENBON,Enbridge (Ondo Tokenized),unverified,2516.81,,0,,enbridge-ondo-tokenized,other
+UFO,Procure ETF Trust II Procure Space ETF (Dinari Tokenized ETF),unverified,2500.14,,0,,procure-etf-trust-ii-procure-space-etf-dinari-tokenized-etf,fund
+RDAL,Delta Air Lines Tokenized Stock (Reality),listed,2480.89,,0,Bitget,delta-air-lines-rstock,stock
+TTMION,TTM Technologies (Ondo Tokenized),listed,2478.22,,-10.69,MEXC,ttm-technologies-ondo-tokenized,other
+BOTZ,Global X Funds Global X Robotics & Artificial Intelligence ETF (Dinari Tokenized ETF),unverified,2463.33,,0,,global-x-funds-global-x-robotics-artificial-intelligence-etf-dinari-tokenized-etf,fund
+OKLO,Oklo (Dinari Tokenized Stock),unverified,2439.21,,0,,oklo-dinari-tokenized-stock,stock
+AEHR,Aehr Test Systems • Robinhood Token,unverified,2420.09,,0,,aehr-test-systems-robinhood-token,other
+RCSCO,Cisco Systems Tokenized Stock (Reality),listed,2416.57,,0,Bitget,cisco-rstock,stock
+TNKON,Teekay Tankers (Ondo Tokenized),unverified,2407.55,,0,,teekay-tankers-ondo-tokenized,other
+RSYM,Symbotic Tokenized Stock (Reality),listed,2395.56,,0,Bitget,symbotic-inc-rstock,stock
+URA,Global X Uranium ETF (Dinari Tokenized ETF),unverified,2381.84,,0,,global-x-uranium-etf-dinari-tokenized-etf,commodity
+RHWM,Howmet Aerospace Tokenized Stock (Reality),listed,2369.07,,0,Bitget,howmet-aerospace-rstock,stock
+RNASA,Tema Space Innovators ETF Tokenized Stock (Reality),listed,2368.95,,0,Bitget,tema-space-innovators-etf-rstock,stock
+RF,Ford Motor Tokenized Stock (Reality),listed,2361.6,,0,Bitget,ford-motor-rstock,stock
+RCCL,Carnival Corporation Tokenized Stock (Reality),listed,2327.15,,0,Bitget,carnival-rstock,stock
+CRM,Salesforce (Dinari Tokenized Stock),unverified,2319.18,,0,,salesforce-dinari-tokenized-stock,stock
+GLTRON,abrdn Physical Precious Metals Basket Shares ETF (Ondo Tokenized),unverified,2315.96,,0,,abrdn-physical-precious-metals-basket-shares-etf-ondo-tokenized,fund
+ASTSC,"AST SpaceMobile, Inc. (Coinbase Tokenized Stock)",unverified,2302.7,,-0.41,,ast-spacemobile-inc-coinbase-tokenized-stock,stock
+QUBTC,Quantum Computing Inc. (Coinbase Tokenized Stock),unverified,2294.73,,-2.24,,quantum-computing-inc-coinbase-tokenized-stock,stock
+NAVN,"Navan, Inc. • Robinhood Token",unverified,2284.28,,0,,navan-inc-robinhood-token,other
+RPCG,PG&E Tokenized Stock (Reality),listed,2275.24,,0,Bitget,pg-e-corp-rstock,stock
+BSPX,Bending Spoons xStock,unverified,82555345,,0,,bending-spoons-xstock,stock
+KULA,Kula,listed,0,,-3.93,MEXC,kula,other
