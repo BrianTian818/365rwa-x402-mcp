@@ -1,0 +1,54 @@
+{
+  "x402Version": 2,
+  "name": "365rwa RWA data API",
+  "description": "Chinese-language machine-readable RWA (real-world asset tokenization) data: authenticity verification, project scorecards, issuance archives, licensed institutions, full-market tokens, regulatory tracker. Pay per call in USDC on Base.",
+  "homepage": "https://365rwa.vip",
+  "docs": "https://365rwa.vip/llms.txt",
+  "payment": {
+    "scheme": "exact",
+    "network": "eip155:8453",
+    "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "assetSymbol": "USDC",
+    "assetTransferMethod": "eip3009",
+    "payTo": "0x230cd9cd33589bcf33cd32e5aa4f9e0c3994a63b"
+  },
+  "mcpEndpoint": "https://365rwa.vip/mcp",
+  "freeEndpoint": "https://365rwa.vip/api/v1/issuances",
+  "resources": [
+    {
+      "tool": "list_datasets",
+      "price": "$0",
+      "description": "List all datasets with record counts and prices (free)"
+    },
+    {
+      "tool": "verify_rwa_project",
+      "price": "$0.05",
+      "description": "Five-level authenticity verdict across five databases with evidence samples"
+    },
+    {
+      "tool": "query_projects",
+      "price": "$0.03",
+      "description": "Hand-verified RWA project scorecards (score/TVL/yield/contracts/risks)"
+    },
+    {
+      "tool": "query_issuances",
+      "price": "$0.02",
+      "description": "RWA issuance archives with regulator and official source"
+    },
+    {
+      "tool": "query_licenses",
+      "price": "$0.02",
+      "description": "Global licensed-institution registry with official registry links"
+    },
+    {
+      "tool": "query_market",
+      "price": "$0.02",
+      "description": "Full-market RWA token list with risk flags"
+    },
+    {
+      "tool": "query_regulatory",
+      "price": "$0.02",
+      "description": "Global regulatory approval tracker"
+    }
+  ]
+}
