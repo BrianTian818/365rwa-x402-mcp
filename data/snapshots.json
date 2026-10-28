@@ -1,0 +1,41 @@
+{
+ "ok": true,
+ "source": "https://365rwa.vip",
+ "history": [
+  "2026-10"
+ ],
+ "snapshots": {
+  "2026-10": {
+   "month": "2026-10",
+   "date": "2026-10-26",
+   "counts": {
+    "issuances": 41,
+    "licenses": 67,
+    "projects": 30,
+    "regulatory": 9,
+    "market": 1940
+   },
+   "tvlUsd": 52754203559,
+   "avgYield": 5.2,
+   "marketRisk": {
+    "verified": 15,
+    "listed": 828,
+    "unverified": 1097
+   },
+   "top3": [
+    {
+     "name": "BlackRock BUIDL",
+     "score": 94
+    },
+    {
+     "name": "PAX Gold (PAXG)",
+     "score": 92
+    },
+    {
+     "name": "香港特区政府数码绿色债券",
+     "score": 91
+    }
+   ]
+  }
+ }
+}
