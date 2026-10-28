@@ -1,0 +1,58 @@
+{
+  "name": "365rwa-rwa-data",
+  "displayName": "365rwa RWA structured data (Chinese-language RWA intelligence)",
+  "description": "Read-only RWA (real-world asset tokenization) structured data from 365rwa.vip: project scorecards, issuance archives, licensed-institution registry, full-market token list and regulatory tracker. Free dataset listing; paid per-call verification and queries via x402 (USDC on Base).",
+  "url": "https://365rwa.vip/mcp",
+  "transport": {
+    "type": "streamable-http"
+  },
+  "homepage": "https://365rwa.vip",
+  "docs": "https://365rwa.vip/llms.txt",
+  "pricing": {
+    "protocol": "x402",
+    "network": "eip155:8453",
+    "asset": "USDC",
+    "free_tools": [
+      "ping",
+      "list_datasets"
+    ],
+    "paid_tools": {
+      "verify_rwa_project": "$0.05",
+      "query_projects": "$0.03",
+      "query_issuances": "$0.02",
+      "query_licenses": "$0.02",
+      "query_market": "$0.02",
+      "query_regulatory": "$0.02"
+    }
+  },
+  "tools": [
+    {
+      "name": "list_datasets",
+      "description": "List all RWA datasets with record counts, tools and prices (free)"
+    },
+    {
+      "name": "verify_rwa_project",
+      "description": "Five-level authenticity verdict for a project/token/institution across five databases, with evidence samples"
+    },
+    {
+      "name": "query_projects",
+      "description": "Hand-verified RWA project scorecards: score, TVL, yield, chains, contracts, custodian, auditor, risks"
+    },
+    {
+      "name": "query_issuances",
+      "description": "RWA issuance archives: issuer, underlying asset, amount, regulator, partners, official source"
+    },
+    {
+      "name": "query_licenses",
+      "description": "Global licensed-institution registry across HK/NA/EU/APAC/ME with official registry links"
+    },
+    {
+      "name": "query_market",
+      "description": "Full-market RWA token list: mcap/TVL, 24h change, spot exchanges, three-level risk flag"
+    },
+    {
+      "name": "query_regulatory",
+      "description": "Global regulatory approval tracker from HKMA/SFC/SEC/EBA/BIS/FSA/ESMA/Federal Register"
+    }
+  ]
+}
